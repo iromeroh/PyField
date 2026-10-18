@@ -1,0 +1,57 @@
+site_name: PyField
+site_description: Structured, validated read/write access to Bethesda plugin files (Starfield first).
+site_url: https://iromeroh.github.io/pyfield/
+repo_url: https://github.com/iromeroh/pyfield
+repo_name: pyfield
+edit_uri: edit/main/docs/
+docs_dir: docs
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle: { icon: material/weather-night, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle: { icon: material/weather-sunny, name: Light mode }
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc: { permalink: true }
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Guide:
+      - SDK: api.md
+      - Examples: examples.md
+      - Writing adapters: adapters.md
+  - Starfield formats:
+      - FormIDs: formats/starfield-formids.md
+      - Placement: formats/starfield-placement.md
+      - Terrain: formats/starfield-terrain.md
+      - Planet locations and biome maps: formats/starfield-planet-locations.md
+      - Ship blueprints: formats/starfield-ship-blueprint.md
+      - Runtime layout (captures): formats/starfield-runtime-layout.md
+  - Design:
+      - Architecture: adr/0001-core-architecture.md
+      - Adapter protocol and API stability: adr/0002-adapter-protocol-and-api-stability.md
+      - Entity transplant and assets: design/entity-transplant-and-assets.md
+  - Project:
+      - Roadmap: ROADMAP.md
+      - Changelog: changelog.md
+      - Releasing: RELEASING.md
+      - Phase 0 baseline: phase0/baseline.md
+      - Capability matrix: phase0/capability-matrix.md
+
+not_in_nav: |
+  phase0/code-inventory.md
+  phase0/schema-inventory.md

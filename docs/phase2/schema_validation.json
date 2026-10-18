@@ -1,0 +1,10743 @@
+[
+ {
+  "file": "BlueprintShips-SFBGS050.esm",
+  "seconds": 3.69,
+  "members": {
+   "CELL": {
+    "records": 71
+   },
+   "CELL.cell_flags": {
+    "present": 71
+   },
+   "CELL.editor_id": {
+    "present": 71
+   },
+   "CELL.lighting_template": {
+    "present": 71
+   },
+   "CELL.location": {
+    "present": 66,
+    "links": 66
+   },
+   "CELL.water_height": {
+    "present": 71
+   },
+   "REFR": {
+    "records": 78004
+   },
+   "REFR.base": {
+    "present": 78004,
+    "links": 78004
+   },
+   "REFR.editor_id": {
+    "present": 48
+   },
+   "REFR.enable_parent": {
+    "present": 92,
+    "links": 92
+   },
+   "REFR.faction_rank": {
+    "present": 2452
+   },
+   "REFR.layer": {
+    "present": 2810,
+    "links": 2810
+   },
+   "REFR.linked_refs": {
+    "present": 22200,
+    "links": 41794
+   },
+   "REFR.linked_refs_transient": {
+    "present": 16875
+   },
+   "REFR.ownership": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR.placement": {
+    "present": 78004
+   },
+   "REFR.reference_group": {
+    "present": 4363,
+    "links": 4363
+   },
+   "REFR.scale": {
+    "present": 14973
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "BlueprintShips-Starfield.esm",
+  "seconds": 72.39,
+  "members": {
+   "ACHR": {
+    "records": 81
+   },
+   "ACHR.base": {
+    "present": 81,
+    "links": 81
+   },
+   "ACHR.enable_parent": {
+    "present": 36,
+    "links": 36
+   },
+   "ACHR.layer": {
+    "present": 68,
+    "links": 68
+   },
+   "ACHR.level_modifier": {
+    "present": 78
+   },
+   "ACHR.linked_refs": {
+    "present": 67,
+    "links": 82
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 44
+   },
+   "ACHR.placement": {
+    "present": 81
+   },
+   "CELL": {
+    "records": 779
+   },
+   "CELL.acoustic_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.cell_flags": {
+    "present": 779
+   },
+   "CELL.editor_id": {
+    "present": 779
+   },
+   "CELL.image_space": {
+    "present": 5,
+    "links": 5
+   },
+   "CELL.lighting_template": {
+    "present": 779,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 779,
+    "links": 779
+   },
+   "CELL.music": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.water_height": {
+    "present": 779
+   },
+   "REFR": {
+    "records": 1478203
+   },
+   "REFR.base": {
+    "present": 1478203,
+    "links": 1478203
+   },
+   "REFR.editor_id": {
+    "present": 3805
+   },
+   "REFR.enable_parent": {
+    "present": 2752,
+    "links": 2752
+   },
+   "REFR.faction_rank": {
+    "present": 14848
+   },
+   "REFR.layer": {
+    "present": 73925,
+    "links": 73925
+   },
+   "REFR.linked_refs": {
+    "present": 406954,
+    "links": 754604
+   },
+   "REFR.linked_refs_transient": {
+    "present": 234769
+   },
+   "REFR.ownership": {
+    "present": 76,
+    "links": 76
+   },
+   "REFR.placement": {
+    "present": 1478127
+   },
+   "REFR.reference_group": {
+    "present": 84190,
+    "links": 84190
+   },
+   "REFR.scale": {
+    "present": 328835
+   },
+   "REFR.source_pack_in": {
+    "present": 1335,
+    "links": 1335
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "Constellation.esm",
+  "seconds": 0.01,
+  "members": {
+   "COBJ": {
+    "records": 4
+   },
+   "COBJ.amount_produced": {
+    "present": 4
+   },
+   "COBJ.created_object": {
+    "present": 4,
+    "links": 4
+   },
+   "COBJ.description": {
+    "present": 4
+   },
+   "COBJ.editor_id": {
+    "present": 4
+   },
+   "COBJ.learn_method": {
+    "present": 4
+   },
+   "COBJ.menu_priority": {
+    "present": 4
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 4
+   },
+   "COBJ.value": {
+    "present": 4
+   },
+   "COBJ.workbench_keyword": {
+    "present": 4,
+    "links": 4
+   },
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   },
+   "KYWD": {
+    "records": 9
+   },
+   "KYWD.color": {
+    "present": 9
+   },
+   "KYWD.editor_id": {
+    "present": 9
+   },
+   "KYWD.keyword_type": {
+    "present": 9
+   },
+   "KYWD.unknown_fnam": {
+    "present": 9
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS003.esm",
+  "seconds": 2.29,
+  "members": {
+   "ACHR": {
+    "records": 46
+   },
+   "ACHR.base": {
+    "present": 46,
+    "links": 46
+   },
+   "ACHR.editor_id": {
+    "present": 1
+   },
+   "ACHR.layer": {
+    "present": 23,
+    "links": 23
+   },
+   "ACHR.level_modifier": {
+    "present": 42
+   },
+   "ACHR.linked_refs": {
+    "present": 35,
+    "links": 53
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 33
+   },
+   "ACHR.persist_location": {
+    "present": 44,
+    "links": 44
+   },
+   "ACHR.placement": {
+    "present": 46
+   },
+   "ACHR.reference_group": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL": {
+    "records": 98
+   },
+   "CELL.acoustic_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.cell_flags": {
+    "present": 93
+   },
+   "CELL.editor_id": {
+    "present": 75
+   },
+   "CELL.environment_map": {
+    "present": 6
+   },
+   "CELL.image_space": {
+    "present": 37,
+    "links": 37
+   },
+   "CELL.lighting_template": {
+    "present": 93,
+    "links": 7
+   },
+   "CELL.location": {
+    "present": 28,
+    "links": 28
+   },
+   "CELL.music": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.name": {
+    "present": 4
+   },
+   "CELL.water_height": {
+    "present": 93
+   },
+   "COBJ": {
+    "records": 14
+   },
+   "COBJ.amount_produced": {
+    "present": 14
+   },
+   "COBJ.created_object": {
+    "present": 14,
+    "links": 14
+   },
+   "COBJ.description": {
+    "present": 14
+   },
+   "COBJ.editor_id": {
+    "present": 14
+   },
+   "COBJ.learn_method": {
+    "present": 14
+   },
+   "COBJ.menu_priority": {
+    "present": 14
+   },
+   "COBJ.recipe_filters": {
+    "present": 14,
+    "links": 14
+   },
+   "COBJ.tier": {
+    "present": 14
+   },
+   "COBJ.value": {
+    "present": 14
+   },
+   "COBJ.workbench_keyword": {
+    "present": 14,
+    "links": 14
+   },
+   "CONT": {
+    "records": 4
+   },
+   "CONT.bounds": {
+    "present": 4
+   },
+   "CONT.dirtiness": {
+    "present": 4
+   },
+   "CONT.editor_id": {
+    "present": 4
+   },
+   "CONT.flags": {
+    "present": 4
+   },
+   "CONT.item_count": {
+    "present": 3
+   },
+   "CONT.items": {
+    "present": 9,
+    "links": 9
+   },
+   "CONT.keyword_count": {
+    "present": 4
+   },
+   "CONT.keywords": {
+    "present": 4,
+    "links": 6
+   },
+   "CONT.light_layer": {
+    "present": 4
+   },
+   "CONT.model": {
+    "present": 4
+   },
+   "CONT.name": {
+    "present": 4
+   },
+   "CONT.native_terminal": {
+    "present": 4,
+    "links": 4
+   },
+   "DIAL": {
+    "records": 1105
+   },
+   "DIAL.branch": {
+    "present": 4,
+    "links": 4
+   },
+   "DIAL.editor_id": {
+    "present": 3
+   },
+   "DIAL.info_count": {
+    "present": 1105
+   },
+   "DIAL.name": {
+    "present": 3
+   },
+   "DIAL.priority": {
+    "present": 1105
+   },
+   "DIAL.quest": {
+    "present": 1105,
+    "links": 1105
+   },
+   "FLST": {
+    "records": 23
+   },
+   "FLST.editor_id": {
+    "present": 23
+   },
+   "FLST.forms": {
+    "present": 1245,
+    "links": 1245
+   },
+   "FLST.name": {
+    "present": 12
+   },
+   "GLOB": {
+    "records": 109
+   },
+   "GLOB.editor_id": {
+    "present": 109
+   },
+   "GLOB.value": {
+    "present": 109
+   },
+   "KYWD": {
+    "records": 57
+   },
+   "KYWD.color": {
+    "present": 57
+   },
+   "KYWD.editor_id": {
+    "present": 57
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 57
+   },
+   "KYWD.name": {
+    "present": 3
+   },
+   "KYWD.notes": {
+    "present": 2
+   },
+   "KYWD.unknown_fnam": {
+    "present": 57
+   },
+   "MISC": {
+    "records": 10
+   },
+   "MISC.bounds": {
+    "present": 10
+   },
+   "MISC.data": {
+    "present": 10
+   },
+   "MISC.dirtiness": {
+    "present": 10
+   },
+   "MISC.editor_id": {
+    "present": 10
+   },
+   "MISC.keyword_count": {
+    "present": 10
+   },
+   "MISC.keywords": {
+    "present": 10,
+    "links": 22
+   },
+   "MISC.light_layer": {
+    "present": 10
+   },
+   "MISC.model": {
+    "present": 10
+   },
+   "MISC.name": {
+    "present": 4
+   },
+   "NPC_": {
+    "records": 88
+   },
+   "NPC_.bounds": {
+    "present": 88
+   },
+   "NPC_.class_": {
+    "present": 87,
+    "links": 87
+   },
+   "NPC_.default_template": {
+    "present": 49,
+    "links": 49
+   },
+   "NPC_.dirtiness": {
+    "present": 88
+   },
+   "NPC_.editor_id": {
+    "present": 88
+   },
+   "NPC_.keyword_count": {
+    "present": 48
+   },
+   "NPC_.keywords": {
+    "present": 48,
+    "links": 51
+   },
+   "NPC_.name": {
+    "present": 52
+   },
+   "NPC_.race": {
+    "present": 88,
+    "links": 88
+   },
+   "NPC_.voice": {
+    "present": 85,
+    "links": 85
+   },
+   "REFR": {
+    "records": 55531
+   },
+   "REFR.base": {
+    "present": 55531,
+    "links": 55531
+   },
+   "REFR.editor_id": {
+    "present": 124
+   },
+   "REFR.enable_parent": {
+    "present": 73,
+    "links": 73
+   },
+   "REFR.faction_rank": {
+    "present": 340
+   },
+   "REFR.layer": {
+    "present": 50880,
+    "links": 50880
+   },
+   "REFR.linked_refs": {
+    "present": 3062,
+    "links": 4768
+   },
+   "REFR.linked_refs_transient": {
+    "present": 2490
+   },
+   "REFR.ownership": {
+    "present": 68,
+    "links": 68
+   },
+   "REFR.persist_location": {
+    "present": 3,
+    "links": 3
+   },
+   "REFR.placement": {
+    "present": 55502
+   },
+   "REFR.reference_group": {
+    "present": 26984,
+    "links": 26984
+   },
+   "REFR.scale": {
+    "present": 24710
+   },
+   "REFR.source_pack_in": {
+    "present": 4,
+    "links": 4
+   },
+   "STAT": {
+    "records": 6
+   },
+   "STAT.bounds": {
+    "present": 6
+   },
+   "STAT.direction_material": {
+    "present": 6
+   },
+   "STAT.dirtiness": {
+    "present": 6
+   },
+   "STAT.editor_id": {
+    "present": 6
+   },
+   "STAT.light_layer": {
+    "present": 6
+   },
+   "STAT.model": {
+    "present": 6
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 2
+   },
+   "STAT.snap_template": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD": {
+    "records": 11
+   },
+   "WRLD.ambient_set": {
+    "present": 4,
+    "links": 4
+   },
+   "WRLD.biome": {
+    "present": 11,
+    "links": 11
+   },
+   "WRLD.climate": {
+    "present": 7,
+    "links": 7
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 11
+   },
+   "WRLD.editor_id": {
+    "present": 11
+   },
+   "WRLD.flags2": {
+    "present": 11
+   },
+   "WRLD.gravity_scale": {
+    "present": 11
+   },
+   "WRLD.location": {
+    "present": 11,
+    "links": 11
+   },
+   "WRLD.music": {
+    "present": 6,
+    "links": 6
+   },
+   "WRLD.name": {
+    "present": 11
+   },
+   "WRLD.water": {
+    "present": 6,
+    "links": 6
+   },
+   "WRLD.world_flags": {
+    "present": 11
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS004.esm",
+  "seconds": 0.0,
+  "members": {
+   "CELL": {
+    "records": 1
+   },
+   "CELL.cell_flags": {
+    "present": 1
+   },
+   "CELL.editor_id": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.lighting_template": {
+    "present": 1
+   },
+   "CELL.water_height": {
+    "present": 1
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL": {
+    "records": 13
+   },
+   "DIAL.info_count": {
+    "present": 13
+   },
+   "DIAL.priority": {
+    "present": 13
+   },
+   "DIAL.quest": {
+    "present": 13,
+    "links": 13
+   },
+   "FLST": {
+    "records": 6
+   },
+   "FLST.editor_id": {
+    "present": 6
+   },
+   "FLST.forms": {
+    "present": 161,
+    "links": 161
+   },
+   "FLST.name": {
+    "present": 2
+   },
+   "GLOB": {
+    "records": 1
+   },
+   "GLOB.editor_id": {
+    "present": 1
+   },
+   "GLOB.value": {
+    "present": 1
+   },
+   "KYWD": {
+    "records": 14
+   },
+   "KYWD.color": {
+    "present": 14
+   },
+   "KYWD.editor_id": {
+    "present": 14
+   },
+   "KYWD.flash_linkage": {
+    "present": 2
+   },
+   "KYWD.keyword_type": {
+    "present": 14
+   },
+   "KYWD.name": {
+    "present": 2
+   },
+   "KYWD.notes": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 14
+   },
+   "NPC_": {
+    "records": 1
+   },
+   "NPC_.bounds": {
+    "present": 1
+   },
+   "NPC_.class_": {
+    "present": 1,
+    "links": 1
+   },
+   "NPC_.dirtiness": {
+    "present": 1
+   },
+   "NPC_.editor_id": {
+    "present": 1
+   },
+   "NPC_.race": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR": {
+    "records": 5
+   },
+   "REFR.base": {
+    "present": 5,
+    "links": 5
+   },
+   "REFR.placement": {
+    "present": 5
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS006.esm",
+  "seconds": 2.11,
+  "members": {
+   "CELL": {
+    "records": 357
+   },
+   "CELL.cell_flags": {
+    "present": 357
+   },
+   "CELL.editor_id": {
+    "present": 357
+   },
+   "CELL.environment_map": {
+    "present": 94
+   },
+   "CELL.image_space": {
+    "present": 353,
+    "links": 353
+   },
+   "CELL.lighting_template": {
+    "present": 357
+   },
+   "CELL.water_height": {
+    "present": 357
+   },
+   "COBJ": {
+    "records": 8
+   },
+   "COBJ.amount_produced": {
+    "present": 8
+   },
+   "COBJ.created_object": {
+    "present": 8,
+    "links": 8
+   },
+   "COBJ.description": {
+    "present": 8
+   },
+   "COBJ.editor_id": {
+    "present": 8
+   },
+   "COBJ.learn_method": {
+    "present": 8
+   },
+   "COBJ.menu_priority": {
+    "present": 8
+   },
+   "COBJ.tier": {
+    "present": 8
+   },
+   "COBJ.value": {
+    "present": 8
+   },
+   "COBJ.workbench_keyword": {
+    "present": 8,
+    "links": 8
+   },
+   "FLST": {
+    "records": 47
+   },
+   "FLST.editor_id": {
+    "present": 47
+   },
+   "FLST.forms": {
+    "present": 180,
+    "links": 180
+   },
+   "FLST.name": {
+    "present": 1
+   },
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   },
+   "REFR": {
+    "records": 59472
+   },
+   "REFR.base": {
+    "present": 59472,
+    "links": 59472
+   },
+   "REFR.editor_id": {
+    "present": 167
+   },
+   "REFR.enable_parent": {
+    "present": 3,
+    "links": 3
+   },
+   "REFR.faction_rank": {
+    "present": 426
+   },
+   "REFR.layer": {
+    "present": 30884,
+    "links": 30884
+   },
+   "REFR.linked_refs": {
+    "present": 16124,
+    "links": 23850
+   },
+   "REFR.linked_refs_transient": {
+    "present": 10873
+   },
+   "REFR.placement": {
+    "present": 59472
+   },
+   "REFR.reference_group": {
+    "present": 8447,
+    "links": 8447
+   },
+   "REFR.scale": {
+    "present": 18550
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS007.esm",
+  "seconds": 0.0,
+  "members": {
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 4,
+    "links": 4
+   },
+   "GLOB": {
+    "records": 4
+   },
+   "GLOB.editor_id": {
+    "present": 4
+   },
+   "GLOB.value": {
+    "present": 4
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS008.esm",
+  "seconds": 0.08,
+  "members": {
+   "CELL": {
+    "records": 23
+   },
+   "CELL.acoustic_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.cell_flags": {
+    "present": 23
+   },
+   "CELL.editor_id": {
+    "present": 17
+   },
+   "CELL.environment_map": {
+    "present": 4
+   },
+   "CELL.image_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.lighting_template": {
+    "present": 23,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 16,
+    "links": 16
+   },
+   "CELL.music": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.name": {
+    "present": 4
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 23
+   },
+   "GLOB": {
+    "records": 1
+   },
+   "GLOB.editor_id": {
+    "present": 1
+   },
+   "GLOB.value": {
+    "present": 1
+   },
+   "REFR": {
+    "records": 133
+   },
+   "REFR.base": {
+    "present": 133,
+    "links": 133
+   },
+   "REFR.editor_id": {
+    "present": 127
+   },
+   "REFR.layer": {
+    "present": 133,
+    "links": 133
+   },
+   "REFR.linked_refs": {
+    "present": 56,
+    "links": 56
+   },
+   "REFR.linked_refs_transient": {
+    "present": 56
+   },
+   "REFR.placement": {
+    "present": 133
+   },
+   "STAT": {
+    "records": 3
+   },
+   "STAT.bounds": {
+    "present": 3
+   },
+   "STAT.direction_material": {
+    "present": 3
+   },
+   "STAT.dirtiness": {
+    "present": 3
+   },
+   "STAT.editor_id": {
+    "present": 3
+   },
+   "STAT.light_layer": {
+    "present": 3
+   },
+   "STAT.model": {
+    "present": 3
+   },
+   "WRLD": {
+    "records": 3
+   },
+   "WRLD.ambient_set": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.biome": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.climate": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 3
+   },
+   "WRLD.editor_id": {
+    "present": 3
+   },
+   "WRLD.flags2": {
+    "present": 3
+   },
+   "WRLD.gravity_scale": {
+    "present": 3
+   },
+   "WRLD.location": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.music": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.name": {
+    "present": 3
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 3
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS00D.esm",
+  "seconds": 27.26,
+  "members": {
+   "ACHR": {
+    "records": 646
+   },
+   "ACHR.base": {
+    "present": 646,
+    "links": 646
+   },
+   "ACHR.editor_id": {
+    "present": 29
+   },
+   "ACHR.enable_parent": {
+    "present": 119,
+    "links": 119
+   },
+   "ACHR.layer": {
+    "present": 431,
+    "links": 431
+   },
+   "ACHR.level_modifier": {
+    "present": 450
+   },
+   "ACHR.linked_refs": {
+    "present": 330,
+    "links": 560
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 205
+   },
+   "ACHR.persist_location": {
+    "present": 454,
+    "links": 454
+   },
+   "ACHR.placement": {
+    "present": 646
+   },
+   "ACHR.reference_group": {
+    "present": 10,
+    "links": 10
+   },
+   "ACHR.source_pack_in": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL": {
+    "records": 2037
+   },
+   "CELL.acoustic_space": {
+    "present": 9,
+    "links": 9
+   },
+   "CELL.cell_flags": {
+    "present": 2026
+   },
+   "CELL.editor_id": {
+    "present": 958
+   },
+   "CELL.environment_map": {
+    "present": 59
+   },
+   "CELL.image_space": {
+    "present": 850,
+    "links": 850
+   },
+   "CELL.lighting_template": {
+    "present": 2026,
+    "links": 71
+   },
+   "CELL.location": {
+    "present": 83,
+    "links": 83
+   },
+   "CELL.music": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.name": {
+    "present": 63
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.sky_region": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.water_height": {
+    "present": 2026
+   },
+   "COBJ": {
+    "records": 94
+   },
+   "COBJ.amount_produced": {
+    "present": 94
+   },
+   "COBJ.created_object": {
+    "present": 94,
+    "links": 90
+   },
+   "COBJ.description": {
+    "present": 94
+   },
+   "COBJ.editor_id": {
+    "present": 94
+   },
+   "COBJ.learn_method": {
+    "present": 94
+   },
+   "COBJ.max_build_count": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.menu_priority": {
+    "present": 94
+   },
+   "COBJ.recipe_filters": {
+    "present": 88,
+    "links": 88
+   },
+   "COBJ.tier": {
+    "present": 94
+   },
+   "COBJ.value": {
+    "present": 94
+   },
+   "COBJ.workbench_keyword": {
+    "present": 94,
+    "links": 90
+   },
+   "CONT": {
+    "records": 49
+   },
+   "CONT.bounds": {
+    "present": 49
+   },
+   "CONT.contains_only_filter": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT.dirtiness": {
+    "present": 49
+   },
+   "CONT.editor_id": {
+    "present": 49
+   },
+   "CONT.flags": {
+    "present": 49
+   },
+   "CONT.item_count": {
+    "present": 40
+   },
+   "CONT.items": {
+    "present": 108,
+    "links": 108
+   },
+   "CONT.keyword_count": {
+    "present": 28
+   },
+   "CONT.keywords": {
+    "present": 28,
+    "links": 43
+   },
+   "CONT.light_layer": {
+    "present": 49
+   },
+   "CONT.model": {
+    "present": 49
+   },
+   "CONT.name": {
+    "present": 49
+   },
+   "CONT.native_terminal": {
+    "present": 47,
+    "links": 47
+   },
+   "DIAL": {
+    "records": 4189
+   },
+   "DIAL.branch": {
+    "present": 32,
+    "links": 32
+   },
+   "DIAL.info_count": {
+    "present": 4189
+   },
+   "DIAL.keyword": {
+    "present": 22,
+    "links": 22
+   },
+   "DIAL.priority": {
+    "present": 4189
+   },
+   "DIAL.quest": {
+    "present": 4189,
+    "links": 4189
+   },
+   "FLST": {
+    "records": 67
+   },
+   "FLST.editor_id": {
+    "present": 67
+   },
+   "FLST.forms": {
+    "present": 631,
+    "links": 631
+   },
+   "FLST.name": {
+    "present": 6
+   },
+   "GLOB": {
+    "records": 209
+   },
+   "GLOB.editor_id": {
+    "present": 209
+   },
+   "GLOB.value": {
+    "present": 209
+   },
+   "KYWD": {
+    "records": 248
+   },
+   "KYWD.color": {
+    "present": 248
+   },
+   "KYWD.editor_id": {
+    "present": 246
+   },
+   "KYWD.keyword_type": {
+    "present": 248
+   },
+   "KYWD.name": {
+    "present": 32
+   },
+   "KYWD.notes": {
+    "present": 43
+   },
+   "KYWD.unknown_fnam": {
+    "present": 248
+   },
+   "MISC": {
+    "records": 94
+   },
+   "MISC.bounds": {
+    "present": 94
+   },
+   "MISC.data": {
+    "present": 94
+   },
+   "MISC.dirtiness": {
+    "present": 94
+   },
+   "MISC.editor_id": {
+    "present": 94
+   },
+   "MISC.flags": {
+    "present": 6
+   },
+   "MISC.keyword_count": {
+    "present": 78
+   },
+   "MISC.keywords": {
+    "present": 78,
+    "links": 236
+   },
+   "MISC.light_layer": {
+    "present": 94
+   },
+   "MISC.model": {
+    "present": 94
+   },
+   "MISC.name": {
+    "present": 94
+   },
+   "MISC.short_name": {
+    "present": 1
+   },
+   "NPC_": {
+    "records": 162
+   },
+   "NPC_.bounds": {
+    "present": 162
+   },
+   "NPC_.class_": {
+    "present": 154,
+    "links": 154
+   },
+   "NPC_.default_template": {
+    "present": 66,
+    "links": 66
+   },
+   "NPC_.dirtiness": {
+    "present": 162
+   },
+   "NPC_.editor_id": {
+    "present": 162
+   },
+   "NPC_.keyword_count": {
+    "present": 30
+   },
+   "NPC_.keywords": {
+    "present": 30,
+    "links": 79
+   },
+   "NPC_.name": {
+    "present": 108
+   },
+   "NPC_.race": {
+    "present": 162,
+    "links": 162
+   },
+   "NPC_.voice": {
+    "present": 132,
+    "links": 132
+   },
+   "REFR": {
+    "records": 392305
+   },
+   "REFR.base": {
+    "present": 392305,
+    "links": 392305
+   },
+   "REFR.editor_id": {
+    "present": 1692
+   },
+   "REFR.enable_parent": {
+    "present": 1789,
+    "links": 1789
+   },
+   "REFR.faction_rank": {
+    "present": 2392
+   },
+   "REFR.layer": {
+    "present": 238545,
+    "links": 238545
+   },
+   "REFR.linked_refs": {
+    "present": 20459,
+    "links": 28499
+   },
+   "REFR.linked_refs_transient": {
+    "present": 16053
+   },
+   "REFR.ownership": {
+    "present": 1340,
+    "links": 1340
+   },
+   "REFR.persist_location": {
+    "present": 5,
+    "links": 5
+   },
+   "REFR.placement": {
+    "present": 392302
+   },
+   "REFR.reference_group": {
+    "present": 88766,
+    "links": 88766
+   },
+   "REFR.scale": {
+    "present": 131939
+   },
+   "REFR.source_pack_in": {
+    "present": 2736,
+    "links": 2736
+   },
+   "STAT": {
+    "records": 134
+   },
+   "STAT.bounds": {
+    "present": 134
+   },
+   "STAT.default_layer": {
+    "present": 4,
+    "links": 4
+   },
+   "STAT.direction_material": {
+    "present": 134
+   },
+   "STAT.dirtiness": {
+    "present": 134
+   },
+   "STAT.editor_id": {
+    "present": 134
+   },
+   "STAT.light_layer": {
+    "present": 134
+   },
+   "STAT.model": {
+    "present": 134
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 4
+   },
+   "STAT.snap_template": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD": {
+    "records": 57
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 55
+   },
+   "WRLD.editor_id": {
+    "present": 57
+   },
+   "WRLD.flags2": {
+    "present": 55
+   },
+   "WRLD.gravity_scale": {
+    "present": 55
+   },
+   "WRLD.location": {
+    "present": 34,
+    "links": 34
+   },
+   "WRLD.music": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.name": {
+    "present": 55
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 55
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS047.esm",
+  "seconds": 0.02,
+  "members": {
+   "CELL": {
+    "records": 2
+   },
+   "CELL.cell_flags": {
+    "present": 2
+   },
+   "CELL.editor_id": {
+    "present": 2
+   },
+   "CELL.environment_map": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.lighting_template": {
+    "present": 2
+   },
+   "CELL.water_height": {
+    "present": 2
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST.name": {
+    "present": 1
+   },
+   "KYWD": {
+    "records": 3
+   },
+   "KYWD.color": {
+    "present": 3
+   },
+   "KYWD.editor_id": {
+    "present": 3
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 3
+   },
+   "KYWD.unknown_fnam": {
+    "present": 3
+   },
+   "REFR": {
+    "records": 6
+   },
+   "REFR.base": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR.layer": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.placement": {
+    "present": 6
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "SFBGS050.esm",
+  "seconds": 32.4,
+  "members": {
+   "ACHR": {
+    "records": 877
+   },
+   "ACHR.base": {
+    "present": 877,
+    "links": 877
+   },
+   "ACHR.editor_id": {
+    "present": 15
+   },
+   "ACHR.enable_parent": {
+    "present": 163,
+    "links": 163
+   },
+   "ACHR.layer": {
+    "present": 548,
+    "links": 548
+   },
+   "ACHR.level_modifier": {
+    "present": 565
+   },
+   "ACHR.linked_refs": {
+    "present": 763,
+    "links": 1454
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 454
+   },
+   "ACHR.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.persist_location": {
+    "present": 815,
+    "links": 815
+   },
+   "ACHR.placement": {
+    "present": 872
+   },
+   "ACHR.reference_group": {
+    "present": 27,
+    "links": 27
+   },
+   "ACHR.scale": {
+    "present": 2
+   },
+   "CELL": {
+    "records": 1313
+   },
+   "CELL.acoustic_space": {
+    "present": 17,
+    "links": 17
+   },
+   "CELL.cell_flags": {
+    "present": 1291
+   },
+   "CELL.editor_id": {
+    "present": 939
+   },
+   "CELL.environment_map": {
+    "present": 119
+   },
+   "CELL.image_space": {
+    "present": 803,
+    "links": 803
+   },
+   "CELL.lighting_template": {
+    "present": 1291,
+    "links": 64
+   },
+   "CELL.location": {
+    "present": 62,
+    "links": 62
+   },
+   "CELL.music": {
+    "present": 16,
+    "links": 16
+   },
+   "CELL.name": {
+    "present": 46
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.sky_region": {
+    "present": 7,
+    "links": 7
+   },
+   "CELL.water_height": {
+    "present": 1291
+   },
+   "COBJ": {
+    "records": 262
+   },
+   "COBJ.amount_produced": {
+    "present": 262
+   },
+   "COBJ.created_object": {
+    "present": 262,
+    "links": 261
+   },
+   "COBJ.description": {
+    "present": 262
+   },
+   "COBJ.editor_id": {
+    "present": 262
+   },
+   "COBJ.learn_method": {
+    "present": 262
+   },
+   "COBJ.menu_priority": {
+    "present": 262
+   },
+   "COBJ.recipe_filters": {
+    "present": 243,
+    "links": 243
+   },
+   "COBJ.tier": {
+    "present": 262
+   },
+   "COBJ.value": {
+    "present": 262
+   },
+   "COBJ.workbench_keyword": {
+    "present": 262,
+    "links": 262
+   },
+   "CONT": {
+    "records": 37
+   },
+   "CONT.bounds": {
+    "present": 37
+   },
+   "CONT.contains_only_filter": {
+    "present": 15,
+    "links": 15
+   },
+   "CONT.dirtiness": {
+    "present": 37
+   },
+   "CONT.editor_id": {
+    "present": 37
+   },
+   "CONT.flags": {
+    "present": 37
+   },
+   "CONT.item_count": {
+    "present": 27
+   },
+   "CONT.items": {
+    "present": 51,
+    "links": 51
+   },
+   "CONT.keyword_count": {
+    "present": 24
+   },
+   "CONT.keywords": {
+    "present": 24,
+    "links": 63
+   },
+   "CONT.light_layer": {
+    "present": 37
+   },
+   "CONT.model": {
+    "present": 37
+   },
+   "CONT.name": {
+    "present": 37
+   },
+   "CONT.native_terminal": {
+    "present": 27,
+    "links": 27
+   },
+   "DIAL": {
+    "records": 3580
+   },
+   "DIAL.branch": {
+    "present": 67,
+    "links": 67
+   },
+   "DIAL.info_count": {
+    "present": 3580
+   },
+   "DIAL.keyword": {
+    "present": 5,
+    "links": 5
+   },
+   "DIAL.priority": {
+    "present": 3580
+   },
+   "DIAL.quest": {
+    "present": 3580,
+    "links": 3580
+   },
+   "FLST": {
+    "records": 69
+   },
+   "FLST.editor_id": {
+    "present": 69
+   },
+   "FLST.forms": {
+    "present": 359,
+    "links": 359
+   },
+   "FLST.name": {
+    "present": 41
+   },
+   "GLOB": {
+    "records": 126
+   },
+   "GLOB.editor_id": {
+    "present": 126
+   },
+   "GLOB.value": {
+    "present": 126
+   },
+   "KYWD": {
+    "records": 241
+   },
+   "KYWD.color": {
+    "present": 241
+   },
+   "KYWD.editor_id": {
+    "present": 241
+   },
+   "KYWD.flash_linkage": {
+    "present": 12
+   },
+   "KYWD.keyword_type": {
+    "present": 241
+   },
+   "KYWD.name": {
+    "present": 8
+   },
+   "KYWD.notes": {
+    "present": 9
+   },
+   "KYWD.unknown_fnam": {
+    "present": 241
+   },
+   "MISC": {
+    "records": 26
+   },
+   "MISC.bounds": {
+    "present": 26
+   },
+   "MISC.data": {
+    "present": 26
+   },
+   "MISC.dirtiness": {
+    "present": 26
+   },
+   "MISC.editor_id": {
+    "present": 26
+   },
+   "MISC.flags": {
+    "present": 16
+   },
+   "MISC.keyword_count": {
+    "present": 12
+   },
+   "MISC.keywords": {
+    "present": 12,
+    "links": 17
+   },
+   "MISC.light_layer": {
+    "present": 26
+   },
+   "MISC.model": {
+    "present": 26
+   },
+   "MISC.name": {
+    "present": 24
+   },
+   "NPC_": {
+    "records": 386
+   },
+   "NPC_.bounds": {
+    "present": 386
+   },
+   "NPC_.class_": {
+    "present": 314,
+    "links": 314
+   },
+   "NPC_.default_template": {
+    "present": 258,
+    "links": 258
+   },
+   "NPC_.dirtiness": {
+    "present": 386
+   },
+   "NPC_.editor_id": {
+    "present": 386
+   },
+   "NPC_.keyword_count": {
+    "present": 31
+   },
+   "NPC_.keywords": {
+    "present": 31,
+    "links": 62
+   },
+   "NPC_.name": {
+    "present": 93
+   },
+   "NPC_.race": {
+    "present": 386,
+    "links": 386
+   },
+   "NPC_.voice": {
+    "present": 359,
+    "links": 359
+   },
+   "REFR": {
+    "records": 445596
+   },
+   "REFR.base": {
+    "present": 445596,
+    "links": 445596
+   },
+   "REFR.editor_id": {
+    "present": 929
+   },
+   "REFR.enable_parent": {
+    "present": 13718,
+    "links": 13718
+   },
+   "REFR.faction_rank": {
+    "present": 7595
+   },
+   "REFR.layer": {
+    "present": 265473,
+    "links": 265473
+   },
+   "REFR.linked_refs": {
+    "present": 17448,
+    "links": 20371
+   },
+   "REFR.linked_refs_transient": {
+    "present": 16682
+   },
+   "REFR.ownership": {
+    "present": 384,
+    "links": 384
+   },
+   "REFR.persist_location": {
+    "present": 11,
+    "links": 11
+   },
+   "REFR.placement": {
+    "present": 439875
+   },
+   "REFR.reference_group": {
+    "present": 146482,
+    "links": 146482
+   },
+   "REFR.scale": {
+    "present": 204849
+   },
+   "REFR.source_pack_in": {
+    "present": 2727,
+    "links": 2727
+   },
+   "STAT": {
+    "records": 255
+   },
+   "STAT.bounds": {
+    "present": 255
+   },
+   "STAT.default_layer": {
+    "present": 9,
+    "links": 9
+   },
+   "STAT.direction_material": {
+    "present": 255
+   },
+   "STAT.dirtiness": {
+    "present": 255
+   },
+   "STAT.editor_id": {
+    "present": 255
+   },
+   "STAT.light_layer": {
+    "present": 255
+   },
+   "STAT.model": {
+    "present": 255
+   },
+   "STAT.model_flags": {
+    "present": 33
+   },
+   "STAT.name": {
+    "present": 28
+   },
+   "STAT.snap_behavior": {
+    "present": 26,
+    "links": 26
+   },
+   "STAT.snap_template": {
+    "present": 14,
+    "links": 14
+   },
+   "WRLD": {
+    "records": 36
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 24
+   },
+   "WRLD.editor_id": {
+    "present": 36
+   },
+   "WRLD.flags2": {
+    "present": 24
+   },
+   "WRLD.gravity_scale": {
+    "present": 24
+   },
+   "WRLD.location": {
+    "present": 23,
+    "links": 23
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 24
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 24
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "ScreenSFSE.esm",
+  "seconds": 0.0,
+  "members": {
+   "COBJ": {
+    "records": 2
+   },
+   "COBJ.amount_produced": {
+    "present": 2
+   },
+   "COBJ.created_object": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.description": {
+    "present": 2
+   },
+   "COBJ.editor_id": {
+    "present": 2
+   },
+   "COBJ.learn_method": {
+    "present": 2
+   },
+   "COBJ.menu_priority": {
+    "present": 2
+   },
+   "COBJ.recipe_filters": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.tier": {
+    "present": 2
+   },
+   "COBJ.value": {
+    "present": 2
+   },
+   "COBJ.workbench_keyword": {
+    "present": 2,
+    "links": 2
+   },
+   "FLST": {
+    "records": 2
+   },
+   "FLST.editor_id": {
+    "present": 2
+   },
+   "FLST.forms": {
+    "present": 8,
+    "links": 8
+   },
+   "FLST.name": {
+    "present": 2
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "ShatteredSpace.esm",
+  "seconds": 36.18,
+  "members": {
+   "ACHR": {
+    "records": 3551
+   },
+   "ACHR.base": {
+    "present": 3551,
+    "links": 3551
+   },
+   "ACHR.editor_id": {
+    "present": 103
+   },
+   "ACHR.enable_parent": {
+    "present": 370,
+    "links": 370
+   },
+   "ACHR.faction_rank": {
+    "present": 6
+   },
+   "ACHR.layer": {
+    "present": 1651,
+    "links": 1651
+   },
+   "ACHR.level_modifier": {
+    "present": 3050
+   },
+   "ACHR.linked_refs": {
+    "present": 2880,
+    "links": 5358
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 1305
+   },
+   "ACHR.ownership": {
+    "present": 5,
+    "links": 5
+   },
+   "ACHR.persist_location": {
+    "present": 2410,
+    "links": 2410
+   },
+   "ACHR.placement": {
+    "present": 3551
+   },
+   "ACHR.reference_group": {
+    "present": 65,
+    "links": 65
+   },
+   "CELL": {
+    "records": 4853
+   },
+   "CELL.acoustic_space": {
+    "present": 41,
+    "links": 41
+   },
+   "CELL.cell_flags": {
+    "present": 4852
+   },
+   "CELL.editor_id": {
+    "present": 2297
+   },
+   "CELL.environment_map": {
+    "present": 123
+   },
+   "CELL.image_space": {
+    "present": 2040,
+    "links": 2040
+   },
+   "CELL.lighting_template": {
+    "present": 4852,
+    "links": 62
+   },
+   "CELL.location": {
+    "present": 232,
+    "links": 232
+   },
+   "CELL.music": {
+    "present": 41,
+    "links": 41
+   },
+   "CELL.name": {
+    "present": 58
+   },
+   "CELL.ownership": {
+    "present": 5,
+    "links": 5
+   },
+   "CELL.water_height": {
+    "present": 4852
+   },
+   "COBJ": {
+    "records": 122
+   },
+   "COBJ.amount_produced": {
+    "present": 122
+   },
+   "COBJ.created_object": {
+    "present": 122,
+    "links": 122
+   },
+   "COBJ.description": {
+    "present": 122
+   },
+   "COBJ.editor_id": {
+    "present": 122
+   },
+   "COBJ.learn_method": {
+    "present": 122
+   },
+   "COBJ.menu_priority": {
+    "present": 122
+   },
+   "COBJ.recipe_filters": {
+    "present": 121,
+    "links": 121
+   },
+   "COBJ.tier": {
+    "present": 122
+   },
+   "COBJ.value": {
+    "present": 122
+   },
+   "COBJ.workbench_keyword": {
+    "present": 122,
+    "links": 122
+   },
+   "CONT": {
+    "records": 69
+   },
+   "CONT.bounds": {
+    "present": 69
+   },
+   "CONT.contains_only_filter": {
+    "present": 20,
+    "links": 20
+   },
+   "CONT.dirtiness": {
+    "present": 69
+   },
+   "CONT.editor_id": {
+    "present": 69
+   },
+   "CONT.flags": {
+    "present": 69
+   },
+   "CONT.item_count": {
+    "present": 61
+   },
+   "CONT.items": {
+    "present": 110,
+    "links": 110
+   },
+   "CONT.keyword_count": {
+    "present": 48
+   },
+   "CONT.keywords": {
+    "present": 48,
+    "links": 79
+   },
+   "CONT.light_layer": {
+    "present": 69
+   },
+   "CONT.model": {
+    "present": 69
+   },
+   "CONT.name": {
+    "present": 67
+   },
+   "CONT.native_terminal": {
+    "present": 53,
+    "links": 53
+   },
+   "DIAL": {
+    "records": 9990
+   },
+   "DIAL.branch": {
+    "present": 324,
+    "links": 324
+   },
+   "DIAL.editor_id": {
+    "present": 1
+   },
+   "DIAL.info_count": {
+    "present": 9990
+   },
+   "DIAL.keyword": {
+    "present": 26,
+    "links": 26
+   },
+   "DIAL.name": {
+    "present": 1
+   },
+   "DIAL.priority": {
+    "present": 9990
+   },
+   "DIAL.quest": {
+    "present": 9990,
+    "links": 9990
+   },
+   "FLST": {
+    "records": 59
+   },
+   "FLST.editor_id": {
+    "present": 59
+   },
+   "FLST.forms": {
+    "present": 403,
+    "links": 403
+   },
+   "FLST.name": {
+    "present": 7
+   },
+   "GLOB": {
+    "records": 188
+   },
+   "GLOB.editor_id": {
+    "present": 188
+   },
+   "GLOB.value": {
+    "present": 188
+   },
+   "KYWD": {
+    "records": 456
+   },
+   "KYWD.color": {
+    "present": 456
+   },
+   "KYWD.editor_id": {
+    "present": 456
+   },
+   "KYWD.flash_linkage": {
+    "present": 7
+   },
+   "KYWD.keyword_type": {
+    "present": 456
+   },
+   "KYWD.name": {
+    "present": 12
+   },
+   "KYWD.notes": {
+    "present": 7
+   },
+   "KYWD.unknown_fnam": {
+    "present": 456
+   },
+   "MISC": {
+    "records": 46
+   },
+   "MISC.bounds": {
+    "present": 46
+   },
+   "MISC.data": {
+    "present": 46
+   },
+   "MISC.dirtiness": {
+    "present": 46
+   },
+   "MISC.editor_id": {
+    "present": 44
+   },
+   "MISC.flags": {
+    "present": 5
+   },
+   "MISC.keyword_count": {
+    "present": 18
+   },
+   "MISC.keywords": {
+    "present": 18,
+    "links": 47
+   },
+   "MISC.light_layer": {
+    "present": 46
+   },
+   "MISC.model": {
+    "present": 46
+   },
+   "MISC.name": {
+    "present": 45
+   },
+   "NPC_": {
+    "records": 679
+   },
+   "NPC_.bounds": {
+    "present": 679
+   },
+   "NPC_.class_": {
+    "present": 673,
+    "links": 673
+   },
+   "NPC_.default_template": {
+    "present": 390,
+    "links": 390
+   },
+   "NPC_.dirtiness": {
+    "present": 679
+   },
+   "NPC_.editor_id": {
+    "present": 679
+   },
+   "NPC_.keyword_count": {
+    "present": 157
+   },
+   "NPC_.keywords": {
+    "present": 157,
+    "links": 460
+   },
+   "NPC_.name": {
+    "present": 404
+   },
+   "NPC_.race": {
+    "present": 679,
+    "links": 679
+   },
+   "NPC_.voice": {
+    "present": 562,
+    "links": 562
+   },
+   "REFR": {
+    "records": 918610
+   },
+   "REFR.base": {
+    "present": 918610,
+    "links": 918610
+   },
+   "REFR.editor_id": {
+    "present": 7110
+   },
+   "REFR.enable_parent": {
+    "present": 17641,
+    "links": 17641
+   },
+   "REFR.faction_rank": {
+    "present": 7906
+   },
+   "REFR.layer": {
+    "present": 507852,
+    "links": 507852
+   },
+   "REFR.linked_refs": {
+    "present": 27807,
+    "links": 31467
+   },
+   "REFR.linked_refs_transient": {
+    "present": 26147
+   },
+   "REFR.ownership": {
+    "present": 4388,
+    "links": 4388
+   },
+   "REFR.persist_location": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.placement": {
+    "present": 918608
+   },
+   "REFR.reference_group": {
+    "present": 190715,
+    "links": 190715
+   },
+   "REFR.scale": {
+    "present": 483249
+   },
+   "REFR.source_pack_in": {
+    "present": 2884,
+    "links": 2884
+   },
+   "STAT": {
+    "records": 1291
+   },
+   "STAT.bounds": {
+    "present": 1291
+   },
+   "STAT.default_layer": {
+    "present": 7,
+    "links": 7
+   },
+   "STAT.direction_material": {
+    "present": 1291
+   },
+   "STAT.dirtiness": {
+    "present": 1291
+   },
+   "STAT.editor_id": {
+    "present": 1287
+   },
+   "STAT.light_layer": {
+    "present": 1291
+   },
+   "STAT.model": {
+    "present": 1291
+   },
+   "STAT.model_flags": {
+    "present": 20
+   },
+   "STAT.name": {
+    "present": 6
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 42
+   },
+   "WRLD.biome": {
+    "present": 13,
+    "links": 13
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 42
+   },
+   "WRLD.editor_id": {
+    "present": 42
+   },
+   "WRLD.flags2": {
+    "present": 42
+   },
+   "WRLD.gravity_scale": {
+    "present": 42
+   },
+   "WRLD.location": {
+    "present": 33,
+    "links": 33
+   },
+   "WRLD.name": {
+    "present": 40
+   },
+   "WRLD.water": {
+    "present": 7,
+    "links": 7
+   },
+   "WRLD.world_flags": {
+    "present": 42
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "Starfield.esm",
+  "seconds": 134.9,
+  "members": {
+   "ACHR": {
+    "records": 9530
+   },
+   "ACHR.base": {
+    "present": 9530,
+    "links": 9530
+   },
+   "ACHR.editor_id": {
+    "present": 728
+   },
+   "ACHR.enable_parent": {
+    "present": 1225,
+    "links": 1225
+   },
+   "ACHR.faction_rank": {
+    "present": 9
+   },
+   "ACHR.layer": {
+    "present": 4234,
+    "links": 4234
+   },
+   "ACHR.level_modifier": {
+    "present": 6166
+   },
+   "ACHR.linked_refs": {
+    "present": 7488,
+    "links": 12790
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 1494
+   },
+   "ACHR.ownership": {
+    "present": 75,
+    "links": 75
+   },
+   "ACHR.persist_location": {
+    "present": 7225,
+    "links": 7225
+   },
+   "ACHR.placement": {
+    "present": 9530
+   },
+   "ACHR.reference_group": {
+    "present": 30,
+    "links": 30
+   },
+   "ACHR.scale": {
+    "present": 58
+   },
+   "ACHR.source_pack_in": {
+    "present": 717,
+    "links": 717
+   },
+   "CELL": {
+    "records": 30717
+   },
+   "CELL.acoustic_space": {
+    "present": 265,
+    "links": 265
+   },
+   "CELL.cell_flags": {
+    "present": 30717
+   },
+   "CELL.editor_id": {
+    "present": 13358
+   },
+   "CELL.environment_map": {
+    "present": 812
+   },
+   "CELL.image_space": {
+    "present": 11069,
+    "links": 11069
+   },
+   "CELL.lighting_template": {
+    "present": 30717,
+    "links": 741
+   },
+   "CELL.location": {
+    "present": 734,
+    "links": 734
+   },
+   "CELL.music": {
+    "present": 257,
+    "links": 257
+   },
+   "CELL.name": {
+    "present": 421
+   },
+   "CELL.ownership": {
+    "present": 65,
+    "links": 65
+   },
+   "CELL.sky_region": {
+    "present": 36,
+    "links": 36
+   },
+   "CELL.water_height": {
+    "present": 30717
+   },
+   "COBJ": {
+    "records": 3009
+   },
+   "COBJ.amount_produced": {
+    "present": 3009
+   },
+   "COBJ.created_object": {
+    "present": 3009,
+    "links": 2820
+   },
+   "COBJ.description": {
+    "present": 3009
+   },
+   "COBJ.editor_id": {
+    "present": 3009
+   },
+   "COBJ.learn_method": {
+    "present": 3009
+   },
+   "COBJ.max_build_count": {
+    "present": 51,
+    "links": 51
+   },
+   "COBJ.menu_art_object": {
+    "present": 7,
+    "links": 7
+   },
+   "COBJ.menu_priority": {
+    "present": 3009
+   },
+   "COBJ.recipe_filters": {
+    "present": 2232,
+    "links": 2232
+   },
+   "COBJ.tier": {
+    "present": 3009
+   },
+   "COBJ.value": {
+    "present": 3009
+   },
+   "COBJ.workbench_keyword": {
+    "present": 3009,
+    "links": 2526
+   },
+   "CONT": {
+    "records": 707
+   },
+   "CONT.bounds": {
+    "present": 707
+   },
+   "CONT.contains_only_filter": {
+    "present": 191,
+    "links": 191
+   },
+   "CONT.dirtiness": {
+    "present": 707
+   },
+   "CONT.editor_id": {
+    "present": 706
+   },
+   "CONT.flags": {
+    "present": 707
+   },
+   "CONT.item_count": {
+    "present": 546
+   },
+   "CONT.items": {
+    "present": 760,
+    "links": 760
+   },
+   "CONT.keyword_count": {
+    "present": 618
+   },
+   "CONT.keywords": {
+    "present": 618,
+    "links": 1864
+   },
+   "CONT.light_layer": {
+    "present": 707
+   },
+   "CONT.model": {
+    "present": 707
+   },
+   "CONT.name": {
+    "present": 695
+   },
+   "CONT.native_terminal": {
+    "present": 653,
+    "links": 653
+   },
+   "DIAL": {
+    "records": 68154
+   },
+   "DIAL.branch": {
+    "present": 1998,
+    "links": 1998
+   },
+   "DIAL.editor_id": {
+    "present": 261
+   },
+   "DIAL.info_count": {
+    "present": 68154
+   },
+   "DIAL.keyword": {
+    "present": 295,
+    "links": 295
+   },
+   "DIAL.name": {
+    "present": 297
+   },
+   "DIAL.priority": {
+    "present": 68154
+   },
+   "DIAL.quest": {
+    "present": 68154,
+    "links": 68154
+   },
+   "FLST": {
+    "records": 1142
+   },
+   "FLST.editor_id": {
+    "present": 1142
+   },
+   "FLST.forms": {
+    "present": 7783,
+    "links": 7783
+   },
+   "FLST.name": {
+    "present": 653
+   },
+   "GLOB": {
+    "records": 2677
+   },
+   "GLOB.editor_id": {
+    "present": 2674
+   },
+   "GLOB.value": {
+    "present": 2677
+   },
+   "KYWD": {
+    "records": 5931
+   },
+   "KYWD.attraction_rule": {
+    "present": 14,
+    "links": 14
+   },
+   "KYWD.color": {
+    "present": 5931
+   },
+   "KYWD.editor_id": {
+    "present": 5930
+   },
+   "KYWD.flash_linkage": {
+    "present": 239
+   },
+   "KYWD.keyword_type": {
+    "present": 5931
+   },
+   "KYWD.name": {
+    "present": 1225
+   },
+   "KYWD.notes": {
+    "present": 395
+   },
+   "KYWD.unknown_fnam": {
+    "present": 5931
+   },
+   "MISC": {
+    "records": 1319
+   },
+   "MISC.bounds": {
+    "present": 1319
+   },
+   "MISC.data": {
+    "present": 1319
+   },
+   "MISC.dirtiness": {
+    "present": 1319
+   },
+   "MISC.editor_id": {
+    "present": 1319
+   },
+   "MISC.flags": {
+    "present": 866
+   },
+   "MISC.keyword_count": {
+    "present": 1197
+   },
+   "MISC.keywords": {
+    "present": 1197,
+    "links": 3403
+   },
+   "MISC.light_layer": {
+    "present": 1319
+   },
+   "MISC.model": {
+    "present": 1319
+   },
+   "MISC.name": {
+    "present": 1318
+   },
+   "MISC.short_name": {
+    "present": 51
+   },
+   "NPC_": {
+    "records": 7131
+   },
+   "NPC_.bounds": {
+    "present": 7131
+   },
+   "NPC_.class_": {
+    "present": 6457,
+    "links": 6457
+   },
+   "NPC_.default_template": {
+    "present": 3986,
+    "links": 3986
+   },
+   "NPC_.dirtiness": {
+    "present": 7131
+   },
+   "NPC_.editor_id": {
+    "present": 7130
+   },
+   "NPC_.keyword_count": {
+    "present": 2492
+   },
+   "NPC_.keywords": {
+    "present": 2492,
+    "links": 5198
+   },
+   "NPC_.name": {
+    "present": 2603
+   },
+   "NPC_.race": {
+    "present": 7131,
+    "links": 7131
+   },
+   "NPC_.voice": {
+    "present": 5289,
+    "links": 5289
+   },
+   "REFR": {
+    "records": 3291860
+   },
+   "REFR.base": {
+    "present": 3291860,
+    "links": 3291860
+   },
+   "REFR.editor_id": {
+    "present": 18132
+   },
+   "REFR.enable_parent": {
+    "present": 83980,
+    "links": 83980
+   },
+   "REFR.faction_rank": {
+    "present": 10378
+   },
+   "REFR.layer": {
+    "present": 2181529,
+    "links": 2181529
+   },
+   "REFR.linked_refs": {
+    "present": 159759,
+    "links": 243468
+   },
+   "REFR.linked_refs_transient": {
+    "present": 117294
+   },
+   "REFR.ownership": {
+    "present": 35412,
+    "links": 35412
+   },
+   "REFR.persist_location": {
+    "present": 118,
+    "links": 118
+   },
+   "REFR.placement": {
+    "present": 3291844
+   },
+   "REFR.reference_group": {
+    "present": 788364,
+    "links": 788364
+   },
+   "REFR.scale": {
+    "present": 1070914
+   },
+   "REFR.source_pack_in": {
+    "present": 267507,
+    "links": 267507
+   },
+   "STAT": {
+    "records": 20607
+   },
+   "STAT.bounds": {
+    "present": 20607
+   },
+   "STAT.default_layer": {
+    "present": 223,
+    "links": 223
+   },
+   "STAT.direction_material": {
+    "present": 20607
+   },
+   "STAT.dirtiness": {
+    "present": 20607
+   },
+   "STAT.editor_id": {
+    "present": 20607
+   },
+   "STAT.light_layer": {
+    "present": 20607
+   },
+   "STAT.model": {
+    "present": 20592
+   },
+   "STAT.model_flags": {
+    "present": 209
+   },
+   "STAT.name": {
+    "present": 562
+   },
+   "STAT.snap_behavior": {
+    "present": 113,
+    "links": 113
+   },
+   "STAT.snap_template": {
+    "present": 338,
+    "links": 338
+   },
+   "WRLD": {
+    "records": 433
+   },
+   "WRLD.ambient_set": {
+    "present": 12,
+    "links": 12
+   },
+   "WRLD.biome": {
+    "present": 67,
+    "links": 67
+   },
+   "WRLD.climate": {
+    "present": 19,
+    "links": 19
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 433
+   },
+   "WRLD.editor_id": {
+    "present": 433
+   },
+   "WRLD.flags2": {
+    "present": 433
+   },
+   "WRLD.gravity_scale": {
+    "present": 433
+   },
+   "WRLD.location": {
+    "present": 432,
+    "links": 432
+   },
+   "WRLD.music": {
+    "present": 17,
+    "links": 17
+   },
+   "WRLD.name": {
+    "present": 431
+   },
+   "WRLD.water": {
+    "present": 192,
+    "links": 192
+   },
+   "WRLD.world_flags": {
+    "present": 433
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "UndergroundExtractors.esm",
+  "seconds": 0.03,
+  "members": {
+   "COBJ": {
+    "records": 180
+   },
+   "COBJ.amount_produced": {
+    "present": 180
+   },
+   "COBJ.created_object": {
+    "present": 180,
+    "links": 180
+   },
+   "COBJ.description": {
+    "present": 180
+   },
+   "COBJ.editor_id": {
+    "present": 180
+   },
+   "COBJ.learn_method": {
+    "present": 180
+   },
+   "COBJ.menu_priority": {
+    "present": 180
+   },
+   "COBJ.recipe_filters": {
+    "present": 45,
+    "links": 45
+   },
+   "COBJ.tier": {
+    "present": 180
+   },
+   "COBJ.value": {
+    "present": 180
+   },
+   "COBJ.workbench_keyword": {
+    "present": 180,
+    "links": 180
+   },
+   "CONT": {
+    "records": 135
+   },
+   "CONT.bounds": {
+    "present": 135
+   },
+   "CONT.dirtiness": {
+    "present": 135
+   },
+   "CONT.editor_id": {
+    "present": 135
+   },
+   "CONT.flags": {
+    "present": 135
+   },
+   "CONT.item_count": {
+    "present": 135
+   },
+   "CONT.items": {
+    "present": 135,
+    "links": 135
+   },
+   "CONT.keyword_count": {
+    "present": 135
+   },
+   "CONT.keywords": {
+    "present": 135,
+    "links": 807
+   },
+   "CONT.light_layer": {
+    "present": 135
+   },
+   "CONT.model": {
+    "present": 135
+   },
+   "CONT.name": {
+    "present": 135
+   },
+   "CONT.native_terminal": {
+    "present": 135,
+    "links": 135
+   },
+   "FLST": {
+    "records": 45
+   },
+   "FLST.editor_id": {
+    "present": 45
+   },
+   "FLST.forms": {
+    "present": 135,
+    "links": 135
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "aurie_thegangsallhere.esm",
+  "seconds": 0.01,
+  "members": {
+   "ACHR": {
+    "records": 25
+   },
+   "ACHR.base": {
+    "present": 25,
+    "links": 25
+   },
+   "ACHR.editor_id": {
+    "present": 25
+   },
+   "ACHR.layer": {
+    "present": 12,
+    "links": 12
+   },
+   "ACHR.linked_refs": {
+    "present": 59,
+    "links": 117
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 16
+   },
+   "ACHR.location_reference": {
+    "present": 25,
+    "links": 25
+   },
+   "ACHR.persist_location": {
+    "present": 25,
+    "links": 25
+   },
+   "ACHR.placement": {
+    "present": 25
+   },
+   "CELL": {
+    "records": 16
+   },
+   "CELL.acoustic_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.cell_flags": {
+    "present": 16
+   },
+   "CELL.editor_id": {
+    "present": 11
+   },
+   "CELL.environment_map": {
+    "present": 7
+   },
+   "CELL.image_space": {
+    "present": 8,
+    "links": 8
+   },
+   "CELL.lighting_template": {
+    "present": 16,
+    "links": 7
+   },
+   "CELL.location": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.music": {
+    "present": 7,
+    "links": 7
+   },
+   "CELL.name": {
+    "present": 8
+   },
+   "CELL.ownership": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.sky_region": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 16
+   },
+   "FLST": {
+    "records": 3
+   },
+   "FLST.editor_id": {
+    "present": 3
+   },
+   "FLST.forms": {
+    "present": 38,
+    "links": 38
+   },
+   "GLOB": {
+    "records": 41
+   },
+   "GLOB.editor_id": {
+    "present": 41
+   },
+   "GLOB.value": {
+    "present": 41
+   },
+   "REFR": {
+    "records": 1
+   },
+   "REFR.base": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.editor_id": {
+    "present": 1
+   },
+   "REFR.placement": {
+    "present": 1
+   },
+   "WRLD": {
+    "records": 5
+   },
+   "WRLD.ambient_set": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.biome": {
+    "present": 5,
+    "links": 5
+   },
+   "WRLD.climate": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 5
+   },
+   "WRLD.editor_id": {
+    "present": 5
+   },
+   "WRLD.flags2": {
+    "present": 5
+   },
+   "WRLD.gravity_scale": {
+    "present": 5
+   },
+   "WRLD.location": {
+    "present": 5,
+    "links": 5
+   },
+   "WRLD.music": {
+    "present": 4,
+    "links": 4
+   },
+   "WRLD.name": {
+    "present": 5
+   },
+   "WRLD.water": {
+    "present": 5,
+    "links": 5
+   },
+   "WRLD.world_flags": {
+    "present": 5
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "blep_gore_framework.esm",
+  "seconds": 0.01,
+  "members": {
+   "CONT": {
+    "records": 17
+   },
+   "CONT.bounds": {
+    "present": 17
+   },
+   "CONT.dirtiness": {
+    "present": 17
+   },
+   "CONT.editor_id": {
+    "present": 17
+   },
+   "CONT.flags": {
+    "present": 17
+   },
+   "CONT.item_count": {
+    "present": 6
+   },
+   "CONT.items": {
+    "present": 6,
+    "links": 6
+   },
+   "CONT.keyword_count": {
+    "present": 11
+   },
+   "CONT.keywords": {
+    "present": 11,
+    "links": 11
+   },
+   "CONT.light_layer": {
+    "present": 17
+   },
+   "CONT.model": {
+    "present": 11
+   },
+   "CONT.name": {
+    "present": 17
+   },
+   "FLST": {
+    "records": 51
+   },
+   "FLST.editor_id": {
+    "present": 51
+   },
+   "FLST.forms": {
+    "present": 172,
+    "links": 172
+   },
+   "FLST.name": {
+    "present": 51
+   },
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   },
+   "KYWD": {
+    "records": 18
+   },
+   "KYWD.color": {
+    "present": 18
+   },
+   "KYWD.editor_id": {
+    "present": 18
+   },
+   "KYWD.keyword_type": {
+    "present": 18
+   },
+   "KYWD.name": {
+    "present": 4
+   },
+   "KYWD.notes": {
+    "present": 3
+   },
+   "KYWD.unknown_fnam": {
+    "present": 18
+   },
+   "MISC": {
+    "records": 2
+   },
+   "MISC.bounds": {
+    "present": 2
+   },
+   "MISC.data": {
+    "present": 2
+   },
+   "MISC.dirtiness": {
+    "present": 2
+   },
+   "MISC.editor_id": {
+    "present": 2
+   },
+   "MISC.keyword_count": {
+    "present": 2
+   },
+   "MISC.keywords": {
+    "present": 2,
+    "links": 4
+   },
+   "MISC.light_layer": {
+    "present": 2
+   },
+   "MISC.model": {
+    "present": 2
+   },
+   "MISC.name": {
+    "present": 2
+   },
+   "STAT": {
+    "records": 10
+   },
+   "STAT.bounds": {
+    "present": 10
+   },
+   "STAT.direction_material": {
+    "present": 10
+   },
+   "STAT.dirtiness": {
+    "present": 10
+   },
+   "STAT.editor_id": {
+    "present": 10
+   },
+   "STAT.light_layer": {
+    "present": 10
+   },
+   "STAT.model": {
+    "present": 9
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "blueprintships-sfta03.esm",
+  "seconds": 0.21,
+  "members": {
+   "CELL": {
+    "records": 4
+   },
+   "CELL.cell_flags": {
+    "present": 4
+   },
+   "CELL.editor_id": {
+    "present": 4
+   },
+   "CELL.lighting_template": {
+    "present": 4
+   },
+   "CELL.location": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.water_height": {
+    "present": 4
+   },
+   "REFR": {
+    "records": 4938
+   },
+   "REFR.base": {
+    "present": 4938,
+    "links": 4938
+   },
+   "REFR.editor_id": {
+    "present": 4
+   },
+   "REFR.enable_parent": {
+    "present": 2,
+    "links": 2
+   },
+   "REFR.faction_rank": {
+    "present": 36
+   },
+   "REFR.layer": {
+    "present": 130,
+    "links": 130
+   },
+   "REFR.linked_refs": {
+    "present": 1048,
+    "links": 1840
+   },
+   "REFR.linked_refs_transient": {
+    "present": 552
+   },
+   "REFR.placement": {
+    "present": 4938
+   },
+   "REFR.reference_group": {
+    "present": 60,
+    "links": 60
+   },
+   "REFR.scale": {
+    "present": 990
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "blueprintships-sfta06.esm",
+  "seconds": 0.75,
+  "members": {
+   "CELL": {
+    "records": 6
+   },
+   "CELL.cell_flags": {
+    "present": 6
+   },
+   "CELL.editor_id": {
+    "present": 6
+   },
+   "CELL.lighting_template": {
+    "present": 6
+   },
+   "CELL.location": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.water_height": {
+    "present": 6
+   },
+   "REFR": {
+    "records": 17124
+   },
+   "REFR.base": {
+    "present": 17124,
+    "links": 17124
+   },
+   "REFR.editor_id": {
+    "present": 63
+   },
+   "REFR.enable_parent": {
+    "present": 21,
+    "links": 21
+   },
+   "REFR.faction_rank": {
+    "present": 71
+   },
+   "REFR.layer": {
+    "present": 583,
+    "links": 583
+   },
+   "REFR.linked_refs": {
+    "present": 5531,
+    "links": 10318
+   },
+   "REFR.linked_refs_transient": {
+    "present": 2888
+   },
+   "REFR.placement": {
+    "present": 17124
+   },
+   "REFR.reference_group": {
+    "present": 792,
+    "links": 792
+   },
+   "REFR.scale": {
+    "present": 5740
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "bmxoutpost.esm",
+  "seconds": 0.87,
+  "members": {
+   "ACHR": {
+    "records": 2
+   },
+   "ACHR.base": {
+    "present": 2,
+    "links": 2
+   },
+   "ACHR.placement": {
+    "present": 2
+   },
+   "CELL": {
+    "records": 783
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 783
+   },
+   "CELL.editor_id": {
+    "present": 783
+   },
+   "CELL.image_space": {
+    "present": 781,
+    "links": 781
+   },
+   "CELL.lighting_template": {
+    "present": 783,
+    "links": 1
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 783
+   },
+   "COBJ": {
+    "records": 330
+   },
+   "COBJ.amount_produced": {
+    "present": 330
+   },
+   "COBJ.created_object": {
+    "present": 330,
+    "links": 328
+   },
+   "COBJ.description": {
+    "present": 330
+   },
+   "COBJ.editor_id": {
+    "present": 330
+   },
+   "COBJ.learn_method": {
+    "present": 330
+   },
+   "COBJ.max_build_count": {
+    "present": 17,
+    "links": 17
+   },
+   "COBJ.menu_priority": {
+    "present": 330
+   },
+   "COBJ.recipe_filters": {
+    "present": 42,
+    "links": 42
+   },
+   "COBJ.tier": {
+    "present": 330
+   },
+   "COBJ.value": {
+    "present": 330
+   },
+   "COBJ.workbench_keyword": {
+    "present": 330,
+    "links": 329
+   },
+   "CONT": {
+    "records": 98
+   },
+   "CONT.bounds": {
+    "present": 98
+   },
+   "CONT.contains_only_filter": {
+    "present": 22,
+    "links": 22
+   },
+   "CONT.dirtiness": {
+    "present": 98
+   },
+   "CONT.editor_id": {
+    "present": 98
+   },
+   "CONT.flags": {
+    "present": 98
+   },
+   "CONT.item_count": {
+    "present": 43
+   },
+   "CONT.items": {
+    "present": 98,
+    "links": 98
+   },
+   "CONT.keyword_count": {
+    "present": 95
+   },
+   "CONT.keywords": {
+    "present": 95,
+    "links": 189
+   },
+   "CONT.light_layer": {
+    "present": 98
+   },
+   "CONT.model": {
+    "present": 98
+   },
+   "CONT.name": {
+    "present": 95
+   },
+   "CONT.native_terminal": {
+    "present": 96,
+    "links": 96
+   },
+   "DIAL": {
+    "records": 2
+   },
+   "DIAL.info_count": {
+    "present": 2
+   },
+   "DIAL.priority": {
+    "present": 2
+   },
+   "DIAL.quest": {
+    "present": 2,
+    "links": 2
+   },
+   "FLST": {
+    "records": 41
+   },
+   "FLST.editor_id": {
+    "present": 41
+   },
+   "FLST.forms": {
+    "present": 609,
+    "links": 609
+   },
+   "FLST.name": {
+    "present": 24
+   },
+   "GLOB": {
+    "records": 4
+   },
+   "GLOB.editor_id": {
+    "present": 4
+   },
+   "GLOB.value": {
+    "present": 4
+   },
+   "KYWD": {
+    "records": 3
+   },
+   "KYWD.color": {
+    "present": 3
+   },
+   "KYWD.editor_id": {
+    "present": 3
+   },
+   "KYWD.keyword_type": {
+    "present": 3
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 3
+   },
+   "MISC": {
+    "records": 2
+   },
+   "MISC.bounds": {
+    "present": 2
+   },
+   "MISC.data": {
+    "present": 2
+   },
+   "MISC.dirtiness": {
+    "present": 2
+   },
+   "MISC.editor_id": {
+    "present": 2
+   },
+   "MISC.keyword_count": {
+    "present": 1
+   },
+   "MISC.keywords": {
+    "present": 1,
+    "links": 1
+   },
+   "MISC.light_layer": {
+    "present": 2
+   },
+   "MISC.model": {
+    "present": 2
+   },
+   "MISC.name": {
+    "present": 2
+   },
+   "NPC_": {
+    "records": 11
+   },
+   "NPC_.bounds": {
+    "present": 11
+   },
+   "NPC_.class_": {
+    "present": 11,
+    "links": 11
+   },
+   "NPC_.default_template": {
+    "present": 8,
+    "links": 8
+   },
+   "NPC_.dirtiness": {
+    "present": 11
+   },
+   "NPC_.editor_id": {
+    "present": 11
+   },
+   "NPC_.keyword_count": {
+    "present": 2
+   },
+   "NPC_.keywords": {
+    "present": 2,
+    "links": 84
+   },
+   "NPC_.name": {
+    "present": 11
+   },
+   "NPC_.race": {
+    "present": 11,
+    "links": 11
+   },
+   "NPC_.voice": {
+    "present": 11,
+    "links": 11
+   },
+   "REFR": {
+    "records": 26818
+   },
+   "REFR.base": {
+    "present": 26818,
+    "links": 26818
+   },
+   "REFR.editor_id": {
+    "present": 53
+   },
+   "REFR.enable_parent": {
+    "present": 7,
+    "links": 7
+   },
+   "REFR.faction_rank": {
+    "present": 358
+   },
+   "REFR.layer": {
+    "present": 3857,
+    "links": 3857
+   },
+   "REFR.linked_refs": {
+    "present": 1839,
+    "links": 2072
+   },
+   "REFR.linked_refs_transient": {
+    "present": 1775
+   },
+   "REFR.location_reference": {
+    "present": 20,
+    "links": 20
+   },
+   "REFR.ownership": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR.placement": {
+    "present": 26818
+   },
+   "REFR.reference_group": {
+    "present": 556,
+    "links": 556
+   },
+   "REFR.scale": {
+    "present": 11341
+   },
+   "STAT": {
+    "records": 364
+   },
+   "STAT.bounds": {
+    "present": 364
+   },
+   "STAT.direction_material": {
+    "present": 364
+   },
+   "STAT.dirtiness": {
+    "present": 364
+   },
+   "STAT.editor_id": {
+    "present": 364
+   },
+   "STAT.light_layer": {
+    "present": 364
+   },
+   "STAT.model": {
+    "present": 364
+   },
+   "STAT.model_flags": {
+    "present": 179
+   },
+   "STAT.name": {
+    "present": 101
+   },
+   "STAT.snap_behavior": {
+    "present": 1,
+    "links": 1
+   },
+   "STAT.snap_template": {
+    "present": 78,
+    "links": 78
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "bolero.esm",
+  "seconds": 0.01,
+  "members": {
+   "GLOB": {
+    "records": 6
+   },
+   "GLOB.editor_id": {
+    "present": 6
+   },
+   "GLOB.value": {
+    "present": 6
+   },
+   "KYWD": {
+    "records": 4
+   },
+   "KYWD.color": {
+    "present": 4
+   },
+   "KYWD.editor_id": {
+    "present": 4
+   },
+   "KYWD.keyword_type": {
+    "present": 4
+   },
+   "KYWD.unknown_fnam": {
+    "present": 4
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "dogsncatsmeshprobe.esm",
+  "seconds": 0.01,
+  "members": {
+   "ACHR": {
+    "records": 42
+   },
+   "ACHR.base": {
+    "present": 42,
+    "links": 42
+   },
+   "ACHR.editor_id": {
+    "present": 42
+   },
+   "ACHR.level_modifier": {
+    "present": 21
+   },
+   "ACHR.placement": {
+    "present": 42
+   },
+   "ACHR.scale": {
+    "present": 1
+   },
+   "CELL": {
+    "records": 1
+   },
+   "CELL.cell_flags": {
+    "present": 1
+   },
+   "CELL.editor_id": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.lighting_template": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.sky_region": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 1
+   },
+   "COBJ": {
+    "records": 3
+   },
+   "COBJ.amount_produced": {
+    "present": 3
+   },
+   "COBJ.created_object": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.description": {
+    "present": 3
+   },
+   "COBJ.editor_id": {
+    "present": 3
+   },
+   "COBJ.learn_method": {
+    "present": 3
+   },
+   "COBJ.menu_priority": {
+    "present": 3
+   },
+   "COBJ.recipe_filters": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.tier": {
+    "present": 3
+   },
+   "COBJ.value": {
+    "present": 3
+   },
+   "COBJ.workbench_keyword": {
+    "present": 3,
+    "links": 3
+   },
+   "DIAL": {
+    "records": 35
+   },
+   "DIAL.editor_id": {
+    "present": 34
+   },
+   "DIAL.info_count": {
+    "present": 35
+   },
+   "DIAL.priority": {
+    "present": 35
+   },
+   "DIAL.quest": {
+    "present": 35,
+    "links": 35
+   },
+   "FLST": {
+    "records": 4
+   },
+   "FLST.editor_id": {
+    "present": 4
+   },
+   "FLST.forms": {
+    "present": 8,
+    "links": 8
+   },
+   "FLST.name": {
+    "present": 2
+   },
+   "GLOB": {
+    "records": 44
+   },
+   "GLOB.editor_id": {
+    "present": 44
+   },
+   "GLOB.value": {
+    "present": 44
+   },
+   "KYWD": {
+    "records": 6
+   },
+   "KYWD.color": {
+    "present": 6
+   },
+   "KYWD.editor_id": {
+    "present": 6
+   },
+   "KYWD.keyword_type": {
+    "present": 6
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 6
+   },
+   "MISC": {
+    "records": 1
+   },
+   "MISC.bounds": {
+    "present": 1
+   },
+   "MISC.data": {
+    "present": 1
+   },
+   "MISC.dirtiness": {
+    "present": 1
+   },
+   "MISC.editor_id": {
+    "present": 1
+   },
+   "MISC.flags": {
+    "present": 1
+   },
+   "MISC.light_layer": {
+    "present": 1
+   },
+   "MISC.model": {
+    "present": 1
+   },
+   "MISC.name": {
+    "present": 1
+   },
+   "NPC_": {
+    "records": 48
+   },
+   "NPC_.bounds": {
+    "present": 48
+   },
+   "NPC_.class_": {
+    "present": 48,
+    "links": 48
+   },
+   "NPC_.default_template": {
+    "present": 47,
+    "links": 47
+   },
+   "NPC_.dirtiness": {
+    "present": 48
+   },
+   "NPC_.editor_id": {
+    "present": 48
+   },
+   "NPC_.keyword_count": {
+    "present": 47
+   },
+   "NPC_.keywords": {
+    "present": 47,
+    "links": 47
+   },
+   "NPC_.name": {
+    "present": 48
+   },
+   "NPC_.race": {
+    "present": 48,
+    "links": 48
+   },
+   "NPC_.voice": {
+    "present": 2,
+    "links": 2
+   },
+   "STAT": {
+    "records": 2
+   },
+   "STAT.bounds": {
+    "present": 2
+   },
+   "STAT.direction_material": {
+    "present": 2
+   },
+   "STAT.dirtiness": {
+    "present": 2
+   },
+   "STAT.editor_id": {
+    "present": 2
+   },
+   "STAT.light_layer": {
+    "present": 2
+   },
+   "STAT.model": {
+    "present": 2
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "du_overtime.esm",
+  "seconds": 0.01,
+  "members": {
+   "COBJ": {
+    "records": 10
+   },
+   "COBJ.amount_produced": {
+    "present": 10
+   },
+   "COBJ.created_object": {
+    "present": 10,
+    "links": 10
+   },
+   "COBJ.description": {
+    "present": 10
+   },
+   "COBJ.editor_id": {
+    "present": 10
+   },
+   "COBJ.learn_method": {
+    "present": 10
+   },
+   "COBJ.menu_priority": {
+    "present": 10
+   },
+   "COBJ.recipe_filters": {
+    "present": 10,
+    "links": 10
+   },
+   "COBJ.tier": {
+    "present": 10
+   },
+   "COBJ.value": {
+    "present": 10
+   },
+   "COBJ.workbench_keyword": {
+    "present": 10,
+    "links": 10
+   },
+   "FLST": {
+    "records": 69
+   },
+   "FLST.editor_id": {
+    "present": 69
+   },
+   "FLST.forms": {
+    "present": 627,
+    "links": 627
+   },
+   "GLOB": {
+    "records": 25
+   },
+   "GLOB.editor_id": {
+    "present": 25
+   },
+   "GLOB.value": {
+    "present": 25
+   },
+   "KYWD": {
+    "records": 12
+   },
+   "KYWD.color": {
+    "present": 12
+   },
+   "KYWD.editor_id": {
+    "present": 12
+   },
+   "KYWD.keyword_type": {
+    "present": 12
+   },
+   "KYWD.name": {
+    "present": 7
+   },
+   "KYWD.notes": {
+    "present": 4
+   },
+   "KYWD.unknown_fnam": {
+    "present": 12
+   },
+   "MISC": {
+    "records": 45
+   },
+   "MISC.bounds": {
+    "present": 45
+   },
+   "MISC.data": {
+    "present": 45
+   },
+   "MISC.dirtiness": {
+    "present": 45
+   },
+   "MISC.editor_id": {
+    "present": 45
+   },
+   "MISC.keyword_count": {
+    "present": 45
+   },
+   "MISC.keywords": {
+    "present": 45,
+    "links": 90
+   },
+   "MISC.light_layer": {
+    "present": 45
+   },
+   "MISC.model": {
+    "present": 45
+   },
+   "MISC.name": {
+    "present": 45
+   },
+   "NPC_": {
+    "records": 26
+   },
+   "NPC_.bounds": {
+    "present": 26
+   },
+   "NPC_.class_": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.default_template": {
+    "present": 14,
+    "links": 14
+   },
+   "NPC_.dirtiness": {
+    "present": 26
+   },
+   "NPC_.editor_id": {
+    "present": 24
+   },
+   "NPC_.keyword_count": {
+    "present": 4
+   },
+   "NPC_.keywords": {
+    "present": 4,
+    "links": 5
+   },
+   "NPC_.name": {
+    "present": 3
+   },
+   "NPC_.race": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.voice": {
+    "present": 25,
+    "links": 25
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "du_takeover.esm",
+  "seconds": 1.74,
+  "members": {
+   "ACHR": {
+    "records": 378
+   },
+   "ACHR.base": {
+    "present": 378,
+    "links": 378
+   },
+   "ACHR.layer": {
+    "present": 20,
+    "links": 20
+   },
+   "ACHR.level_modifier": {
+    "present": 378
+   },
+   "ACHR.location_reference": {
+    "present": 52,
+    "links": 52
+   },
+   "ACHR.persist_location": {
+    "present": 197,
+    "links": 197
+   },
+   "ACHR.placement": {
+    "present": 378
+   },
+   "ACHR.reference_group": {
+    "present": 143,
+    "links": 143
+   },
+   "ACHR.source_pack_in": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL": {
+    "records": 1078
+   },
+   "CELL.cell_flags": {
+    "present": 1078
+   },
+   "CELL.editor_id": {
+    "present": 410
+   },
+   "CELL.environment_map": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 206,
+    "links": 206
+   },
+   "CELL.lighting_template": {
+    "present": 1078
+   },
+   "CELL.water_height": {
+    "present": 1078
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "REFR": {
+    "records": 48749
+   },
+   "REFR.base": {
+    "present": 48749,
+    "links": 48749
+   },
+   "REFR.editor_id": {
+    "present": 1147
+   },
+   "REFR.layer": {
+    "present": 21291,
+    "links": 21291
+   },
+   "REFR.linked_refs": {
+    "present": 655,
+    "links": 720
+   },
+   "REFR.linked_refs_transient": {
+    "present": 597
+   },
+   "REFR.location_reference": {
+    "present": 617,
+    "links": 617
+   },
+   "REFR.placement": {
+    "present": 48749
+   },
+   "REFR.reference_group": {
+    "present": 16097,
+    "links": 16097
+   },
+   "REFR.scale": {
+    "present": 5614
+   },
+   "REFR.source_pack_in": {
+    "present": 417,
+    "links": 417
+   },
+   "WRLD": {
+    "records": 51
+   },
+   "WRLD.climate": {
+    "present": 51,
+    "links": 51
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 51
+   },
+   "WRLD.editor_id": {
+    "present": 51
+   },
+   "WRLD.flags2": {
+    "present": 51
+   },
+   "WRLD.gravity_scale": {
+    "present": 51
+   },
+   "WRLD.location": {
+    "present": 51,
+    "links": 51
+   },
+   "WRLD.name": {
+    "present": 51
+   },
+   "WRLD.water": {
+    "present": 51,
+    "links": 51
+   },
+   "WRLD.world_flags": {
+    "present": 51
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "eaa_spacetruckinplus.esm",
+  "seconds": 0.09,
+  "members": {
+   "CELL": {
+    "records": 83
+   },
+   "CELL.cell_flags": {
+    "present": 83
+   },
+   "CELL.editor_id": {
+    "present": 83
+   },
+   "CELL.image_space": {
+    "present": 83,
+    "links": 83
+   },
+   "CELL.lighting_template": {
+    "present": 83
+   },
+   "CELL.water_height": {
+    "present": 83
+   },
+   "COBJ": {
+    "records": 73
+   },
+   "COBJ.amount_produced": {
+    "present": 73
+   },
+   "COBJ.created_object": {
+    "present": 73,
+    "links": 73
+   },
+   "COBJ.description": {
+    "present": 73
+   },
+   "COBJ.editor_id": {
+    "present": 73
+   },
+   "COBJ.learn_method": {
+    "present": 73
+   },
+   "COBJ.max_build_count": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.menu_priority": {
+    "present": 73
+   },
+   "COBJ.recipe_filters": {
+    "present": 7,
+    "links": 7
+   },
+   "COBJ.tier": {
+    "present": 73
+   },
+   "COBJ.value": {
+    "present": 73
+   },
+   "COBJ.workbench_keyword": {
+    "present": 73,
+    "links": 72
+   },
+   "CONT": {
+    "records": 18
+   },
+   "CONT.bounds": {
+    "present": 18
+   },
+   "CONT.dirtiness": {
+    "present": 18
+   },
+   "CONT.editor_id": {
+    "present": 18
+   },
+   "CONT.flags": {
+    "present": 18
+   },
+   "CONT.item_count": {
+    "present": 2
+   },
+   "CONT.items": {
+    "present": 3,
+    "links": 3
+   },
+   "CONT.keyword_count": {
+    "present": 15
+   },
+   "CONT.keywords": {
+    "present": 15,
+    "links": 18
+   },
+   "CONT.light_layer": {
+    "present": 18
+   },
+   "CONT.model": {
+    "present": 18
+   },
+   "CONT.name": {
+    "present": 18
+   },
+   "CONT.native_terminal": {
+    "present": 18,
+    "links": 18
+   },
+   "FLST": {
+    "records": 10
+   },
+   "FLST.editor_id": {
+    "present": 10
+   },
+   "FLST.forms": {
+    "present": 279,
+    "links": 279
+   },
+   "FLST.name": {
+    "present": 10
+   },
+   "GLOB": {
+    "records": 28
+   },
+   "GLOB.editor_id": {
+    "present": 28
+   },
+   "GLOB.value": {
+    "present": 28
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.notes": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "NPC_": {
+    "records": 1
+   },
+   "NPC_.bounds": {
+    "present": 1
+   },
+   "NPC_.class_": {
+    "present": 1,
+    "links": 1
+   },
+   "NPC_.default_template": {
+    "present": 1,
+    "links": 1
+   },
+   "NPC_.dirtiness": {
+    "present": 1
+   },
+   "NPC_.editor_id": {
+    "present": 1
+   },
+   "NPC_.name": {
+    "present": 1
+   },
+   "NPC_.race": {
+    "present": 1,
+    "links": 1
+   },
+   "NPC_.voice": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR": {
+    "records": 2558
+   },
+   "REFR.base": {
+    "present": 2558,
+    "links": 2558
+   },
+   "REFR.placement": {
+    "present": 2558
+   },
+   "REFR.scale": {
+    "present": 2043
+   },
+   "STAT": {
+    "records": 39
+   },
+   "STAT.bounds": {
+    "present": 39
+   },
+   "STAT.color_remapping": {
+    "present": 3
+   },
+   "STAT.direction_material": {
+    "present": 39
+   },
+   "STAT.dirtiness": {
+    "present": 39
+   },
+   "STAT.editor_id": {
+    "present": 39
+   },
+   "STAT.light_layer": {
+    "present": 39
+   },
+   "STAT.model": {
+    "present": 39
+   },
+   "STAT.model_flags": {
+    "present": 4
+   },
+   "STAT.name": {
+    "present": 30
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "even_richer_vendors_sp0ckrates.esm",
+  "seconds": 0.0,
+  "members": {},
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "functionaldecor.esm",
+  "seconds": 0.26,
+  "members": {
+   "ACHR": {
+    "records": 10
+   },
+   "ACHR.base": {
+    "present": 10,
+    "links": 10
+   },
+   "ACHR.placement": {
+    "present": 10
+   },
+   "CELL": {
+    "records": 854
+   },
+   "CELL.cell_flags": {
+    "present": 854
+   },
+   "CELL.editor_id": {
+    "present": 854
+   },
+   "CELL.environment_map": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 853,
+    "links": 853
+   },
+   "CELL.lighting_template": {
+    "present": 854,
+    "links": 1
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.water_height": {
+    "present": 854
+   },
+   "COBJ": {
+    "records": 282
+   },
+   "COBJ.amount_produced": {
+    "present": 282
+   },
+   "COBJ.created_object": {
+    "present": 282,
+    "links": 282
+   },
+   "COBJ.description": {
+    "present": 282
+   },
+   "COBJ.editor_id": {
+    "present": 281
+   },
+   "COBJ.learn_method": {
+    "present": 282
+   },
+   "COBJ.menu_priority": {
+    "present": 282
+   },
+   "COBJ.recipe_filters": {
+    "present": 64,
+    "links": 64
+   },
+   "COBJ.tier": {
+    "present": 282
+   },
+   "COBJ.value": {
+    "present": 282
+   },
+   "COBJ.workbench_keyword": {
+    "present": 282,
+    "links": 281
+   },
+   "CONT": {
+    "records": 131
+   },
+   "CONT.bounds": {
+    "present": 131
+   },
+   "CONT.contains_only_filter": {
+    "present": 25,
+    "links": 25
+   },
+   "CONT.dirtiness": {
+    "present": 131
+   },
+   "CONT.editor_id": {
+    "present": 131
+   },
+   "CONT.flags": {
+    "present": 131
+   },
+   "CONT.item_count": {
+    "present": 2
+   },
+   "CONT.items": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT.keyword_count": {
+    "present": 113
+   },
+   "CONT.keywords": {
+    "present": 113,
+    "links": 140
+   },
+   "CONT.light_layer": {
+    "present": 131
+   },
+   "CONT.model": {
+    "present": 131
+   },
+   "CONT.name": {
+    "present": 131
+   },
+   "CONT.native_terminal": {
+    "present": 113,
+    "links": 113
+   },
+   "FLST": {
+    "records": 52
+   },
+   "FLST.editor_id": {
+    "present": 52
+   },
+   "FLST.forms": {
+    "present": 1304,
+    "links": 1304
+   },
+   "FLST.name": {
+    "present": 34
+   },
+   "GLOB": {
+    "records": 10
+   },
+   "GLOB.editor_id": {
+    "present": 10
+   },
+   "GLOB.value": {
+    "present": 10
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "MISC": {
+    "records": 16
+   },
+   "MISC.bounds": {
+    "present": 16
+   },
+   "MISC.data": {
+    "present": 16
+   },
+   "MISC.dirtiness": {
+    "present": 16
+   },
+   "MISC.editor_id": {
+    "present": 15
+   },
+   "MISC.flags": {
+    "present": 1
+   },
+   "MISC.keyword_count": {
+    "present": 15
+   },
+   "MISC.keywords": {
+    "present": 15,
+    "links": 33
+   },
+   "MISC.light_layer": {
+    "present": 16
+   },
+   "MISC.model": {
+    "present": 16
+   },
+   "MISC.name": {
+    "present": 16
+   },
+   "NPC_": {
+    "records": 5
+   },
+   "NPC_.bounds": {
+    "present": 5
+   },
+   "NPC_.class_": {
+    "present": 5,
+    "links": 5
+   },
+   "NPC_.default_template": {
+    "present": 3,
+    "links": 3
+   },
+   "NPC_.dirtiness": {
+    "present": 5
+   },
+   "NPC_.editor_id": {
+    "present": 5
+   },
+   "NPC_.keyword_count": {
+    "present": 4
+   },
+   "NPC_.keywords": {
+    "present": 4,
+    "links": 6
+   },
+   "NPC_.name": {
+    "present": 3
+   },
+   "NPC_.race": {
+    "present": 5,
+    "links": 5
+   },
+   "NPC_.voice": {
+    "present": 4,
+    "links": 4
+   },
+   "REFR": {
+    "records": 6118
+   },
+   "REFR.base": {
+    "present": 6118,
+    "links": 6118
+   },
+   "REFR.editor_id": {
+    "present": 2
+   },
+   "REFR.enable_parent": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.faction_rank": {
+    "present": 2
+   },
+   "REFR.layer": {
+    "present": 433,
+    "links": 433
+   },
+   "REFR.linked_refs": {
+    "present": 63,
+    "links": 63
+   },
+   "REFR.linked_refs_transient": {
+    "present": 63
+   },
+   "REFR.location_reference": {
+    "present": 32,
+    "links": 32
+   },
+   "REFR.ownership": {
+    "present": 33,
+    "links": 33
+   },
+   "REFR.placement": {
+    "present": 6118
+   },
+   "REFR.reference_group": {
+    "present": 155,
+    "links": 155
+   },
+   "REFR.scale": {
+    "present": 1214
+   },
+   "STAT": {
+    "records": 700
+   },
+   "STAT.bounds": {
+    "present": 700
+   },
+   "STAT.direction_material": {
+    "present": 700
+   },
+   "STAT.dirtiness": {
+    "present": 700
+   },
+   "STAT.editor_id": {
+    "present": 698
+   },
+   "STAT.light_layer": {
+    "present": 700
+   },
+   "STAT.model": {
+    "present": 700
+   },
+   "STAT.model_flags": {
+    "present": 264
+   },
+   "STAT.name": {
+    "present": 394
+   },
+   "STAT.snap_template": {
+    "present": 326,
+    "links": 326
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "kinggathcreations_spaceship.esm",
+  "seconds": 20.3,
+  "members": {
+   "ACHR": {
+    "records": 954
+   },
+   "ACHR.base": {
+    "present": 954,
+    "links": 954
+   },
+   "ACHR.editor_id": {
+    "present": 7
+   },
+   "ACHR.enable_parent": {
+    "present": 666,
+    "links": 666
+   },
+   "ACHR.layer": {
+    "present": 879,
+    "links": 879
+   },
+   "ACHR.level_modifier": {
+    "present": 797
+   },
+   "ACHR.linked_refs": {
+    "present": 412,
+    "links": 677
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 255
+   },
+   "ACHR.ownership": {
+    "present": 3,
+    "links": 3
+   },
+   "ACHR.persist_location": {
+    "present": 847,
+    "links": 847
+   },
+   "ACHR.placement": {
+    "present": 954
+   },
+   "ACHR.reference_group": {
+    "present": 11,
+    "links": 11
+   },
+   "ACHR.scale": {
+    "present": 6
+   },
+   "ACHR.source_pack_in": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL": {
+    "records": 723
+   },
+   "CELL.acoustic_space": {
+    "present": 7,
+    "links": 7
+   },
+   "CELL.cell_flags": {
+    "present": 723
+   },
+   "CELL.editor_id": {
+    "present": 313
+   },
+   "CELL.environment_map": {
+    "present": 27
+   },
+   "CELL.image_space": {
+    "present": 233,
+    "links": 233
+   },
+   "CELL.lighting_template": {
+    "present": 723,
+    "links": 26
+   },
+   "CELL.location": {
+    "present": 79,
+    "links": 79
+   },
+   "CELL.music": {
+    "present": 7,
+    "links": 7
+   },
+   "CELL.name": {
+    "present": 24
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 723
+   },
+   "COBJ": {
+    "records": 117
+   },
+   "COBJ.amount_produced": {
+    "present": 117
+   },
+   "COBJ.created_object": {
+    "present": 117,
+    "links": 117
+   },
+   "COBJ.description": {
+    "present": 117
+   },
+   "COBJ.editor_id": {
+    "present": 117
+   },
+   "COBJ.learn_method": {
+    "present": 117
+   },
+   "COBJ.max_build_count": {
+    "present": 22,
+    "links": 22
+   },
+   "COBJ.menu_priority": {
+    "present": 117
+   },
+   "COBJ.recipe_filters": {
+    "present": 69,
+    "links": 69
+   },
+   "COBJ.tier": {
+    "present": 117
+   },
+   "COBJ.value": {
+    "present": 117
+   },
+   "COBJ.workbench_keyword": {
+    "present": 117,
+    "links": 72
+   },
+   "CONT": {
+    "records": 41
+   },
+   "CONT.bounds": {
+    "present": 41
+   },
+   "CONT.contains_only_filter": {
+    "present": 15,
+    "links": 15
+   },
+   "CONT.dirtiness": {
+    "present": 41
+   },
+   "CONT.editor_id": {
+    "present": 41
+   },
+   "CONT.flags": {
+    "present": 41
+   },
+   "CONT.item_count": {
+    "present": 25
+   },
+   "CONT.items": {
+    "present": 51,
+    "links": 51
+   },
+   "CONT.keyword_count": {
+    "present": 31
+   },
+   "CONT.keywords": {
+    "present": 31,
+    "links": 48
+   },
+   "CONT.light_layer": {
+    "present": 41
+   },
+   "CONT.model": {
+    "present": 41
+   },
+   "CONT.name": {
+    "present": 39
+   },
+   "CONT.native_terminal": {
+    "present": 39,
+    "links": 39
+   },
+   "DIAL": {
+    "records": 2602
+   },
+   "DIAL.branch": {
+    "present": 19,
+    "links": 19
+   },
+   "DIAL.editor_id": {
+    "present": 14
+   },
+   "DIAL.info_count": {
+    "present": 2602
+   },
+   "DIAL.keyword": {
+    "present": 8,
+    "links": 8
+   },
+   "DIAL.name": {
+    "present": 14
+   },
+   "DIAL.priority": {
+    "present": 2602
+   },
+   "DIAL.quest": {
+    "present": 2602,
+    "links": 2602
+   },
+   "FLST": {
+    "records": 95
+   },
+   "FLST.editor_id": {
+    "present": 95
+   },
+   "FLST.forms": {
+    "present": 792,
+    "links": 792
+   },
+   "FLST.name": {
+    "present": 42
+   },
+   "GLOB": {
+    "records": 370
+   },
+   "GLOB.editor_id": {
+    "present": 370
+   },
+   "GLOB.value": {
+    "present": 370
+   },
+   "KYWD": {
+    "records": 248
+   },
+   "KYWD.color": {
+    "present": 248
+   },
+   "KYWD.editor_id": {
+    "present": 248
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 248
+   },
+   "KYWD.name": {
+    "present": 7
+   },
+   "KYWD.notes": {
+    "present": 10
+   },
+   "KYWD.unknown_fnam": {
+    "present": 248
+   },
+   "MISC": {
+    "records": 67
+   },
+   "MISC.bounds": {
+    "present": 67
+   },
+   "MISC.data": {
+    "present": 67
+   },
+   "MISC.dirtiness": {
+    "present": 67
+   },
+   "MISC.editor_id": {
+    "present": 67
+   },
+   "MISC.flags": {
+    "present": 3
+   },
+   "MISC.keyword_count": {
+    "present": 40
+   },
+   "MISC.keywords": {
+    "present": 40,
+    "links": 79
+   },
+   "MISC.light_layer": {
+    "present": 67
+   },
+   "MISC.model": {
+    "present": 67
+   },
+   "MISC.name": {
+    "present": 56
+   },
+   "MISC.short_name": {
+    "present": 2
+   },
+   "NPC_": {
+    "records": 182
+   },
+   "NPC_.bounds": {
+    "present": 182
+   },
+   "NPC_.class_": {
+    "present": 138,
+    "links": 138
+   },
+   "NPC_.default_template": {
+    "present": 91,
+    "links": 91
+   },
+   "NPC_.dirtiness": {
+    "present": 182
+   },
+   "NPC_.editor_id": {
+    "present": 182
+   },
+   "NPC_.keyword_count": {
+    "present": 42
+   },
+   "NPC_.keywords": {
+    "present": 42,
+    "links": 272
+   },
+   "NPC_.name": {
+    "present": 54
+   },
+   "NPC_.race": {
+    "present": 182,
+    "links": 182
+   },
+   "NPC_.voice": {
+    "present": 161,
+    "links": 161
+   },
+   "REFR": {
+    "records": 345236
+   },
+   "REFR.base": {
+    "present": 345236,
+    "links": 345236
+   },
+   "REFR.editor_id": {
+    "present": 1594
+   },
+   "REFR.enable_parent": {
+    "present": 8055,
+    "links": 8055
+   },
+   "REFR.faction_rank": {
+    "present": 1574
+   },
+   "REFR.layer": {
+    "present": 230582,
+    "links": 230582
+   },
+   "REFR.linked_refs": {
+    "present": 35967,
+    "links": 62902
+   },
+   "REFR.linked_refs_transient": {
+    "present": 26084
+   },
+   "REFR.ownership": {
+    "present": 2265,
+    "links": 2265
+   },
+   "REFR.persist_location": {
+    "present": 40,
+    "links": 40
+   },
+   "REFR.placement": {
+    "present": 345236
+   },
+   "REFR.reference_group": {
+    "present": 44479,
+    "links": 44479
+   },
+   "REFR.scale": {
+    "present": 112398
+   },
+   "REFR.source_pack_in": {
+    "present": 5336,
+    "links": 5336
+   },
+   "STAT": {
+    "records": 149
+   },
+   "STAT.bounds": {
+    "present": 149
+   },
+   "STAT.direction_material": {
+    "present": 149
+   },
+   "STAT.dirtiness": {
+    "present": 149
+   },
+   "STAT.editor_id": {
+    "present": 149
+   },
+   "STAT.light_layer": {
+    "present": 149
+   },
+   "STAT.model": {
+    "present": 149
+   },
+   "STAT.model_flags": {
+    "present": 79
+   },
+   "STAT.name": {
+    "present": 3
+   },
+   "STAT.snap_template": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD": {
+    "records": 12
+   },
+   "WRLD.ambient_set": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.biome": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.climate": {
+    "present": 12,
+    "links": 12
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 12
+   },
+   "WRLD.editor_id": {
+    "present": 12
+   },
+   "WRLD.flags2": {
+    "present": 12
+   },
+   "WRLD.gravity_scale": {
+    "present": 12
+   },
+   "WRLD.location": {
+    "present": 11,
+    "links": 11
+   },
+   "WRLD.music": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.name": {
+    "present": 12
+   },
+   "WRLD.water": {
+    "present": 12,
+    "links": 12
+   },
+   "WRLD.world_flags": {
+    "present": 12
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "last_mile_shuttle.esm",
+  "seconds": 1.55,
+  "members": {
+   "CELL": {
+    "records": 94
+   },
+   "CELL.acoustic_space": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.cell_flags": {
+    "present": 94
+   },
+   "CELL.editor_id": {
+    "present": 71
+   },
+   "CELL.environment_map": {
+    "present": 5
+   },
+   "CELL.image_space": {
+    "present": 23,
+    "links": 23
+   },
+   "CELL.lighting_template": {
+    "present": 94,
+    "links": 20
+   },
+   "CELL.location": {
+    "present": 52,
+    "links": 52
+   },
+   "CELL.music": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.name": {
+    "present": 12
+   },
+   "CELL.ownership": {
+    "present": 8,
+    "links": 8
+   },
+   "CELL.water_height": {
+    "present": 94
+   },
+   "COBJ": {
+    "records": 2
+   },
+   "COBJ.amount_produced": {
+    "present": 2
+   },
+   "COBJ.created_object": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.description": {
+    "present": 2
+   },
+   "COBJ.editor_id": {
+    "present": 2
+   },
+   "COBJ.learn_method": {
+    "present": 2
+   },
+   "COBJ.max_build_count": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 2
+   },
+   "COBJ.recipe_filters": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.tier": {
+    "present": 2
+   },
+   "COBJ.value": {
+    "present": 2
+   },
+   "COBJ.workbench_keyword": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT": {
+    "records": 2
+   },
+   "CONT.bounds": {
+    "present": 2
+   },
+   "CONT.dirtiness": {
+    "present": 2
+   },
+   "CONT.editor_id": {
+    "present": 2
+   },
+   "CONT.flags": {
+    "present": 2
+   },
+   "CONT.keyword_count": {
+    "present": 2
+   },
+   "CONT.keywords": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT.light_layer": {
+    "present": 2
+   },
+   "CONT.model": {
+    "present": 2
+   },
+   "CONT.name": {
+    "present": 2
+   },
+   "CONT.native_terminal": {
+    "present": 2,
+    "links": 2
+   },
+   "DIAL": {
+    "records": 37
+   },
+   "DIAL.branch": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL.editor_id": {
+    "present": 37
+   },
+   "DIAL.info_count": {
+    "present": 37
+   },
+   "DIAL.priority": {
+    "present": 37
+   },
+   "DIAL.quest": {
+    "present": 37,
+    "links": 37
+   },
+   "FLST": {
+    "records": 12
+   },
+   "FLST.editor_id": {
+    "present": 12
+   },
+   "FLST.forms": {
+    "present": 1507,
+    "links": 1507
+   },
+   "FLST.name": {
+    "present": 7
+   },
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "NPC_": {
+    "records": 23
+   },
+   "NPC_.bounds": {
+    "present": 23
+   },
+   "NPC_.class_": {
+    "present": 19,
+    "links": 19
+   },
+   "NPC_.default_template": {
+    "present": 9,
+    "links": 9
+   },
+   "NPC_.dirtiness": {
+    "present": 23
+   },
+   "NPC_.editor_id": {
+    "present": 23
+   },
+   "NPC_.keyword_count": {
+    "present": 15
+   },
+   "NPC_.keywords": {
+    "present": 15,
+    "links": 15
+   },
+   "NPC_.name": {
+    "present": 9
+   },
+   "NPC_.race": {
+    "present": 23,
+    "links": 23
+   },
+   "NPC_.voice": {
+    "present": 23,
+    "links": 23
+   },
+   "REFR": {
+    "records": 18573
+   },
+   "REFR.base": {
+    "present": 18573,
+    "links": 18573
+   },
+   "REFR.editor_id": {
+    "present": 91
+   },
+   "REFR.enable_parent": {
+    "present": 15,
+    "links": 15
+   },
+   "REFR.faction_rank": {
+    "present": 2159
+   },
+   "REFR.layer": {
+    "present": 10489,
+    "links": 10489
+   },
+   "REFR.linked_refs": {
+    "present": 4762,
+    "links": 8888
+   },
+   "REFR.linked_refs_transient": {
+    "present": 3524
+   },
+   "REFR.location_reference": {
+    "present": 630,
+    "links": 630
+   },
+   "REFR.ownership": {
+    "present": 2029,
+    "links": 2029
+   },
+   "REFR.persist_location": {
+    "present": 11,
+    "links": 11
+   },
+   "REFR.placement": {
+    "present": 18573
+   },
+   "REFR.reference_group": {
+    "present": 744,
+    "links": 744
+   },
+   "REFR.scale": {
+    "present": 4719
+   },
+   "WRLD": {
+    "records": 15
+   },
+   "WRLD.ambient_set": {
+    "present": 4,
+    "links": 4
+   },
+   "WRLD.biome": {
+    "present": 15,
+    "links": 15
+   },
+   "WRLD.climate": {
+    "present": 8,
+    "links": 8
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 15
+   },
+   "WRLD.editor_id": {
+    "present": 15
+   },
+   "WRLD.flags2": {
+    "present": 15
+   },
+   "WRLD.gravity_scale": {
+    "present": 15
+   },
+   "WRLD.location": {
+    "present": 15,
+    "links": 15
+   },
+   "WRLD.music": {
+    "present": 9,
+    "links": 9
+   },
+   "WRLD.name": {
+    "present": 15
+   },
+   "WRLD.water": {
+    "present": 9,
+    "links": 9
+   },
+   "WRLD.world_flags": {
+    "present": 15
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "live_off_the_land.esm",
+  "seconds": 0.01,
+  "members": {
+   "COBJ": {
+    "records": 36
+   },
+   "COBJ.amount_produced": {
+    "present": 36
+   },
+   "COBJ.created_object": {
+    "present": 36,
+    "links": 36
+   },
+   "COBJ.description": {
+    "present": 36
+   },
+   "COBJ.editor_id": {
+    "present": 36
+   },
+   "COBJ.learn_method": {
+    "present": 36
+   },
+   "COBJ.menu_priority": {
+    "present": 36
+   },
+   "COBJ.recipe_filters": {
+    "present": 25,
+    "links": 25
+   },
+   "COBJ.tier": {
+    "present": 36
+   },
+   "COBJ.value": {
+    "present": 36
+   },
+   "COBJ.workbench_keyword": {
+    "present": 36,
+    "links": 33
+   },
+   "CONT": {
+    "records": 11
+   },
+   "CONT.bounds": {
+    "present": 11
+   },
+   "CONT.contains_only_filter": {
+    "present": 6,
+    "links": 6
+   },
+   "CONT.dirtiness": {
+    "present": 11
+   },
+   "CONT.editor_id": {
+    "present": 11
+   },
+   "CONT.flags": {
+    "present": 11
+   },
+   "CONT.keyword_count": {
+    "present": 11
+   },
+   "CONT.keywords": {
+    "present": 11,
+    "links": 39
+   },
+   "CONT.light_layer": {
+    "present": 11
+   },
+   "CONT.model": {
+    "present": 11
+   },
+   "CONT.name": {
+    "present": 11
+   },
+   "CONT.native_terminal": {
+    "present": 11,
+    "links": 11
+   },
+   "FLST": {
+    "records": 13
+   },
+   "FLST.editor_id": {
+    "present": 13
+   },
+   "FLST.forms": {
+    "present": 48,
+    "links": 48
+   },
+   "FLST.name": {
+    "present": 3
+   },
+   "GLOB": {
+    "records": 4
+   },
+   "GLOB.editor_id": {
+    "present": 4
+   },
+   "GLOB.value": {
+    "present": 4
+   },
+   "KYWD": {
+    "records": 4
+   },
+   "KYWD.color": {
+    "present": 4
+   },
+   "KYWD.editor_id": {
+    "present": 4
+   },
+   "KYWD.keyword_type": {
+    "present": 4
+   },
+   "KYWD.unknown_fnam": {
+    "present": 4
+   },
+   "MISC": {
+    "records": 11
+   },
+   "MISC.bounds": {
+    "present": 11
+   },
+   "MISC.data": {
+    "present": 11
+   },
+   "MISC.dirtiness": {
+    "present": 11
+   },
+   "MISC.editor_id": {
+    "present": 11
+   },
+   "MISC.flags": {
+    "present": 3
+   },
+   "MISC.keyword_count": {
+    "present": 3
+   },
+   "MISC.keywords": {
+    "present": 3,
+    "links": 5
+   },
+   "MISC.light_layer": {
+    "present": 11
+   },
+   "MISC.model": {
+    "present": 11
+   },
+   "MISC.name": {
+    "present": 11
+   },
+   "STAT": {
+    "records": 40
+   },
+   "STAT.bounds": {
+    "present": 40
+   },
+   "STAT.direction_material": {
+    "present": 40
+   },
+   "STAT.dirtiness": {
+    "present": 40
+   },
+   "STAT.editor_id": {
+    "present": 40
+   },
+   "STAT.light_layer": {
+    "present": 40
+   },
+   "STAT.model": {
+    "present": 40
+   },
+   "STAT.snap_template": {
+    "present": 5,
+    "links": 5
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "mordrid-register-ship-cheap-lesscheaty.esm",
+  "seconds": 0.0,
+  "members": {},
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "non-lethal framework - free.esm",
+  "seconds": 0.01,
+  "members": {
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST": {
+    "records": 5
+   },
+   "FLST.editor_id": {
+    "present": 5
+   },
+   "FLST.forms": {
+    "present": 11,
+    "links": 11
+   },
+   "GLOB": {
+    "records": 1
+   },
+   "GLOB.editor_id": {
+    "present": 1
+   },
+   "GLOB.value": {
+    "present": 1
+   },
+   "KYWD": {
+    "records": 5
+   },
+   "KYWD.color": {
+    "present": 5
+   },
+   "KYWD.editor_id": {
+    "present": 5
+   },
+   "KYWD.keyword_type": {
+    "present": 5
+   },
+   "KYWD.notes": {
+    "present": 2
+   },
+   "KYWD.unknown_fnam": {
+    "present": 5
+   },
+   "MISC": {
+    "records": 2
+   },
+   "MISC.bounds": {
+    "present": 2
+   },
+   "MISC.data": {
+    "present": 2
+   },
+   "MISC.dirtiness": {
+    "present": 2
+   },
+   "MISC.editor_id": {
+    "present": 2
+   },
+   "MISC.flags": {
+    "present": 2
+   },
+   "MISC.keyword_count": {
+    "present": 2
+   },
+   "MISC.keywords": {
+    "present": 2,
+    "links": 6
+   },
+   "MISC.light_layer": {
+    "present": 2
+   },
+   "MISC.model": {
+    "present": 2
+   },
+   "MISC.name": {
+    "present": 2
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "positivelynewatlantis.esm",
+  "seconds": 0.29,
+  "members": {
+   "ACHR": {
+    "records": 2
+   },
+   "ACHR.base": {
+    "present": 2,
+    "links": 2
+   },
+   "ACHR.level_modifier": {
+    "present": 2
+   },
+   "ACHR.linked_refs": {
+    "present": 2,
+    "links": 2
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 2
+   },
+   "ACHR.placement": {
+    "present": 2
+   },
+   "CELL": {
+    "records": 249
+   },
+   "CELL.cell_flags": {
+    "present": 249
+   },
+   "CELL.editor_id": {
+    "present": 82
+   },
+   "CELL.image_space": {
+    "present": 64,
+    "links": 64
+   },
+   "CELL.lighting_template": {
+    "present": 249
+   },
+   "CELL.location": {
+    "present": 18,
+    "links": 18
+   },
+   "CELL.water_height": {
+    "present": 249
+   },
+   "DIAL": {
+    "records": 1
+   },
+   "DIAL.info_count": {
+    "present": 1
+   },
+   "DIAL.priority": {
+    "present": 1
+   },
+   "DIAL.quest": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR": {
+    "records": 4905
+   },
+   "REFR.base": {
+    "present": 4905,
+    "links": 4905
+   },
+   "REFR.layer": {
+    "present": 30,
+    "links": 30
+   },
+   "REFR.linked_refs": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR.linked_refs_transient": {
+    "present": 6
+   },
+   "REFR.location_reference": {
+    "present": 2,
+    "links": 2
+   },
+   "REFR.placement": {
+    "present": 4881
+   },
+   "REFR.reference_group": {
+    "present": 38,
+    "links": 38
+   },
+   "REFR.scale": {
+    "present": 1095
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "proximacentri.esm",
+  "seconds": 0.0,
+  "members": {},
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "rbt_skeletonkey.esm",
+  "seconds": 0.0,
+  "members": {
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "roleplayersalternatestart.esm",
+  "seconds": 0.02,
+  "members": {
+   "ACHR": {
+    "records": 2
+   },
+   "ACHR.base": {
+    "present": 2,
+    "links": 2
+   },
+   "ACHR.editor_id": {
+    "present": 2
+   },
+   "ACHR.linked_refs": {
+    "present": 1,
+    "links": 2
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 1
+   },
+   "ACHR.persist_location": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.placement": {
+    "present": 2
+   },
+   "CELL": {
+    "records": 3
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 3
+   },
+   "CELL.editor_id": {
+    "present": 3
+   },
+   "CELL.environment_map": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 2,
+    "links": 2
+   },
+   "CELL.lighting_template": {
+    "present": 3,
+    "links": 2
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.sky_region": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 3
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "CONT": {
+    "records": 1
+   },
+   "CONT.bounds": {
+    "present": 1
+   },
+   "CONT.dirtiness": {
+    "present": 1
+   },
+   "CONT.editor_id": {
+    "present": 1
+   },
+   "CONT.flags": {
+    "present": 1
+   },
+   "CONT.item_count": {
+    "present": 1
+   },
+   "CONT.items": {
+    "present": 65,
+    "links": 65
+   },
+   "CONT.keyword_count": {
+    "present": 1
+   },
+   "CONT.keywords": {
+    "present": 1,
+    "links": 1
+   },
+   "CONT.light_layer": {
+    "present": 1
+   },
+   "CONT.model": {
+    "present": 1
+   },
+   "CONT.native_terminal": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL": {
+    "records": 456
+   },
+   "DIAL.info_count": {
+    "present": 456
+   },
+   "DIAL.priority": {
+    "present": 456
+   },
+   "DIAL.quest": {
+    "present": 456,
+    "links": 456
+   },
+   "FLST": {
+    "records": 13
+   },
+   "FLST.editor_id": {
+    "present": 13
+   },
+   "FLST.forms": {
+    "present": 12,
+    "links": 12
+   },
+   "GLOB": {
+    "records": 38
+   },
+   "GLOB.editor_id": {
+    "present": 38
+   },
+   "GLOB.value": {
+    "present": 38
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "MISC": {
+    "records": 40
+   },
+   "MISC.bounds": {
+    "present": 40
+   },
+   "MISC.data": {
+    "present": 40
+   },
+   "MISC.dirtiness": {
+    "present": 40
+   },
+   "MISC.editor_id": {
+    "present": 40
+   },
+   "MISC.flags": {
+    "present": 1
+   },
+   "MISC.keyword_count": {
+    "present": 6
+   },
+   "MISC.keywords": {
+    "present": 6,
+    "links": 6
+   },
+   "MISC.light_layer": {
+    "present": 40
+   },
+   "MISC.model": {
+    "present": 1
+   },
+   "MISC.name": {
+    "present": 35
+   },
+   "NPC_": {
+    "records": 4
+   },
+   "NPC_.bounds": {
+    "present": 4
+   },
+   "NPC_.class_": {
+    "present": 3,
+    "links": 3
+   },
+   "NPC_.default_template": {
+    "present": 2,
+    "links": 2
+   },
+   "NPC_.dirtiness": {
+    "present": 4
+   },
+   "NPC_.editor_id": {
+    "present": 4
+   },
+   "NPC_.keyword_count": {
+    "present": 1
+   },
+   "NPC_.keywords": {
+    "present": 1,
+    "links": 83
+   },
+   "NPC_.name": {
+    "present": 2
+   },
+   "NPC_.race": {
+    "present": 4,
+    "links": 4
+   },
+   "NPC_.voice": {
+    "present": 4,
+    "links": 4
+   },
+   "REFR": {
+    "records": 319
+   },
+   "REFR.base": {
+    "present": 319,
+    "links": 319
+   },
+   "REFR.editor_id": {
+    "present": 14
+   },
+   "REFR.faction_rank": {
+    "present": 7
+   },
+   "REFR.layer": {
+    "present": 105,
+    "links": 105
+   },
+   "REFR.placement": {
+    "present": 319
+   },
+   "REFR.scale": {
+    "present": 29
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "s-47 speeder bike.esm",
+  "seconds": 0.01,
+  "members": {
+   "ACHR": {
+    "records": 3
+   },
+   "ACHR.base": {
+    "present": 3,
+    "links": 3
+   },
+   "ACHR.editor_id": {
+    "present": 3
+   },
+   "ACHR.layer": {
+    "present": 3,
+    "links": 3
+   },
+   "ACHR.linked_refs": {
+    "present": 10,
+    "links": 20
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 3
+   },
+   "ACHR.location_reference": {
+    "present": 3,
+    "links": 3
+   },
+   "ACHR.persist_location": {
+    "present": 3,
+    "links": 3
+   },
+   "ACHR.placement": {
+    "present": 3
+   },
+   "CELL": {
+    "records": 5
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 5
+   },
+   "CELL.editor_id": {
+    "present": 5
+   },
+   "CELL.environment_map": {
+    "present": 2
+   },
+   "CELL.image_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.lighting_template": {
+    "present": 5,
+    "links": 2
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 2
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 5
+   },
+   "COBJ": {
+    "records": 3
+   },
+   "COBJ.amount_produced": {
+    "present": 3
+   },
+   "COBJ.created_object": {
+    "present": 3,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 3
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 3
+   },
+   "COBJ.menu_priority": {
+    "present": 3
+   },
+   "COBJ.recipe_filters": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.tier": {
+    "present": 3
+   },
+   "COBJ.value": {
+    "present": 3
+   },
+   "COBJ.workbench_keyword": {
+    "present": 3,
+    "links": 3
+   },
+   "FLST": {
+    "records": 3
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST.name": {
+    "present": 3
+   },
+   "KYWD": {
+    "records": 2
+   },
+   "KYWD.color": {
+    "present": 2
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 2
+   },
+   "KYWD.unknown_fnam": {
+    "present": 2
+   },
+   "NPC_": {
+    "records": 4
+   },
+   "NPC_.bounds": {
+    "present": 4
+   },
+   "NPC_.class_": {
+    "present": 4,
+    "links": 4
+   },
+   "NPC_.default_template": {
+    "present": 3,
+    "links": 3
+   },
+   "NPC_.dirtiness": {
+    "present": 4
+   },
+   "NPC_.editor_id": {
+    "present": 4
+   },
+   "NPC_.keyword_count": {
+    "present": 4
+   },
+   "NPC_.keywords": {
+    "present": 4,
+    "links": 35
+   },
+   "NPC_.name": {
+    "present": 4
+   },
+   "NPC_.race": {
+    "present": 4,
+    "links": 4
+   },
+   "NPC_.voice": {
+    "present": 4,
+    "links": 4
+   },
+   "REFR": {
+    "records": 6
+   },
+   "REFR.base": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR.placement": {
+    "present": 6
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.biome": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "scientificgorillatimescaleground6.esm",
+  "seconds": 0.0,
+  "members": {},
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfbgs00c.esm",
+  "seconds": 0.05,
+  "members": {
+   "ACHR": {
+    "records": 1
+   },
+   "ACHR.base": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.level_modifier": {
+    "present": 1
+   },
+   "ACHR.linked_refs": {
+    "present": 2,
+    "links": 3
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 1
+   },
+   "ACHR.persist_location": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.placement": {
+    "present": 1
+   },
+   "CELL": {
+    "records": 5
+   },
+   "CELL.acoustic_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.cell_flags": {
+    "present": 5
+   },
+   "CELL.editor_id": {
+    "present": 4
+   },
+   "CELL.environment_map": {
+    "present": 3
+   },
+   "CELL.image_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.lighting_template": {
+    "present": 5,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.music": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.name": {
+    "present": 3
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 5
+   },
+   "COBJ": {
+    "records": 3
+   },
+   "COBJ.amount_produced": {
+    "present": 3
+   },
+   "COBJ.created_object": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.description": {
+    "present": 3
+   },
+   "COBJ.editor_id": {
+    "present": 3
+   },
+   "COBJ.learn_method": {
+    "present": 3
+   },
+   "COBJ.menu_priority": {
+    "present": 3
+   },
+   "COBJ.recipe_filters": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.tier": {
+    "present": 3
+   },
+   "COBJ.value": {
+    "present": 3
+   },
+   "COBJ.workbench_keyword": {
+    "present": 3,
+    "links": 3
+   },
+   "DIAL": {
+    "records": 645
+   },
+   "DIAL.info_count": {
+    "present": 645
+   },
+   "DIAL.priority": {
+    "present": 645
+   },
+   "DIAL.quest": {
+    "present": 645,
+    "links": 645
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 7,
+    "links": 7
+   },
+   "GLOB": {
+    "records": 4
+   },
+   "GLOB.editor_id": {
+    "present": 4
+   },
+   "GLOB.value": {
+    "present": 4
+   },
+   "KYWD": {
+    "records": 7
+   },
+   "KYWD.color": {
+    "present": 7
+   },
+   "KYWD.editor_id": {
+    "present": 7
+   },
+   "KYWD.keyword_type": {
+    "present": 7
+   },
+   "KYWD.unknown_fnam": {
+    "present": 7
+   },
+   "MISC": {
+    "records": 4
+   },
+   "MISC.bounds": {
+    "present": 4
+   },
+   "MISC.data": {
+    "present": 4
+   },
+   "MISC.dirtiness": {
+    "present": 4
+   },
+   "MISC.editor_id": {
+    "present": 4
+   },
+   "MISC.flags": {
+    "present": 1
+   },
+   "MISC.keyword_count": {
+    "present": 2
+   },
+   "MISC.keywords": {
+    "present": 2,
+    "links": 3
+   },
+   "MISC.light_layer": {
+    "present": 4
+   },
+   "MISC.model": {
+    "present": 4
+   },
+   "MISC.name": {
+    "present": 4
+   },
+   "NPC_": {
+    "records": 7
+   },
+   "NPC_.bounds": {
+    "present": 7
+   },
+   "NPC_.class_": {
+    "present": 7,
+    "links": 7
+   },
+   "NPC_.default_template": {
+    "present": 6,
+    "links": 6
+   },
+   "NPC_.dirtiness": {
+    "present": 7
+   },
+   "NPC_.editor_id": {
+    "present": 7
+   },
+   "NPC_.keyword_count": {
+    "present": 5
+   },
+   "NPC_.keywords": {
+    "present": 5,
+    "links": 10
+   },
+   "NPC_.name": {
+    "present": 5
+   },
+   "NPC_.race": {
+    "present": 7,
+    "links": 7
+   },
+   "NPC_.voice": {
+    "present": 6,
+    "links": 6
+   },
+   "REFR": {
+    "records": 763
+   },
+   "REFR.base": {
+    "present": 763,
+    "links": 763
+   },
+   "REFR.editor_id": {
+    "present": 10
+   },
+   "REFR.enable_parent": {
+    "present": 162,
+    "links": 162
+   },
+   "REFR.faction_rank": {
+    "present": 11
+   },
+   "REFR.layer": {
+    "present": 443,
+    "links": 443
+   },
+   "REFR.linked_refs": {
+    "present": 15,
+    "links": 18
+   },
+   "REFR.linked_refs_transient": {
+    "present": 12
+   },
+   "REFR.ownership": {
+    "present": 29,
+    "links": 29
+   },
+   "REFR.placement": {
+    "present": 763
+   },
+   "REFR.reference_group": {
+    "present": 88,
+    "links": 88
+   },
+   "REFR.scale": {
+    "present": 162
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfbgs021.esm",
+  "seconds": 0.01,
+  "members": {
+   "CELL": {
+    "records": 7
+   },
+   "CELL.cell_flags": {
+    "present": 7
+   },
+   "CELL.editor_id": {
+    "present": 7
+   },
+   "CELL.image_space": {
+    "present": 7,
+    "links": 7
+   },
+   "CELL.lighting_template": {
+    "present": 7
+   },
+   "CELL.water_height": {
+    "present": 7
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR": {
+    "records": 450
+   },
+   "REFR.base": {
+    "present": 450,
+    "links": 450
+   },
+   "REFR.layer": {
+    "present": 53,
+    "links": 53
+   },
+   "REFR.linked_refs": {
+    "present": 1,
+    "links": 2
+   },
+   "REFR.placement": {
+    "present": 450
+   },
+   "REFR.scale": {
+    "present": 175
+   },
+   "STAT": {
+    "records": 12
+   },
+   "STAT.bounds": {
+    "present": 12
+   },
+   "STAT.direction_material": {
+    "present": 12
+   },
+   "STAT.dirtiness": {
+    "present": 12
+   },
+   "STAT.editor_id": {
+    "present": 12
+   },
+   "STAT.light_layer": {
+    "present": 12
+   },
+   "STAT.model": {
+    "present": 12
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfbgs023.esm",
+  "seconds": 0.0,
+  "members": {
+   "CELL": {
+    "records": 1
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 1
+   },
+   "CELL.editor_id": {
+    "present": 1
+   },
+   "CELL.environment_map": {
+    "present": 1
+   },
+   "CELL.image_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.lighting_template": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 1
+   },
+   "REFR": {
+    "records": 1
+   },
+   "REFR.base": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.placement": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta01.esm",
+  "seconds": 0.73,
+  "members": {
+   "ACHR": {
+    "records": 60
+   },
+   "ACHR.base": {
+    "present": 60,
+    "links": 60
+   },
+   "ACHR.enable_parent": {
+    "present": 19,
+    "links": 19
+   },
+   "ACHR.layer": {
+    "present": 26,
+    "links": 26
+   },
+   "ACHR.level_modifier": {
+    "present": 39
+   },
+   "ACHR.linked_refs": {
+    "present": 31,
+    "links": 46
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 21
+   },
+   "ACHR.persist_location": {
+    "present": 53,
+    "links": 53
+   },
+   "ACHR.placement": {
+    "present": 60
+   },
+   "CELL": {
+    "records": 164
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 162
+   },
+   "CELL.editor_id": {
+    "present": 32
+   },
+   "CELL.environment_map": {
+    "present": 5
+   },
+   "CELL.image_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.lighting_template": {
+    "present": 162,
+    "links": 4
+   },
+   "CELL.location": {
+    "present": 11,
+    "links": 11
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 4
+   },
+   "CELL.water_height": {
+    "present": 162
+   },
+   "COBJ": {
+    "records": 15
+   },
+   "COBJ.amount_produced": {
+    "present": 15
+   },
+   "COBJ.created_object": {
+    "present": 15,
+    "links": 15
+   },
+   "COBJ.description": {
+    "present": 15
+   },
+   "COBJ.editor_id": {
+    "present": 15
+   },
+   "COBJ.learn_method": {
+    "present": 15
+   },
+   "COBJ.menu_priority": {
+    "present": 15
+   },
+   "COBJ.recipe_filters": {
+    "present": 15,
+    "links": 15
+   },
+   "COBJ.tier": {
+    "present": 15
+   },
+   "COBJ.value": {
+    "present": 15
+   },
+   "COBJ.workbench_keyword": {
+    "present": 15,
+    "links": 15
+   },
+   "DIAL": {
+    "records": 214
+   },
+   "DIAL.info_count": {
+    "present": 214
+   },
+   "DIAL.priority": {
+    "present": 214
+   },
+   "DIAL.quest": {
+    "present": 214,
+    "links": 214
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 1,
+    "links": 1
+   },
+   "KYWD": {
+    "records": 9
+   },
+   "KYWD.color": {
+    "present": 9
+   },
+   "KYWD.editor_id": {
+    "present": 9
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 9
+   },
+   "KYWD.unknown_fnam": {
+    "present": 9
+   },
+   "NPC_": {
+    "records": 26
+   },
+   "NPC_.bounds": {
+    "present": 26
+   },
+   "NPC_.class_": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.default_template": {
+    "present": 5,
+    "links": 5
+   },
+   "NPC_.dirtiness": {
+    "present": 26
+   },
+   "NPC_.editor_id": {
+    "present": 26
+   },
+   "NPC_.keyword_count": {
+    "present": 6
+   },
+   "NPC_.keywords": {
+    "present": 6,
+    "links": 9
+   },
+   "NPC_.name": {
+    "present": 25
+   },
+   "NPC_.race": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.voice": {
+    "present": 24,
+    "links": 24
+   },
+   "REFR": {
+    "records": 19310
+   },
+   "REFR.base": {
+    "present": 19310,
+    "links": 19310
+   },
+   "REFR.editor_id": {
+    "present": 31
+   },
+   "REFR.enable_parent": {
+    "present": 7,
+    "links": 7
+   },
+   "REFR.faction_rank": {
+    "present": 87
+   },
+   "REFR.layer": {
+    "present": 14542,
+    "links": 14542
+   },
+   "REFR.linked_refs": {
+    "present": 551,
+    "links": 603
+   },
+   "REFR.linked_refs_transient": {
+    "present": 534
+   },
+   "REFR.ownership": {
+    "present": 287,
+    "links": 287
+   },
+   "REFR.placement": {
+    "present": 19301
+   },
+   "REFR.reference_group": {
+    "present": 3125,
+    "links": 3125
+   },
+   "REFR.scale": {
+    "present": 6944
+   },
+   "REFR.source_pack_in": {
+    "present": 219,
+    "links": 219
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 5
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 5
+   },
+   "WRLD.editor_id": {
+    "present": 5
+   },
+   "WRLD.flags2": {
+    "present": 5
+   },
+   "WRLD.gravity_scale": {
+    "present": 5
+   },
+   "WRLD.location": {
+    "present": 4,
+    "links": 4
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 5
+   },
+   "WRLD.world_flags": {
+    "present": 5
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta02.esm",
+  "seconds": 0.47,
+  "members": {
+   "ACHR": {
+    "records": 13
+   },
+   "ACHR.base": {
+    "present": 13,
+    "links": 13
+   },
+   "ACHR.enable_parent": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.layer": {
+    "present": 10,
+    "links": 10
+   },
+   "ACHR.level_modifier": {
+    "present": 3
+   },
+   "ACHR.linked_refs": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.persist_location": {
+    "present": 13,
+    "links": 13
+   },
+   "ACHR.placement": {
+    "present": 13
+   },
+   "CELL": {
+    "records": 27
+   },
+   "CELL.acoustic_space": {
+    "present": 5,
+    "links": 5
+   },
+   "CELL.cell_flags": {
+    "present": 25
+   },
+   "CELL.editor_id": {
+    "present": 15
+   },
+   "CELL.environment_map": {
+    "present": 6
+   },
+   "CELL.image_space": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.lighting_template": {
+    "present": 25,
+    "links": 4
+   },
+   "CELL.location": {
+    "present": 14,
+    "links": 14
+   },
+   "CELL.music": {
+    "present": 5,
+    "links": 5
+   },
+   "CELL.name": {
+    "present": 7
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 25
+   },
+   "COBJ": {
+    "records": 3
+   },
+   "COBJ.amount_produced": {
+    "present": 3
+   },
+   "COBJ.created_object": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.description": {
+    "present": 3
+   },
+   "COBJ.editor_id": {
+    "present": 3
+   },
+   "COBJ.learn_method": {
+    "present": 3
+   },
+   "COBJ.menu_priority": {
+    "present": 3
+   },
+   "COBJ.recipe_filters": {
+    "present": 3,
+    "links": 3
+   },
+   "COBJ.tier": {
+    "present": 3
+   },
+   "COBJ.value": {
+    "present": 3
+   },
+   "COBJ.workbench_keyword": {
+    "present": 3,
+    "links": 3
+   },
+   "DIAL": {
+    "records": 499
+   },
+   "DIAL.info_count": {
+    "present": 499
+   },
+   "DIAL.priority": {
+    "present": 499
+   },
+   "DIAL.quest": {
+    "present": 499,
+    "links": 499
+   },
+   "FLST": {
+    "records": 5
+   },
+   "FLST.editor_id": {
+    "present": 5
+   },
+   "FLST.forms": {
+    "present": 23,
+    "links": 23
+   },
+   "GLOB": {
+    "records": 12
+   },
+   "GLOB.editor_id": {
+    "present": 12
+   },
+   "GLOB.value": {
+    "present": 12
+   },
+   "KYWD": {
+    "records": 10
+   },
+   "KYWD.color": {
+    "present": 10
+   },
+   "KYWD.editor_id": {
+    "present": 9
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 10
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 10
+   },
+   "MISC": {
+    "records": 6
+   },
+   "MISC.bounds": {
+    "present": 6
+   },
+   "MISC.data": {
+    "present": 6
+   },
+   "MISC.dirtiness": {
+    "present": 6
+   },
+   "MISC.editor_id": {
+    "present": 6
+   },
+   "MISC.keyword_count": {
+    "present": 4
+   },
+   "MISC.keywords": {
+    "present": 4,
+    "links": 10
+   },
+   "MISC.light_layer": {
+    "present": 6
+   },
+   "MISC.model": {
+    "present": 6
+   },
+   "MISC.name": {
+    "present": 6
+   },
+   "NPC_": {
+    "records": 36
+   },
+   "NPC_.bounds": {
+    "present": 36
+   },
+   "NPC_.class_": {
+    "present": 36,
+    "links": 36
+   },
+   "NPC_.default_template": {
+    "present": 28,
+    "links": 28
+   },
+   "NPC_.dirtiness": {
+    "present": 36
+   },
+   "NPC_.editor_id": {
+    "present": 36
+   },
+   "NPC_.keyword_count": {
+    "present": 24
+   },
+   "NPC_.keywords": {
+    "present": 24,
+    "links": 26
+   },
+   "NPC_.name": {
+    "present": 26
+   },
+   "NPC_.race": {
+    "present": 36,
+    "links": 36
+   },
+   "NPC_.voice": {
+    "present": 36,
+    "links": 36
+   },
+   "REFR": {
+    "records": 11940
+   },
+   "REFR.base": {
+    "present": 11940,
+    "links": 11940
+   },
+   "REFR.editor_id": {
+    "present": 289
+   },
+   "REFR.enable_parent": {
+    "present": 915,
+    "links": 915
+   },
+   "REFR.faction_rank": {
+    "present": 137
+   },
+   "REFR.layer": {
+    "present": 8262,
+    "links": 8262
+   },
+   "REFR.linked_refs": {
+    "present": 711,
+    "links": 842
+   },
+   "REFR.linked_refs_transient": {
+    "present": 646
+   },
+   "REFR.ownership": {
+    "present": 767,
+    "links": 767
+   },
+   "REFR.placement": {
+    "present": 11934
+   },
+   "REFR.reference_group": {
+    "present": 1544,
+    "links": 1544
+   },
+   "REFR.scale": {
+    "present": 1579
+   },
+   "REFR.source_pack_in": {
+    "present": 18,
+    "links": 18
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta03.esm",
+  "seconds": 1.56,
+  "members": {
+   "ACHR": {
+    "records": 139
+   },
+   "ACHR.base": {
+    "present": 139,
+    "links": 139
+   },
+   "ACHR.enable_parent": {
+    "present": 46,
+    "links": 46
+   },
+   "ACHR.layer": {
+    "present": 82,
+    "links": 82
+   },
+   "ACHR.level_modifier": {
+    "present": 93
+   },
+   "ACHR.linked_refs": {
+    "present": 75,
+    "links": 100
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 65
+   },
+   "ACHR.persist_location": {
+    "present": 131,
+    "links": 131
+   },
+   "ACHR.placement": {
+    "present": 139
+   },
+   "ACHR.reference_group": {
+    "present": 7,
+    "links": 7
+   },
+   "ACHR.scale": {
+    "present": 1
+   },
+   "CELL": {
+    "records": 144
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 144
+   },
+   "CELL.editor_id": {
+    "present": 61
+   },
+   "CELL.environment_map": {
+    "present": 2
+   },
+   "CELL.image_space": {
+    "present": 56,
+    "links": 56
+   },
+   "CELL.lighting_template": {
+    "present": 144,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 3
+   },
+   "CELL.water_height": {
+    "present": 144
+   },
+   "COBJ": {
+    "records": 7
+   },
+   "COBJ.amount_produced": {
+    "present": 7
+   },
+   "COBJ.created_object": {
+    "present": 7,
+    "links": 7
+   },
+   "COBJ.description": {
+    "present": 7
+   },
+   "COBJ.editor_id": {
+    "present": 7
+   },
+   "COBJ.learn_method": {
+    "present": 7
+   },
+   "COBJ.menu_priority": {
+    "present": 7
+   },
+   "COBJ.recipe_filters": {
+    "present": 7,
+    "links": 7
+   },
+   "COBJ.tier": {
+    "present": 7
+   },
+   "COBJ.value": {
+    "present": 7
+   },
+   "COBJ.workbench_keyword": {
+    "present": 7,
+    "links": 7
+   },
+   "CONT": {
+    "records": 2
+   },
+   "CONT.bounds": {
+    "present": 2
+   },
+   "CONT.contains_only_filter": {
+    "present": 1,
+    "links": 1
+   },
+   "CONT.dirtiness": {
+    "present": 2
+   },
+   "CONT.editor_id": {
+    "present": 2
+   },
+   "CONT.flags": {
+    "present": 2
+   },
+   "CONT.keyword_count": {
+    "present": 2
+   },
+   "CONT.keywords": {
+    "present": 2,
+    "links": 5
+   },
+   "CONT.light_layer": {
+    "present": 2
+   },
+   "CONT.model": {
+    "present": 2
+   },
+   "CONT.name": {
+    "present": 2
+   },
+   "CONT.native_terminal": {
+    "present": 2,
+    "links": 2
+   },
+   "DIAL": {
+    "records": 696
+   },
+   "DIAL.branch": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL.editor_id": {
+    "present": 1
+   },
+   "DIAL.info_count": {
+    "present": 696
+   },
+   "DIAL.name": {
+    "present": 1
+   },
+   "DIAL.priority": {
+    "present": 696
+   },
+   "DIAL.quest": {
+    "present": 696,
+    "links": 696
+   },
+   "FLST": {
+    "records": 8
+   },
+   "FLST.editor_id": {
+    "present": 8
+   },
+   "FLST.forms": {
+    "present": 27,
+    "links": 27
+   },
+   "GLOB": {
+    "records": 6
+   },
+   "GLOB.editor_id": {
+    "present": 6
+   },
+   "GLOB.value": {
+    "present": 6
+   },
+   "KYWD": {
+    "records": 35
+   },
+   "KYWD.color": {
+    "present": 35
+   },
+   "KYWD.editor_id": {
+    "present": 35
+   },
+   "KYWD.keyword_type": {
+    "present": 35
+   },
+   "KYWD.notes": {
+    "present": 5
+   },
+   "KYWD.unknown_fnam": {
+    "present": 35
+   },
+   "MISC": {
+    "records": 5
+   },
+   "MISC.bounds": {
+    "present": 5
+   },
+   "MISC.data": {
+    "present": 5
+   },
+   "MISC.dirtiness": {
+    "present": 5
+   },
+   "MISC.editor_id": {
+    "present": 5
+   },
+   "MISC.flags": {
+    "present": 1
+   },
+   "MISC.keyword_count": {
+    "present": 5
+   },
+   "MISC.keywords": {
+    "present": 5,
+    "links": 12
+   },
+   "MISC.light_layer": {
+    "present": 5
+   },
+   "MISC.model": {
+    "present": 5
+   },
+   "MISC.name": {
+    "present": 5
+   },
+   "NPC_": {
+    "records": 71
+   },
+   "NPC_.bounds": {
+    "present": 71
+   },
+   "NPC_.class_": {
+    "present": 71,
+    "links": 71
+   },
+   "NPC_.default_template": {
+    "present": 52,
+    "links": 52
+   },
+   "NPC_.dirtiness": {
+    "present": 71
+   },
+   "NPC_.editor_id": {
+    "present": 71
+   },
+   "NPC_.keyword_count": {
+    "present": 43
+   },
+   "NPC_.keywords": {
+    "present": 43,
+    "links": 75
+   },
+   "NPC_.name": {
+    "present": 40
+   },
+   "NPC_.race": {
+    "present": 71,
+    "links": 71
+   },
+   "NPC_.voice": {
+    "present": 54,
+    "links": 54
+   },
+   "REFR": {
+    "records": 40162
+   },
+   "REFR.base": {
+    "present": 40162,
+    "links": 40162
+   },
+   "REFR.editor_id": {
+    "present": 215
+   },
+   "REFR.enable_parent": {
+    "present": 2841,
+    "links": 2841
+   },
+   "REFR.faction_rank": {
+    "present": 979
+   },
+   "REFR.layer": {
+    "present": 34895,
+    "links": 34895
+   },
+   "REFR.linked_refs": {
+    "present": 1991,
+    "links": 2601
+   },
+   "REFR.linked_refs_transient": {
+    "present": 1759
+   },
+   "REFR.ownership": {
+    "present": 5,
+    "links": 5
+   },
+   "REFR.persist_location": {
+    "present": 8,
+    "links": 8
+   },
+   "REFR.placement": {
+    "present": 40162
+   },
+   "REFR.reference_group": {
+    "present": 14645,
+    "links": 14645
+   },
+   "REFR.scale": {
+    "present": 18065
+   },
+   "REFR.source_pack_in": {
+    "present": 820,
+    "links": 820
+   },
+   "STAT": {
+    "records": 18
+   },
+   "STAT.bounds": {
+    "present": 18
+   },
+   "STAT.direction_material": {
+    "present": 18
+   },
+   "STAT.dirtiness": {
+    "present": 18
+   },
+   "STAT.editor_id": {
+    "present": 18
+   },
+   "STAT.light_layer": {
+    "present": 18
+   },
+   "STAT.model": {
+    "present": 18
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 4
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 2
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 2
+   },
+   "WRLD.editor_id": {
+    "present": 2
+   },
+   "WRLD.flags2": {
+    "present": 2
+   },
+   "WRLD.gravity_scale": {
+    "present": 2
+   },
+   "WRLD.location": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.name": {
+    "present": 2
+   },
+   "WRLD.world_flags": {
+    "present": 2
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta04.esm",
+  "seconds": 0.75,
+  "members": {
+   "ACHR": {
+    "records": 54
+   },
+   "ACHR.base": {
+    "present": 54,
+    "links": 54
+   },
+   "ACHR.editor_id": {
+    "present": 7
+   },
+   "ACHR.layer": {
+    "present": 40,
+    "links": 40
+   },
+   "ACHR.level_modifier": {
+    "present": 52
+   },
+   "ACHR.persist_location": {
+    "present": 49,
+    "links": 49
+   },
+   "ACHR.placement": {
+    "present": 54
+   },
+   "CELL": {
+    "records": 125
+   },
+   "CELL.cell_flags": {
+    "present": 124
+   },
+   "CELL.editor_id": {
+    "present": 18
+   },
+   "CELL.environment_map": {
+    "present": 3
+   },
+   "CELL.image_space": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.lighting_template": {
+    "present": 124,
+    "links": 3
+   },
+   "CELL.name": {
+    "present": 3
+   },
+   "CELL.water_height": {
+    "present": 124
+   },
+   "COBJ": {
+    "records": 31
+   },
+   "COBJ.amount_produced": {
+    "present": 31
+   },
+   "COBJ.created_object": {
+    "present": 31,
+    "links": 31
+   },
+   "COBJ.description": {
+    "present": 31
+   },
+   "COBJ.editor_id": {
+    "present": 31
+   },
+   "COBJ.learn_method": {
+    "present": 31
+   },
+   "COBJ.menu_priority": {
+    "present": 31
+   },
+   "COBJ.recipe_filters": {
+    "present": 31,
+    "links": 31
+   },
+   "COBJ.tier": {
+    "present": 31
+   },
+   "COBJ.value": {
+    "present": 31
+   },
+   "COBJ.workbench_keyword": {
+    "present": 31,
+    "links": 31
+   },
+   "CONT": {
+    "records": 1
+   },
+   "CONT.bounds": {
+    "present": 1
+   },
+   "CONT.dirtiness": {
+    "present": 1
+   },
+   "CONT.editor_id": {
+    "present": 1
+   },
+   "CONT.flags": {
+    "present": 1
+   },
+   "CONT.item_count": {
+    "present": 1
+   },
+   "CONT.items": {
+    "present": 7,
+    "links": 7
+   },
+   "CONT.keyword_count": {
+    "present": 1
+   },
+   "CONT.keywords": {
+    "present": 1,
+    "links": 1
+   },
+   "CONT.light_layer": {
+    "present": 1
+   },
+   "CONT.model": {
+    "present": 1
+   },
+   "CONT.name": {
+    "present": 1
+   },
+   "CONT.native_terminal": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL": {
+    "records": 206
+   },
+   "DIAL.info_count": {
+    "present": 206
+   },
+   "DIAL.priority": {
+    "present": 206
+   },
+   "DIAL.quest": {
+    "present": 206,
+    "links": 206
+   },
+   "FLST": {
+    "records": 2
+   },
+   "FLST.editor_id": {
+    "present": 2
+   },
+   "FLST.forms": {
+    "present": 5,
+    "links": 5
+   },
+   "KYWD": {
+    "records": 12
+   },
+   "KYWD.color": {
+    "present": 12
+   },
+   "KYWD.editor_id": {
+    "present": 12
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 12
+   },
+   "KYWD.unknown_fnam": {
+    "present": 12
+   },
+   "MISC": {
+    "records": 4
+   },
+   "MISC.bounds": {
+    "present": 4
+   },
+   "MISC.data": {
+    "present": 4
+   },
+   "MISC.dirtiness": {
+    "present": 4
+   },
+   "MISC.editor_id": {
+    "present": 4
+   },
+   "MISC.keyword_count": {
+    "present": 4
+   },
+   "MISC.keywords": {
+    "present": 4,
+    "links": 10
+   },
+   "MISC.light_layer": {
+    "present": 4
+   },
+   "MISC.model": {
+    "present": 4
+   },
+   "MISC.name": {
+    "present": 4
+   },
+   "NPC_": {
+    "records": 18
+   },
+   "NPC_.bounds": {
+    "present": 18
+   },
+   "NPC_.class_": {
+    "present": 18,
+    "links": 18
+   },
+   "NPC_.default_template": {
+    "present": 16,
+    "links": 16
+   },
+   "NPC_.dirtiness": {
+    "present": 18
+   },
+   "NPC_.editor_id": {
+    "present": 17
+   },
+   "NPC_.keyword_count": {
+    "present": 3
+   },
+   "NPC_.keywords": {
+    "present": 3,
+    "links": 4
+   },
+   "NPC_.name": {
+    "present": 15
+   },
+   "NPC_.race": {
+    "present": 18,
+    "links": 18
+   },
+   "NPC_.voice": {
+    "present": 17,
+    "links": 17
+   },
+   "REFR": {
+    "records": 19489
+   },
+   "REFR.base": {
+    "present": 19489,
+    "links": 19489
+   },
+   "REFR.editor_id": {
+    "present": 44
+   },
+   "REFR.faction_rank": {
+    "present": 192
+   },
+   "REFR.layer": {
+    "present": 13407,
+    "links": 13407
+   },
+   "REFR.linked_refs": {
+    "present": 704,
+    "links": 744
+   },
+   "REFR.linked_refs_transient": {
+    "present": 675
+   },
+   "REFR.ownership": {
+    "present": 35,
+    "links": 35
+   },
+   "REFR.placement": {
+    "present": 19489
+   },
+   "REFR.reference_group": {
+    "present": 2795,
+    "links": 2795
+   },
+   "REFR.scale": {
+    "present": 6498
+   },
+   "REFR.source_pack_in": {
+    "present": 749,
+    "links": 749
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 7
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 3
+   },
+   "WRLD.editor_id": {
+    "present": 7
+   },
+   "WRLD.flags2": {
+    "present": 3
+   },
+   "WRLD.gravity_scale": {
+    "present": 3
+   },
+   "WRLD.location": {
+    "present": 3,
+    "links": 3
+   },
+   "WRLD.name": {
+    "present": 3
+   },
+   "WRLD.water": {
+    "present": 2,
+    "links": 2
+   },
+   "WRLD.world_flags": {
+    "present": 3
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta05.esm",
+  "seconds": 0.72,
+  "members": {
+   "ACHR": {
+    "records": 178
+   },
+   "ACHR.base": {
+    "present": 178,
+    "links": 178
+   },
+   "ACHR.editor_id": {
+    "present": 2
+   },
+   "ACHR.enable_parent": {
+    "present": 146,
+    "links": 146
+   },
+   "ACHR.layer": {
+    "present": 143,
+    "links": 143
+   },
+   "ACHR.level_modifier": {
+    "present": 150
+   },
+   "ACHR.linked_refs": {
+    "present": 97,
+    "links": 184
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 74
+   },
+   "ACHR.persist_location": {
+    "present": 176,
+    "links": 176
+   },
+   "ACHR.placement": {
+    "present": 178
+   },
+   "CELL": {
+    "records": 81
+   },
+   "CELL.acoustic_space": {
+    "present": 2,
+    "links": 2
+   },
+   "CELL.cell_flags": {
+    "present": 78
+   },
+   "CELL.editor_id": {
+    "present": 16
+   },
+   "CELL.environment_map": {
+    "present": 3
+   },
+   "CELL.image_space": {
+    "present": 9,
+    "links": 9
+   },
+   "CELL.lighting_template": {
+    "present": 78,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.name": {
+    "present": 3
+   },
+   "CELL.water_height": {
+    "present": 78
+   },
+   "COBJ": {
+    "records": 16
+   },
+   "COBJ.amount_produced": {
+    "present": 16
+   },
+   "COBJ.created_object": {
+    "present": 16,
+    "links": 16
+   },
+   "COBJ.description": {
+    "present": 16
+   },
+   "COBJ.editor_id": {
+    "present": 16
+   },
+   "COBJ.learn_method": {
+    "present": 16
+   },
+   "COBJ.menu_priority": {
+    "present": 16
+   },
+   "COBJ.recipe_filters": {
+    "present": 16,
+    "links": 16
+   },
+   "COBJ.tier": {
+    "present": 16
+   },
+   "COBJ.value": {
+    "present": 16
+   },
+   "COBJ.workbench_keyword": {
+    "present": 16,
+    "links": 16
+   },
+   "CONT": {
+    "records": 2
+   },
+   "CONT.bounds": {
+    "present": 2
+   },
+   "CONT.contains_only_filter": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT.dirtiness": {
+    "present": 2
+   },
+   "CONT.editor_id": {
+    "present": 2
+   },
+   "CONT.flags": {
+    "present": 2
+   },
+   "CONT.keyword_count": {
+    "present": 2
+   },
+   "CONT.keywords": {
+    "present": 2,
+    "links": 7
+   },
+   "CONT.light_layer": {
+    "present": 2
+   },
+   "CONT.model": {
+    "present": 2
+   },
+   "CONT.native_terminal": {
+    "present": 2,
+    "links": 2
+   },
+   "DIAL": {
+    "records": 373
+   },
+   "DIAL.info_count": {
+    "present": 373
+   },
+   "DIAL.priority": {
+    "present": 373
+   },
+   "DIAL.quest": {
+    "present": 373,
+    "links": 373
+   },
+   "FLST": {
+    "records": 3
+   },
+   "FLST.editor_id": {
+    "present": 3
+   },
+   "FLST.forms": {
+    "present": 9,
+    "links": 9
+   },
+   "FLST.name": {
+    "present": 2
+   },
+   "GLOB": {
+    "records": 4
+   },
+   "GLOB.editor_id": {
+    "present": 4
+   },
+   "GLOB.value": {
+    "present": 4
+   },
+   "KYWD": {
+    "records": 3
+   },
+   "KYWD.color": {
+    "present": 3
+   },
+   "KYWD.editor_id": {
+    "present": 3
+   },
+   "KYWD.keyword_type": {
+    "present": 3
+   },
+   "KYWD.unknown_fnam": {
+    "present": 3
+   },
+   "MISC": {
+    "records": 3
+   },
+   "MISC.bounds": {
+    "present": 3
+   },
+   "MISC.data": {
+    "present": 3
+   },
+   "MISC.dirtiness": {
+    "present": 3
+   },
+   "MISC.editor_id": {
+    "present": 3
+   },
+   "MISC.keyword_count": {
+    "present": 3
+   },
+   "MISC.keywords": {
+    "present": 3,
+    "links": 7
+   },
+   "MISC.light_layer": {
+    "present": 3
+   },
+   "MISC.model": {
+    "present": 3
+   },
+   "MISC.name": {
+    "present": 2
+   },
+   "NPC_": {
+    "records": 59
+   },
+   "NPC_.bounds": {
+    "present": 59
+   },
+   "NPC_.class_": {
+    "present": 59,
+    "links": 59
+   },
+   "NPC_.default_template": {
+    "present": 40,
+    "links": 40
+   },
+   "NPC_.dirtiness": {
+    "present": 59
+   },
+   "NPC_.editor_id": {
+    "present": 59
+   },
+   "NPC_.keyword_count": {
+    "present": 8
+   },
+   "NPC_.keywords": {
+    "present": 8,
+    "links": 11
+   },
+   "NPC_.name": {
+    "present": 33
+   },
+   "NPC_.race": {
+    "present": 59,
+    "links": 59
+   },
+   "NPC_.voice": {
+    "present": 56,
+    "links": 56
+   },
+   "REFR": {
+    "records": 17260
+   },
+   "REFR.base": {
+    "present": 17260,
+    "links": 17260
+   },
+   "REFR.editor_id": {
+    "present": 30
+   },
+   "REFR.enable_parent": {
+    "present": 1850,
+    "links": 1850
+   },
+   "REFR.faction_rank": {
+    "present": 406
+   },
+   "REFR.layer": {
+    "present": 16392,
+    "links": 16392
+   },
+   "REFR.linked_refs": {
+    "present": 1102,
+    "links": 1156
+   },
+   "REFR.linked_refs_transient": {
+    "present": 1069
+   },
+   "REFR.ownership": {
+    "present": 8,
+    "links": 8
+   },
+   "REFR.placement": {
+    "present": 17260
+   },
+   "REFR.reference_group": {
+    "present": 2885,
+    "links": 2885
+   },
+   "REFR.scale": {
+    "present": 8867
+   },
+   "REFR.source_pack_in": {
+    "present": 15,
+    "links": 15
+   },
+   "STAT": {
+    "records": 3
+   },
+   "STAT.bounds": {
+    "present": 3
+   },
+   "STAT.direction_material": {
+    "present": 3
+   },
+   "STAT.dirtiness": {
+    "present": 3
+   },
+   "STAT.editor_id": {
+    "present": 3
+   },
+   "STAT.light_layer": {
+    "present": 3
+   },
+   "STAT.model": {
+    "present": 3
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 2
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 2
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 2
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "sfta06.esm",
+  "seconds": 2.35,
+  "members": {
+   "ACHR": {
+    "records": 35
+   },
+   "ACHR.base": {
+    "present": 35,
+    "links": 35
+   },
+   "ACHR.enable_parent": {
+    "present": 11,
+    "links": 11
+   },
+   "ACHR.layer": {
+    "present": 33,
+    "links": 33
+   },
+   "ACHR.level_modifier": {
+    "present": 34
+   },
+   "ACHR.linked_refs": {
+    "present": 43,
+    "links": 71
+   },
+   "ACHR.linked_refs_transient": {
+    "present": 27
+   },
+   "ACHR.persist_location": {
+    "present": 34,
+    "links": 34
+   },
+   "ACHR.placement": {
+    "present": 35
+   },
+   "CELL": {
+    "records": 61
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 60
+   },
+   "CELL.editor_id": {
+    "present": 14
+   },
+   "CELL.environment_map": {
+    "present": 2
+   },
+   "CELL.image_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.lighting_template": {
+    "present": 60,
+    "links": 3
+   },
+   "CELL.location": {
+    "present": 4,
+    "links": 4
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 2
+   },
+   "CELL.sky_region": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 60
+   },
+   "COBJ": {
+    "records": 18
+   },
+   "COBJ.amount_produced": {
+    "present": 18
+   },
+   "COBJ.created_object": {
+    "present": 18,
+    "links": 18
+   },
+   "COBJ.description": {
+    "present": 18
+   },
+   "COBJ.editor_id": {
+    "present": 18
+   },
+   "COBJ.learn_method": {
+    "present": 18
+   },
+   "COBJ.menu_priority": {
+    "present": 18
+   },
+   "COBJ.recipe_filters": {
+    "present": 18,
+    "links": 18
+   },
+   "COBJ.tier": {
+    "present": 18
+   },
+   "COBJ.value": {
+    "present": 18
+   },
+   "COBJ.workbench_keyword": {
+    "present": 18,
+    "links": 18
+   },
+   "CONT": {
+    "records": 7
+   },
+   "CONT.bounds": {
+    "present": 7
+   },
+   "CONT.contains_only_filter": {
+    "present": 1,
+    "links": 1
+   },
+   "CONT.dirtiness": {
+    "present": 7
+   },
+   "CONT.editor_id": {
+    "present": 7
+   },
+   "CONT.flags": {
+    "present": 7
+   },
+   "CONT.item_count": {
+    "present": 4
+   },
+   "CONT.items": {
+    "present": 6,
+    "links": 6
+   },
+   "CONT.keyword_count": {
+    "present": 3
+   },
+   "CONT.keywords": {
+    "present": 3,
+    "links": 5
+   },
+   "CONT.light_layer": {
+    "present": 7
+   },
+   "CONT.model": {
+    "present": 7
+   },
+   "CONT.name": {
+    "present": 7
+   },
+   "CONT.native_terminal": {
+    "present": 7,
+    "links": 7
+   },
+   "DIAL": {
+    "records": 519
+   },
+   "DIAL.branch": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL.editor_id": {
+    "present": 1
+   },
+   "DIAL.info_count": {
+    "present": 519
+   },
+   "DIAL.name": {
+    "present": 1
+   },
+   "DIAL.priority": {
+    "present": 519
+   },
+   "DIAL.quest": {
+    "present": 519,
+    "links": 519
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 5,
+    "links": 5
+   },
+   "GLOB": {
+    "records": 3
+   },
+   "GLOB.editor_id": {
+    "present": 3
+   },
+   "GLOB.value": {
+    "present": 3
+   },
+   "KYWD": {
+    "records": 22
+   },
+   "KYWD.color": {
+    "present": 22
+   },
+   "KYWD.editor_id": {
+    "present": 22
+   },
+   "KYWD.flash_linkage": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 22
+   },
+   "KYWD.unknown_fnam": {
+    "present": 22
+   },
+   "MISC": {
+    "records": 5
+   },
+   "MISC.bounds": {
+    "present": 5
+   },
+   "MISC.data": {
+    "present": 5
+   },
+   "MISC.dirtiness": {
+    "present": 5
+   },
+   "MISC.editor_id": {
+    "present": 5
+   },
+   "MISC.keyword_count": {
+    "present": 5
+   },
+   "MISC.keywords": {
+    "present": 5,
+    "links": 11
+   },
+   "MISC.light_layer": {
+    "present": 5
+   },
+   "MISC.model": {
+    "present": 5
+   },
+   "MISC.name": {
+    "present": 4
+   },
+   "NPC_": {
+    "records": 26
+   },
+   "NPC_.bounds": {
+    "present": 26
+   },
+   "NPC_.class_": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.default_template": {
+    "present": 17,
+    "links": 17
+   },
+   "NPC_.dirtiness": {
+    "present": 26
+   },
+   "NPC_.editor_id": {
+    "present": 26
+   },
+   "NPC_.keyword_count": {
+    "present": 6
+   },
+   "NPC_.keywords": {
+    "present": 6,
+    "links": 6
+   },
+   "NPC_.name": {
+    "present": 8
+   },
+   "NPC_.race": {
+    "present": 26,
+    "links": 26
+   },
+   "NPC_.voice": {
+    "present": 25,
+    "links": 25
+   },
+   "REFR": {
+    "records": 52338
+   },
+   "REFR.base": {
+    "present": 52338,
+    "links": 52338
+   },
+   "REFR.editor_id": {
+    "present": 109
+   },
+   "REFR.enable_parent": {
+    "present": 52,
+    "links": 52
+   },
+   "REFR.faction_rank": {
+    "present": 305
+   },
+   "REFR.layer": {
+    "present": 41530,
+    "links": 41530
+   },
+   "REFR.linked_refs": {
+    "present": 10006,
+    "links": 17244
+   },
+   "REFR.linked_refs_transient": {
+    "present": 6190
+   },
+   "REFR.ownership": {
+    "present": 10,
+    "links": 10
+   },
+   "REFR.persist_location": {
+    "present": 2,
+    "links": 2
+   },
+   "REFR.placement": {
+    "present": 52338
+   },
+   "REFR.reference_group": {
+    "present": 6557,
+    "links": 6557
+   },
+   "REFR.scale": {
+    "present": 17242
+   },
+   "REFR.source_pack_in": {
+    "present": 141,
+    "links": 141
+   },
+   "STAT": {
+    "records": 2
+   },
+   "STAT.bounds": {
+    "present": 2
+   },
+   "STAT.direction_material": {
+    "present": 2
+   },
+   "STAT.dirtiness": {
+    "present": 2
+   },
+   "STAT.editor_id": {
+    "present": 2
+   },
+   "STAT.light_layer": {
+    "present": 2
+   },
+   "STAT.model": {
+    "present": 2
+   },
+   "STAT.model_flags": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   },
+   "STAT.snap_template": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "star_radio.esm",
+  "seconds": 0.01,
+  "members": {
+   "CELL": {
+    "records": 3
+   },
+   "CELL.acoustic_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.cell_flags": {
+    "present": 3
+   },
+   "CELL.editor_id": {
+    "present": 3
+   },
+   "CELL.environment_map": {
+    "present": 3
+   },
+   "CELL.image_space": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.lighting_template": {
+    "present": 3,
+    "links": 2
+   },
+   "CELL.location": {
+    "present": 2,
+    "links": 2
+   },
+   "CELL.music": {
+    "present": 3,
+    "links": 3
+   },
+   "CELL.name": {
+    "present": 3
+   },
+   "CELL.ownership": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.water_height": {
+    "present": 3
+   },
+   "COBJ": {
+    "records": 5
+   },
+   "COBJ.amount_produced": {
+    "present": 5
+   },
+   "COBJ.created_object": {
+    "present": 5,
+    "links": 5
+   },
+   "COBJ.description": {
+    "present": 5
+   },
+   "COBJ.editor_id": {
+    "present": 5
+   },
+   "COBJ.learn_method": {
+    "present": 5
+   },
+   "COBJ.menu_priority": {
+    "present": 5
+   },
+   "COBJ.recipe_filters": {
+    "present": 5,
+    "links": 5
+   },
+   "COBJ.tier": {
+    "present": 5
+   },
+   "COBJ.value": {
+    "present": 5
+   },
+   "COBJ.workbench_keyword": {
+    "present": 5,
+    "links": 5
+   },
+   "FLST": {
+    "records": 3
+   },
+   "FLST.editor_id": {
+    "present": 3
+   },
+   "FLST.forms": {
+    "present": 11,
+    "links": 11
+   },
+   "FLST.name": {
+    "present": 3
+   },
+   "MISC": {
+    "records": 4
+   },
+   "MISC.bounds": {
+    "present": 4
+   },
+   "MISC.data": {
+    "present": 4
+   },
+   "MISC.dirtiness": {
+    "present": 4
+   },
+   "MISC.editor_id": {
+    "present": 4
+   },
+   "MISC.keyword_count": {
+    "present": 4
+   },
+   "MISC.keywords": {
+    "present": 4,
+    "links": 12
+   },
+   "MISC.light_layer": {
+    "present": 4
+   },
+   "MISC.model": {
+    "present": 4
+   },
+   "MISC.name": {
+    "present": 4
+   },
+   "REFR": {
+    "records": 138
+   },
+   "REFR.base": {
+    "present": 138,
+    "links": 138
+   },
+   "REFR.editor_id": {
+    "present": 6
+   },
+   "REFR.layer": {
+    "present": 7,
+    "links": 7
+   },
+   "REFR.location_reference": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR.placement": {
+    "present": 138
+   },
+   "REFR.source_pack_in": {
+    "present": 6,
+    "links": 6
+   },
+   "STAT": {
+    "records": 4
+   },
+   "STAT.bounds": {
+    "present": 4
+   },
+   "STAT.direction_material": {
+    "present": 4
+   },
+   "STAT.dirtiness": {
+    "present": 4
+   },
+   "STAT.editor_id": {
+    "present": 4
+   },
+   "STAT.light_layer": {
+    "present": 4
+   },
+   "STAT.model": {
+    "present": 4
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "starship_mechanic.esm",
+  "seconds": 0.0,
+  "members": {
+   "CELL": {
+    "records": 6
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 6
+   },
+   "CELL.editor_id": {
+    "present": 6
+   },
+   "CELL.environment_map": {
+    "present": 6
+   },
+   "CELL.image_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.lighting_template": {
+    "present": 6,
+    "links": 1
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 2
+   },
+   "CELL.water_height": {
+    "present": 6
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 2,
+    "links": 2
+   },
+   "FLST.name": {
+    "present": 1
+   },
+   "KYWD": {
+    "records": 3
+   },
+   "KYWD.color": {
+    "present": 3
+   },
+   "KYWD.editor_id": {
+    "present": 3
+   },
+   "KYWD.keyword_type": {
+    "present": 3
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.notes": {
+    "present": 2
+   },
+   "KYWD.unknown_fnam": {
+    "present": 3
+   },
+   "REFR": {
+    "records": 38
+   },
+   "REFR.base": {
+    "present": 38,
+    "links": 38
+   },
+   "REFR.editor_id": {
+    "present": 2
+   },
+   "REFR.linked_refs": {
+    "present": 11,
+    "links": 22
+   },
+   "REFR.placement": {
+    "present": 38
+   },
+   "REFR.scale": {
+    "present": 16
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "useful brigs - free.esm",
+  "seconds": 0.02,
+  "members": {
+   "ACHR": {
+    "records": 1
+   },
+   "ACHR.base": {
+    "present": 1,
+    "links": 1
+   },
+   "ACHR.editor_id": {
+    "present": 1
+   },
+   "ACHR.placement": {
+    "present": 1
+   },
+   "CELL": {
+    "records": 33
+   },
+   "CELL.cell_flags": {
+    "present": 33
+   },
+   "CELL.editor_id": {
+    "present": 33
+   },
+   "CELL.image_space": {
+    "present": 33,
+    "links": 33
+   },
+   "CELL.lighting_template": {
+    "present": 33
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 1
+   },
+   "CELL.water_height": {
+    "present": 33
+   },
+   "COBJ": {
+    "records": 2
+   },
+   "COBJ.amount_produced": {
+    "present": 2
+   },
+   "COBJ.created_object": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.description": {
+    "present": 2
+   },
+   "COBJ.editor_id": {
+    "present": 2
+   },
+   "COBJ.learn_method": {
+    "present": 2
+   },
+   "COBJ.menu_priority": {
+    "present": 2
+   },
+   "COBJ.recipe_filters": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.tier": {
+    "present": 2
+   },
+   "COBJ.value": {
+    "present": 2
+   },
+   "COBJ.workbench_keyword": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT": {
+    "records": 1
+   },
+   "CONT.bounds": {
+    "present": 1
+   },
+   "CONT.dirtiness": {
+    "present": 1
+   },
+   "CONT.editor_id": {
+    "present": 1
+   },
+   "CONT.flags": {
+    "present": 1
+   },
+   "CONT.light_layer": {
+    "present": 1
+   },
+   "CONT.model": {
+    "present": 1
+   },
+   "CONT.name": {
+    "present": 1
+   },
+   "DIAL": {
+    "records": 9
+   },
+   "DIAL.info_count": {
+    "present": 9
+   },
+   "DIAL.priority": {
+    "present": 9
+   },
+   "DIAL.quest": {
+    "present": 9,
+    "links": 9
+   },
+   "FLST": {
+    "records": 7
+   },
+   "FLST.editor_id": {
+    "present": 7
+   },
+   "FLST.forms": {
+    "present": 51,
+    "links": 51
+   },
+   "GLOB": {
+    "records": 35
+   },
+   "GLOB.editor_id": {
+    "present": 35
+   },
+   "GLOB.value": {
+    "present": 35
+   },
+   "KYWD": {
+    "records": 8
+   },
+   "KYWD.color": {
+    "present": 8
+   },
+   "KYWD.editor_id": {
+    "present": 8
+   },
+   "KYWD.flash_linkage": {
+    "present": 2
+   },
+   "KYWD.keyword_type": {
+    "present": 8
+   },
+   "KYWD.unknown_fnam": {
+    "present": 8
+   },
+   "NPC_": {
+    "records": 1
+   },
+   "NPC_.bounds": {
+    "present": 1
+   },
+   "NPC_.class_": {
+    "present": 1,
+    "links": 1
+   },
+   "NPC_.dirtiness": {
+    "present": 1
+   },
+   "NPC_.editor_id": {
+    "present": 1
+   },
+   "NPC_.race": {
+    "present": 1,
+    "links": 1
+   },
+   "REFR": {
+    "records": 354
+   },
+   "REFR.base": {
+    "present": 354,
+    "links": 354
+   },
+   "REFR.editor_id": {
+    "present": 2
+   },
+   "REFR.layer": {
+    "present": 53,
+    "links": 53
+   },
+   "REFR.linked_refs": {
+    "present": 184,
+    "links": 368
+   },
+   "REFR.linked_refs_transient": {
+    "present": 7
+   },
+   "REFR.placement": {
+    "present": 354
+   },
+   "REFR.reference_group": {
+    "present": 2,
+    "links": 2
+   },
+   "REFR.scale": {
+    "present": 5
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "zakila.esm",
+  "seconds": 0.04,
+  "members": {
+   "ACHR": {
+    "records": 5
+   },
+   "ACHR.base": {
+    "present": 5,
+    "links": 5
+   },
+   "ACHR.level_modifier": {
+    "present": 5
+   },
+   "ACHR.placement": {
+    "present": 5
+   },
+   "CELL": {
+    "records": 41
+   },
+   "CELL.cell_flags": {
+    "present": 41
+   },
+   "CELL.editor_id": {
+    "present": 34
+   },
+   "CELL.image_space": {
+    "present": 34,
+    "links": 34
+   },
+   "CELL.lighting_template": {
+    "present": 41
+   },
+   "CELL.water_height": {
+    "present": 41
+   },
+   "REFR": {
+    "records": 1333
+   },
+   "REFR.base": {
+    "present": 1333,
+    "links": 1333
+   },
+   "REFR.layer": {
+    "present": 19,
+    "links": 19
+   },
+   "REFR.placement": {
+    "present": 1333
+   },
+   "REFR.scale": {
+    "present": 843
+   },
+   "WRLD": {
+    "records": 1
+   },
+   "WRLD.ambient_set": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.biome": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.climate": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 1
+   },
+   "WRLD.editor_id": {
+    "present": 1
+   },
+   "WRLD.flags2": {
+    "present": 1
+   },
+   "WRLD.gravity_scale": {
+    "present": 1
+   },
+   "WRLD.location": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.music": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.name": {
+    "present": 1
+   },
+   "WRLD.water": {
+    "present": 1,
+    "links": 1
+   },
+   "WRLD.world_flags": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "bolero.esp",
+  "seconds": 0.0,
+  "members": {
+   "GLOB": {
+    "records": 6
+   },
+   "GLOB.editor_id": {
+    "present": 6
+   },
+   "GLOB.value": {
+    "present": 6
+   },
+   "KYWD": {
+    "records": 4
+   },
+   "KYWD.color": {
+    "present": 4
+   },
+   "KYWD.editor_id": {
+    "present": 4
+   },
+   "KYWD.keyword_type": {
+    "present": 4
+   },
+   "KYWD.unknown_fnam": {
+    "present": 4
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "last_mile_shuttle.esp",
+  "seconds": 1.05,
+  "members": {
+   "CELL": {
+    "records": 94
+   },
+   "CELL.acoustic_space": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.cell_flags": {
+    "present": 94
+   },
+   "CELL.editor_id": {
+    "present": 71
+   },
+   "CELL.environment_map": {
+    "present": 5
+   },
+   "CELL.image_space": {
+    "present": 23,
+    "links": 23
+   },
+   "CELL.lighting_template": {
+    "present": 94,
+    "links": 20
+   },
+   "CELL.location": {
+    "present": 52,
+    "links": 52
+   },
+   "CELL.music": {
+    "present": 10,
+    "links": 10
+   },
+   "CELL.name": {
+    "present": 12
+   },
+   "CELL.ownership": {
+    "present": 8,
+    "links": 8
+   },
+   "CELL.water_height": {
+    "present": 94
+   },
+   "COBJ": {
+    "records": 2
+   },
+   "COBJ.amount_produced": {
+    "present": 2
+   },
+   "COBJ.created_object": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.description": {
+    "present": 2
+   },
+   "COBJ.editor_id": {
+    "present": 2
+   },
+   "COBJ.learn_method": {
+    "present": 2
+   },
+   "COBJ.max_build_count": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 2
+   },
+   "COBJ.recipe_filters": {
+    "present": 2,
+    "links": 2
+   },
+   "COBJ.tier": {
+    "present": 2
+   },
+   "COBJ.value": {
+    "present": 2
+   },
+   "COBJ.workbench_keyword": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT": {
+    "records": 2
+   },
+   "CONT.bounds": {
+    "present": 2
+   },
+   "CONT.dirtiness": {
+    "present": 2
+   },
+   "CONT.editor_id": {
+    "present": 2
+   },
+   "CONT.flags": {
+    "present": 2
+   },
+   "CONT.keyword_count": {
+    "present": 2
+   },
+   "CONT.keywords": {
+    "present": 2,
+    "links": 2
+   },
+   "CONT.light_layer": {
+    "present": 2
+   },
+   "CONT.model": {
+    "present": 2
+   },
+   "CONT.name": {
+    "present": 2
+   },
+   "CONT.native_terminal": {
+    "present": 2,
+    "links": 2
+   },
+   "DIAL": {
+    "records": 37
+   },
+   "DIAL.branch": {
+    "present": 1,
+    "links": 1
+   },
+   "DIAL.editor_id": {
+    "present": 37
+   },
+   "DIAL.info_count": {
+    "present": 37
+   },
+   "DIAL.priority": {
+    "present": 37
+   },
+   "DIAL.quest": {
+    "present": 37,
+    "links": 37
+   },
+   "FLST": {
+    "records": 12
+   },
+   "FLST.editor_id": {
+    "present": 12
+   },
+   "FLST.forms": {
+    "present": 1507,
+    "links": 1507
+   },
+   "FLST.name": {
+    "present": 7
+   },
+   "GLOB": {
+    "records": 2
+   },
+   "GLOB.editor_id": {
+    "present": 2
+   },
+   "GLOB.value": {
+    "present": 2
+   },
+   "KYWD": {
+    "records": 1
+   },
+   "KYWD.color": {
+    "present": 1
+   },
+   "KYWD.editor_id": {
+    "present": 1
+   },
+   "KYWD.keyword_type": {
+    "present": 1
+   },
+   "KYWD.unknown_fnam": {
+    "present": 1
+   },
+   "NPC_": {
+    "records": 23
+   },
+   "NPC_.bounds": {
+    "present": 23
+   },
+   "NPC_.class_": {
+    "present": 19,
+    "links": 19
+   },
+   "NPC_.default_template": {
+    "present": 9,
+    "links": 9
+   },
+   "NPC_.dirtiness": {
+    "present": 23
+   },
+   "NPC_.editor_id": {
+    "present": 23
+   },
+   "NPC_.keyword_count": {
+    "present": 15
+   },
+   "NPC_.keywords": {
+    "present": 15,
+    "links": 15
+   },
+   "NPC_.name": {
+    "present": 9
+   },
+   "NPC_.race": {
+    "present": 23,
+    "links": 23
+   },
+   "NPC_.voice": {
+    "present": 23,
+    "links": 23
+   },
+   "REFR": {
+    "records": 18573
+   },
+   "REFR.base": {
+    "present": 18573,
+    "links": 18573
+   },
+   "REFR.editor_id": {
+    "present": 91
+   },
+   "REFR.enable_parent": {
+    "present": 15,
+    "links": 15
+   },
+   "REFR.faction_rank": {
+    "present": 2159
+   },
+   "REFR.layer": {
+    "present": 10489,
+    "links": 10489
+   },
+   "REFR.linked_refs": {
+    "present": 4762,
+    "links": 8888
+   },
+   "REFR.linked_refs_transient": {
+    "present": 3524
+   },
+   "REFR.location_reference": {
+    "present": 630,
+    "links": 630
+   },
+   "REFR.ownership": {
+    "present": 2029,
+    "links": 2029
+   },
+   "REFR.persist_location": {
+    "present": 11,
+    "links": 11
+   },
+   "REFR.placement": {
+    "present": 18573
+   },
+   "REFR.reference_group": {
+    "present": 744,
+    "links": 744
+   },
+   "REFR.scale": {
+    "present": 4719
+   },
+   "WRLD": {
+    "records": 15
+   },
+   "WRLD.ambient_set": {
+    "present": 4,
+    "links": 4
+   },
+   "WRLD.biome": {
+    "present": 15,
+    "links": 15
+   },
+   "WRLD.climate": {
+    "present": 8,
+    "links": 8
+   },
+   "WRLD.distant_lod_multiplier": {
+    "present": 15
+   },
+   "WRLD.editor_id": {
+    "present": 15
+   },
+   "WRLD.flags2": {
+    "present": 15
+   },
+   "WRLD.gravity_scale": {
+    "present": 15
+   },
+   "WRLD.location": {
+    "present": 15,
+    "links": 15
+   },
+   "WRLD.music": {
+    "present": 9,
+    "links": 9
+   },
+   "WRLD.name": {
+    "present": 15
+   },
+   "WRLD.water": {
+    "present": 9,
+    "links": 9
+   },
+   "WRLD.world_flags": {
+    "present": 15
+   }
+  },
+  "failures": {},
+  "examples": {}
+ },
+ {
+  "file": "starship_mechanic.esp",
+  "seconds": 0.01,
+  "members": {
+   "CELL": {
+    "records": 6
+   },
+   "CELL.acoustic_space": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.cell_flags": {
+    "present": 6
+   },
+   "CELL.editor_id": {
+    "present": 6
+   },
+   "CELL.environment_map": {
+    "present": 6
+   },
+   "CELL.image_space": {
+    "present": 6,
+    "links": 6
+   },
+   "CELL.lighting_template": {
+    "present": 6,
+    "links": 1
+   },
+   "CELL.location": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.music": {
+    "present": 1,
+    "links": 1
+   },
+   "CELL.name": {
+    "present": 2
+   },
+   "CELL.water_height": {
+    "present": 6
+   },
+   "COBJ": {
+    "records": 1
+   },
+   "COBJ.amount_produced": {
+    "present": 1
+   },
+   "COBJ.created_object": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.description": {
+    "present": 1
+   },
+   "COBJ.editor_id": {
+    "present": 1
+   },
+   "COBJ.learn_method": {
+    "present": 1
+   },
+   "COBJ.menu_priority": {
+    "present": 1
+   },
+   "COBJ.recipe_filters": {
+    "present": 1,
+    "links": 1
+   },
+   "COBJ.tier": {
+    "present": 1
+   },
+   "COBJ.value": {
+    "present": 1
+   },
+   "COBJ.workbench_keyword": {
+    "present": 1,
+    "links": 1
+   },
+   "FLST": {
+    "records": 1
+   },
+   "FLST.editor_id": {
+    "present": 1
+   },
+   "FLST.forms": {
+    "present": 2,
+    "links": 2
+   },
+   "FLST.name": {
+    "present": 1
+   },
+   "KYWD": {
+    "records": 3
+   },
+   "KYWD.color": {
+    "present": 3
+   },
+   "KYWD.editor_id": {
+    "present": 3
+   },
+   "KYWD.keyword_type": {
+    "present": 3
+   },
+   "KYWD.name": {
+    "present": 1
+   },
+   "KYWD.notes": {
+    "present": 2
+   },
+   "KYWD.unknown_fnam": {
+    "present": 3
+   },
+   "REFR": {
+    "records": 38
+   },
+   "REFR.base": {
+    "present": 38,
+    "links": 38
+   },
+   "REFR.editor_id": {
+    "present": 2
+   },
+   "REFR.linked_refs": {
+    "present": 11,
+    "links": 22
+   },
+   "REFR.placement": {
+    "present": 38
+   },
+   "REFR.scale": {
+    "present": 16
+   },
+   "STAT": {
+    "records": 1
+   },
+   "STAT.bounds": {
+    "present": 1
+   },
+   "STAT.direction_material": {
+    "present": 1
+   },
+   "STAT.dirtiness": {
+    "present": 1
+   },
+   "STAT.editor_id": {
+    "present": 1
+   },
+   "STAT.light_layer": {
+    "present": 1
+   },
+   "STAT.model": {
+    "present": 1
+   },
+   "STAT.name": {
+    "present": 1
+   }
+  },
+  "failures": {},
+  "examples": {}
+ }
+]

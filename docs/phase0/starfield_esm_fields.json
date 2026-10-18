@@ -1,0 +1,13 @@
+{
+ "file": "Starfield.esm",
+ "game": "starfield",
+ "level": "fields",
+ "bytes": 1457098709,
+ "records": 3829246,
+ "groups": 101341,
+ "index_seconds": 1.887,
+ "identical": true,
+ "problems": [],
+ "ok": true,
+ "seconds": 67.405
+}

@@ -1,0 +1,4956 @@
+{
+"source": "Bethesda masters, majority pairwise order of first occurrences (component blocks skipped)",
+"generated": "2026-10-14",
+"types": {
+"AACT": {
+"order": [
+"EDID",
+"CNAM",
+"DNAM",
+"TNAM",
+"FNAM"
+],
+"records": 222,
+"contested": []
+},
+"AAMD": {
+"order": [
+"EDID",
+"SNAM"
+],
+"records": 7,
+"contested": []
+},
+"AAPD": {
+"order": [
+"EDID",
+"AAAP",
+"ANAM",
+"BNAM",
+"RADR",
+"WTMX",
+"AAPS"
+],
+"records": 22,
+"contested": []
+},
+"ACHR": {
+"order": [
+"EDID",
+"VMAD",
+"XALG",
+"NAME",
+"XLCM",
+"XRGD",
+"XRFG",
+"XPCS",
+"XEED",
+"XGDS",
+"XHLT",
+"XATP",
+"XRGB",
+"XLYR",
+"XLCN",
+"XLKR",
+"XLRT",
+"XLKT",
+"XRNK",
+"XESP",
+"XOWN",
+"XEZN",
+"XSCL",
+"XIS2",
+"DATA"
+],
+"records": 15130,
+"contested": [
+[
+"XLCN",
+"XLKR",
+3480,
+2612
+],
+[
+"XLCN",
+"XLYR",
+2280,
+3946
+],
+[
+"XLCN",
+"XLKT",
+2111,
+1274
+],
+[
+"XLKR",
+"XLRT",
+1350,
+1225
+],
+[
+"XLCN",
+"XLRT",
+2006,
+1125
+],
+[
+"XLKR",
+"XLYR",
+1048,
+3013
+],
+[
+"XLRT",
+"XLYR",
+840,
+1598
+],
+[
+"XLCN",
+"XRGD",
+838,
+1401
+],
+[
+"XLKT",
+"XLRT",
+663,
+760
+],
+[
+"XESP",
+"XLYR",
+558,
+1122
+],
+[
+"XLKT",
+"XLYR",
+553,
+1866
+],
+[
+"XESP",
+"XLKR",
+497,
+898
+],
+[
+"XLCM",
+"XLCN",
+7191,
+391
+],
+[
+"XESP",
+"XLCN",
+352,
+1617
+],
+[
+"XESP",
+"XLRT",
+333,
+383
+],
+[
+"XLYR",
+"XRGD",
+326,
+926
+],
+[
+"XESP",
+"XLKT",
+325,
+520
+],
+[
+"XLCM",
+"XLYR",
+4795,
+304
+],
+[
+"XLCM",
+"XLKR",
+5854,
+297
+],
+[
+"XLCM",
+"XLRT",
+2756,
+160
+]
+]
+},
+"ACTI": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"SNTP",
+"SNBH",
+"OPDS",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"DEST",
+"DSDL",
+"DSTD",
+"DSTA",
+"DMDL",
+"DSTF",
+"DMDS",
+"KSIZ",
+"KWDA",
+"PRPS",
+"FTYP",
+"NTRM",
+"PNAM",
+"WMAT",
+"ALSH",
+"ACSH",
+"WTFM",
+"ATTX",
+"FNAM",
+"JNAM",
+"CITC",
+"CTDA",
+"INAM",
+"NVNM"
+],
+"records": 2039,
+"contested": [
+[
+"DMDL",
+"DSTF",
+36,
+36
+],
+[
+"DMDS",
+"DSTF",
+5,
+31
+],
+[
+"DMDL",
+"DSTA",
+4,
+29
+],
+[
+"DSTA",
+"DSTF",
+31,
+4
+],
+[
+"DMDS",
+"DSTA",
+3,
+24
+]
+]
+},
+"ADDN": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"MODL",
+"FLLD",
+"DATA",
+"LNAM",
+"PSDF",
+"DNAM"
+],
+"records": 77,
+"contested": []
+},
+"AFFE": {
+"order": [
+"EDID",
+"FNAM",
+"NLDT",
+"NNAM",
+"RNAM",
+"ANAM",
+"ENAM",
+"DNAM",
+"CNAM",
+"BNAM",
+"PNAM"
+],
+"records": 1593,
+"contested": []
+},
+"ALCH": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"XALG",
+"FULL",
+"KSIZ",
+"KWDA",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"PUSH",
+"PDSH",
+"CUSH",
+"DESC",
+"CVPA",
+"CDIX",
+"DATA",
+"ENIT",
+"DNAM",
+"EFID",
+"EFIT",
+"MNAM",
+"ZNAM",
+"EFIF",
+"MUID",
+"CTDA"
+],
+"records": 370,
+"contested": [
+[
+"CTDA",
+"ZNAM",
+21,
+284
+],
+[
+"CTDA",
+"MNAM",
+18,
+284
+],
+[
+"CTDA",
+"EFIF",
+17,
+289
+],
+[
+"CTDA",
+"MUID",
+17,
+289
+],
+[
+"EFIF",
+"ZNAM",
+17,
+342
+],
+[
+"MUID",
+"ZNAM",
+17,
+342
+],
+[
+"EFIF",
+"MNAM",
+9,
+325
+],
+[
+"MNAM",
+"MUID",
+325,
+9
+],
+[
+"MNAM",
+"ZNAM",
+332,
+2
+]
+]
+},
+"AMBS": {
+"order": [
+"EDID",
+"ASAS",
+"ASAE",
+"ASMB",
+"WED0"
+],
+"records": 380,
+"contested": []
+},
+"AMDL": {
+"order": [
+"EDID",
+"ANAM"
+],
+"records": 127,
+"contested": []
+},
+"AMMO": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"PTT2",
+"FULL",
+"MODL",
+"FLLD",
+"PUSH",
+"PDSH",
+"DESC",
+"KSIZ",
+"KWDA",
+"DATA",
+"DNAM",
+"ONAM",
+"NAM1"
+],
+"records": 154,
+"contested": []
+},
+"ANIO": {
+"order": [
+"EDID",
+"XALG",
+"MODL",
+"FLLD"
+],
+"records": 68,
+"contested": []
+},
+"AOPF": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OBSV",
+"OCCV"
+],
+"records": 20,
+"contested": []
+},
+"AOPS": {
+"order": [
+"EDID",
+"ANAM"
+],
+"records": 21,
+"contested": []
+},
+"AORU": {
+"order": [
+"EDID",
+"AOR2"
+],
+"records": 11,
+"contested": []
+},
+"ARMA": {
+"order": [
+"EDID",
+"BO64",
+"RNAM",
+"DNAM",
+"MOD2",
+"MLM1",
+"FLLD",
+"XFLG",
+"MO2F",
+"MOD3",
+"MLM2",
+"MOD6",
+"MO3F",
+"MOD4",
+"MLM3",
+"PNAM",
+"MO4F",
+"MOD5",
+"MLM4",
+"MO5F",
+"NAM4",
+"NAM5",
+"NAM6",
+"NAM7",
+"MODL",
+"SNDD",
+"ONAM",
+"MNAM",
+"TNAM",
+"SNAM",
+"VNAM",
+"BSMP",
+"BNAM"
+],
+"records": 1267,
+"contested": [
+[
+"MLM3",
+"XFLG",
+1,
+43
+],
+[
+"MOD3",
+"XFLG",
+1,
+117
+]
+]
+},
+"ARMO": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"FULL",
+"EITM",
+"MOD2",
+"MLM2",
+"FLLD",
+"MOD4",
+"XFLG",
+"MO2F",
+"MO4F",
+"BO64",
+"PUSH",
+"PDSH",
+"BAMT",
+"RNAM",
+"KSIZ",
+"KWDA",
+"DESC",
+"INRD",
+"INDX",
+"MODL",
+"DATA",
+"FNAM",
+"DAMA",
+"APPR",
+"OBTE",
+"OBTF",
+"OBTS",
+"STOP",
+"AVSG",
+"AFSG"
+],
+"records": 1201,
+"contested": [
+[
+"APPR",
+"FULL",
+5,
+599
+],
+[
+"BO64",
+"FULL",
+5,
+1005
+],
+[
+"DATA",
+"FULL",
+5,
+1005
+],
+[
+"DESC",
+"FULL",
+5,
+1005
+],
+[
+"FLLD",
+"FULL",
+5,
+1005
+],
+[
+"FNAM",
+"FULL",
+5,
+1005
+],
+[
+"FULL",
+"INDX",
+1005,
+5
+],
+[
+"FULL",
+"MODL",
+1005,
+5
+],
+[
+"FULL",
+"OBTE",
+868,
+5
+],
+[
+"FULL",
+"RNAM",
+1005,
+5
+]
+]
+},
+"ARTO": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"PTT2",
+"KSIZ",
+"XALG",
+"OPDS",
+"KWDA",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"DNAM",
+"ENAM"
+],
+"records": 216,
+"contested": []
+},
+"ASPC": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"ASLS",
+"WED0",
+"WED1",
+"AAMB",
+"AMUS",
+"BNAM",
+"AEAR",
+"FLTV",
+"XTRI",
+"BOLV",
+"DEVT",
+"ASDF"
+],
+"records": 832,
+"contested": []
+},
+"ATMO": {
+"order": [
+"EDID",
+"RFDP",
+"RDIF",
+"REFL"
+],
+"records": 599,
+"contested": []
+},
+"AVIF": {
+"order": [
+"EDID",
+"FULL",
+"NLDT",
+"ANAM",
+"NAM0",
+"AVFL",
+"NAM1",
+"NAM2",
+"NAM3"
+],
+"records": 1288,
+"contested": []
+},
+"AVMD": {
+"order": [
+"EDID",
+"MNAM",
+"YNAM",
+"TNAM",
+"ITMC",
+"LNAM",
+"VNAM",
+"NNAM",
+"MODT",
+"AVMP"
+],
+"records": 6531,
+"contested": [
+[
+"NNAM",
+"VNAM",
+36,
+2647
+]
+]
+},
+"BIOM": {
+"order": [
+"EDID",
+"FULL",
+"KSIZ",
+"KWDA",
+"SNAM",
+"PNAM",
+"RNAM",
+"FNAM",
+"BNAM",
+"GNAM",
+"DNAM",
+"ONAM",
+"NAM1",
+"ENAM",
+"MNAM",
+"INAM",
+"JNAM",
+"WNAM",
+"YNAM",
+"UNAM",
+"BIAS",
+"BIMT",
+"NAM0",
+"NNAM",
+"CNAM",
+"BMC1",
+"BMC2",
+"BMC3",
+"TNAM",
+"KNAM",
+"LNAM",
+"ANAM",
+"TX00",
+"UX00",
+"VX00",
+"WX00",
+"XX00",
+"YX00",
+"TX16",
+"BTPS",
+"BDFS",
+"EFSD",
+"NAM2",
+"NAM3",
+"NAM4"
+],
+"records": 434,
+"contested": [
+[
+"ANAM",
+"TX00",
+66,
+9
+],
+[
+"ANAM",
+"UX00",
+157,
+3
+]
+]
+},
+"BMMO": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"MODL",
+"FLLD",
+"KSIZ",
+"CTDA",
+"KWDA",
+"KNAM",
+"LNAM",
+"LNA2"
+],
+"records": 71,
+"contested": []
+},
+"BMOD": {
+"order": [
+"EDID",
+"DATA"
+],
+"records": 529,
+"contested": []
+},
+"BNDS": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"DNAM",
+"MNAM"
+],
+"records": 14,
+"contested": []
+},
+"BOOK": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"DESC",
+"PUSH",
+"PDSH",
+"KSIZ",
+"KWDA",
+"DATA",
+"DNAM",
+"CNAM",
+"ENAM",
+"FNAM",
+"INAM",
+"GNAM"
+],
+"records": 1436,
+"contested": []
+},
+"BPTD": {
+"order": [
+"EDID",
+"MODL",
+"FLLD",
+"BPTN",
+"BPNN",
+"BPNT",
+"BPD2",
+"NAM4",
+"ENAM",
+"FNAM",
+"DNAM",
+"INAM"
+],
+"records": 27,
+"contested": []
+},
+"CAMS": {
+"order": [
+"EDID",
+"FLLD",
+"KSIZ",
+"KWDA",
+"NLDT",
+"CTDA",
+"DATA",
+"MNAM",
+"GNAM"
+],
+"records": 278,
+"contested": []
+},
+"CELL": {
+"order": [
+"EDID",
+"FULL",
+"DATA",
+"XCLC",
+"XCLL",
+"MHDT",
+"LTMP",
+"XCLW",
+"XILS",
+"XCLA",
+"XCLD",
+"XCWT",
+"XCWM",
+"XCIM",
+"XCCM",
+"XLCN",
+"XWEM",
+"XCMO",
+"XCGD",
+"XWCN",
+"XCAS",
+"XCIB",
+"XOWN",
+"TODD",
+"XWCU",
+"XEMP",
+"XBPS",
+"XTV2"
+],
+"records": 40016,
+"contested": [
+[
+"XEMP",
+"XTV2",
+232,
+149
+],
+[
+"XCAS",
+"XEMP",
+191,
+136
+],
+[
+"XCMO",
+"XEMP",
+215,
+102
+],
+[
+"XEMP",
+"XLCN",
+93,
+325
+],
+[
+"XCIM",
+"XLCN",
+526,
+67
+],
+[
+"XCAS",
+"XCMO",
+54,
+273
+],
+[
+"XCMO",
+"XLCN",
+46,
+272
+],
+[
+"XCAS",
+"XLCN",
+45,
+284
+],
+[
+"XCIM",
+"XEMP",
+1159,
+34
+],
+[
+"XCAS",
+"XCIM",
+31,
+286
+],
+[
+"XCIM",
+"XCMO",
+282,
+31
+],
+[
+"XCAS",
+"XOWN",
+41,
+25
+],
+[
+"XCMO",
+"XOWN",
+40,
+21
+],
+[
+"XEMP",
+"XOWN",
+15,
+42
+],
+[
+"XCMO",
+"XTV2",
+287,
+10
+],
+[
+"XCIM",
+"XTV2",
+380,
+8
+],
+[
+"XCAS",
+"XTV2",
+303,
+7
+],
+[
+"XLCN",
+"XTV2",
+767,
+7
+],
+[
+"TODD",
+"XEMP",
+9,
+5
+],
+[
+"XCIM",
+"XOWN",
+59,
+5
+]
+]
+},
+"CLAS": {
+"order": [
+"EDID",
+"FULL",
+"DESC",
+"PRPS",
+"DATA"
+],
+"records": 9,
+"contested": []
+},
+"CLDF": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 21,
+"contested": []
+},
+"CLFM": {
+"order": [
+"EDID",
+"CNAM",
+"FNAM"
+],
+"records": 12,
+"contested": []
+},
+"CLMT": {
+"order": [
+"EDID",
+"WLST",
+"WSLT",
+"TNAM"
+],
+"records": 48,
+"contested": []
+},
+"CNDF": {
+"order": [
+"EDID",
+"CTDA",
+"CIS2",
+"CIS1",
+"PNAM",
+"QNAM"
+],
+"records": 1109,
+"contested": []
+},
+"COBJ": {
+"order": [
+"EDID",
+"DESC",
+"BNAM",
+"CTDA",
+"FVPA",
+"RQPK",
+"CNAM",
+"NNAM",
+"SNAM",
+"TNAM",
+"CUSH",
+"PUSH",
+"PDSH",
+"LRNM",
+"DATA",
+"ANAM",
+"JNAM",
+"FNAM",
+"RECF"
+],
+"records": 3609,
+"contested": []
+},
+"COLL": {
+"order": [
+"EDID",
+"NLDT",
+"BNAM",
+"FNAM",
+"GNAM",
+"MNAM",
+"CNAM"
+],
+"records": 62,
+"contested": []
+},
+"CONT": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"SNTP",
+"SNBH",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"COCT",
+"CNTO",
+"DEST",
+"DSTD",
+"DSTF",
+"DATA",
+"KSIZ",
+"KWDA",
+"FTYP",
+"NTRM",
+"PRPS",
+"APPR",
+"STOP",
+"WED0",
+"WED1",
+"ONAM"
+],
+"records": 878,
+"contested": []
+},
+"CPTH": {
+"order": [
+"EDID",
+"CTDA",
+"ANAM",
+"DATA",
+"SNAM"
+],
+"records": 155,
+"contested": []
+},
+"CSTY": {
+"order": [
+"EDID",
+"CSGD",
+"CSME",
+"CSRA",
+"CSCR",
+"CSLR",
+"CSCV",
+"CSFL",
+"CSTN",
+"CSSG",
+"CSSM",
+"CSSR",
+"CSSA",
+"CSSD",
+"DATA",
+"FNAM",
+"TNAM",
+"UNAM"
+],
+"records": 180,
+"contested": []
+},
+"CUR3": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 36,
+"contested": []
+},
+"CURV": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 29,
+"contested": []
+},
+"DEBR": {
+"order": [
+"EDID",
+"DATA",
+"MODT"
+],
+"records": 3,
+"contested": []
+},
+"DFOB": {
+"order": [
+"EDID",
+"XALG",
+"DATA"
+],
+"records": 1273,
+"contested": []
+},
+"DIAL": {
+"order": [
+"EDID",
+"FULL",
+"PNAM",
+"BNAM",
+"QNAM",
+"ANAM",
+"KNAM",
+"DATA",
+"SNAM",
+"TIFL",
+"TIFC"
+],
+"records": 90183,
+"contested": []
+},
+"DLBR": {
+"order": [
+"EDID",
+"QNAM",
+"TNAM",
+"DNAM",
+"SNAM"
+],
+"records": 137,
+"contested": []
+},
+"DMGT": {
+"order": [
+"EDID",
+"FULL",
+"DNAM"
+],
+"records": 11,
+"contested": []
+},
+"DOBJ": {
+"order": [
+"EDID",
+"DNAM"
+],
+"records": 1,
+"contested": []
+},
+"DOOR": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"KSIZ",
+"KWDA",
+"NTRM",
+"PRPS",
+"FTYP",
+"DOSH",
+"DCSH",
+"DLSH",
+"FNAM",
+"ONAM",
+"CNAM",
+"DEVT",
+"ANAM",
+"NVNM"
+],
+"records": 383,
+"contested": []
+},
+"EFSH": {
+"order": [
+"EDID",
+"ENAM",
+"DATA",
+"DNAM",
+"MODL",
+"FLLD"
+],
+"records": 88,
+"contested": []
+},
+"EFSQ": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 763,
+"contested": []
+},
+"ENCH": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"FULL",
+"ENIT",
+"EFID",
+"EFIT",
+"CTDA",
+"EFIF",
+"MUID",
+"MNAM"
+],
+"records": 137,
+"contested": [
+[
+"CTDA",
+"EFIF",
+28,
+7
+],
+[
+"CTDA",
+"MUID",
+28,
+7
+],
+[
+"CTDA",
+"MNAM",
+1,
+1
+]
+]
+},
+"EQUP": {
+"order": [
+"EDID",
+"PNAM",
+"DATA",
+"ANAM"
+],
+"records": 25,
+"contested": []
+},
+"EXPL": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"XALG",
+"DEFL",
+"FULL",
+"MODL",
+"FLLD",
+"EITM",
+"MNAM",
+"ENAM",
+"DAMA"
+],
+"records": 366,
+"contested": []
+},
+"FACT": {
+"order": [
+"EDID",
+"FULL",
+"XNAM",
+"DNAM",
+"DATA",
+"CRGR",
+"CRVA",
+"VEND",
+"VENC",
+"PRIS",
+"VENV",
+"CRHR",
+"HERD",
+"PLVD",
+"CRGP",
+"GRPH",
+"VTCK"
+],
+"records": 982,
+"contested": []
+},
+"FFKW": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 511,
+"contested": []
+},
+"FLOR": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"OPDS",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"DEST",
+"DSTD",
+"DSTF",
+"KSIZ",
+"KWDA",
+"PRPS",
+"PNAM",
+"ATTX",
+"FNAM",
+"JNAM",
+"PFIG",
+"PFHS",
+"PFPC",
+"APPR",
+"OBTE",
+"OBTF",
+"OBTS",
+"STOP",
+"ANAM",
+"BNAM",
+"FMAH",
+"FMIH",
+"FMAG",
+"FMIG",
+"FLXP",
+"FHLS"
+],
+"records": 302,
+"contested": []
+},
+"FLST": {
+"order": [
+"EDID",
+"FULL",
+"LNAM",
+"INAM",
+"CITC",
+"CTDA",
+"ANAM"
+],
+"records": 1436,
+"contested": []
+},
+"FOGV": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 80,
+"contested": []
+},
+"FORC": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 5,
+"contested": []
+},
+"FSTP": {
+"order": [
+"EDID",
+"DATA",
+"ANAM"
+],
+"records": 134,
+"contested": []
+},
+"FSTS": {
+"order": [
+"EDID",
+"XCNT",
+"DATA"
+],
+"records": 19,
+"contested": []
+},
+"FURN": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"OPDS",
+"XALG",
+"SNBH",
+"SNTP",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"DEST",
+"DSTD",
+"XFLG",
+"DMDL",
+"DSTF",
+"KSIZ",
+"KWDA",
+"PRPS",
+"FTYP",
+"PNAM",
+"ATTX",
+"ALSH",
+"FNAM",
+"JNAM",
+"INAM",
+"MNAM",
+"GNAM",
+"WBDT",
+"FTMP",
+"FNPR",
+"XMRK",
+"SNAM",
+"NNAM",
+"STOP"
+],
+"records": 1069,
+"contested": []
+},
+"FXPD": {
+"order": [
+"EDID",
+"FULL",
+"MNAM",
+"MWGT"
+],
+"records": 31,
+"contested": []
+},
+"GBFM": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"OPDS",
+"FLTR",
+"ANAM",
+"STRV",
+"OBTE",
+"OBTF",
+"OBTS",
+"STOP",
+"NVNM"
+],
+"records": 3524,
+"contested": []
+},
+"GBFT": {
+"order": [
+"EDID",
+"STRV"
+],
+"records": 8,
+"contested": []
+},
+"GCVR": {
+"order": [
+"EDID",
+"GNAM",
+"DNAM",
+"LNAM",
+"YNAM"
+],
+"records": 98,
+"contested": []
+},
+"GLOB": {
+"order": [
+"EDID",
+"FLTV"
+],
+"records": 3348,
+"contested": []
+},
+"GMST": {
+"order": [
+"EDID",
+"XALG",
+"DATA"
+],
+"records": 2418,
+"contested": []
+},
+"GPOF": {
+"order": [
+"EDID",
+"NNAM",
+"DNAM",
+"TNAM",
+"VNAM",
+"WNAM",
+"GPOD",
+"VOVS",
+"VORV",
+"RESN",
+"VORN"
+],
+"records": 31,
+"contested": []
+},
+"GPOG": {
+"order": [
+"EDID",
+"NNAM",
+"BNAM",
+"GOGL"
+],
+"records": 4,
+"contested": []
+},
+"GRAS": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"MODL",
+"FLLD",
+"DNAM"
+],
+"records": 193,
+"contested": []
+},
+"GWED": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 1,
+"contested": []
+},
+"HAZD": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"XALG",
+"FULL",
+"MODL",
+"FLLD",
+"MNAM",
+"DNAM",
+"CTDA"
+],
+"records": 93,
+"contested": []
+},
+"HDPT": {
+"order": [
+"EDID",
+"FULL",
+"MODL",
+"FLLD",
+"DATA",
+"PNAM",
+"HNAM",
+"NAM2",
+"TNAM",
+"NAM3",
+"RNAM",
+"MNAM"
+],
+"records": 236,
+"contested": []
+},
+"IDLE": {
+"order": [
+"EDID",
+"CTDA",
+"CIS1",
+"DNAM",
+"ENAM",
+"ANAM",
+"FNAM",
+"GNAM",
+"FULL"
+],
+"records": 1319,
+"contested": []
+},
+"IDLM": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"KSIZ",
+"KWDA",
+"IDLF",
+"IDLC",
+"IDLT",
+"IDLA",
+"MODL",
+"FLLD",
+"PNAM",
+"QNAM"
+],
+"records": 18,
+"contested": []
+},
+"IMAD": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 234,
+"contested": []
+},
+"IMGS": {
+"order": [
+"EDID",
+"RFDP",
+"RDIF",
+"REFL"
+],
+"records": 304,
+"contested": []
+},
+"INFO": {
+"order": [
+"EDID",
+"VMAD",
+"ENAM",
+"DNAM",
+"GNAM",
+"TRDA",
+"TROT",
+"NAM1",
+"NAM2",
+"NAM3",
+"NAM4",
+"NAM9",
+"BNAM",
+"STRV",
+"VCLR",
+"FLMV",
+"FLAV",
+"QUAL",
+"SOFT",
+"DOFT",
+"OCOR",
+"RVSH",
+"RNAM",
+"LVCR",
+"SHRT",
+"ATAC",
+"PLRL",
+"DPLT",
+"XNAM",
+"HNAM",
+"HTID",
+"FNAM",
+"PNAM",
+"CTDA",
+"CIS2",
+"ANAM",
+"TSCE",
+"INTV",
+"WED0",
+"TIQS",
+"NAM0",
+"MODQ",
+"INAM",
+"COCT",
+"NAM8",
+"PERK",
+"SCSP"
+],
+"records": 166915,
+"contested": [
+[
+"NAM1",
+"TROT",
+422,
+63090
+],
+[
+"NAM2",
+"TROT",
+422,
+63090
+],
+[
+"NAM3",
+"TROT",
+422,
+63090
+],
+[
+"NAM4",
+"TROT",
+422,
+63090
+],
+[
+"NAM9",
+"TROT",
+421,
+63086
+],
+[
+"ATAC",
+"TROT",
+65,
+4987
+],
+[
+"BNAM",
+"TROT",
+65,
+4987
+],
+[
+"FLAV",
+"TROT",
+65,
+4987
+],
+[
+"FLMV",
+"TROT",
+65,
+4987
+],
+[
+"LVCR",
+"TROT",
+65,
+4987
+],
+[
+"QUAL",
+"TROT",
+65,
+4983
+],
+[
+"TROT",
+"VCLR",
+4987,
+65
+],
+[
+"TROT",
+"XNAM",
+4987,
+65
+],
+[
+"STRV",
+"TROT",
+64,
+4868
+],
+[
+"ATAC",
+"HNAM",
+297,
+13
+],
+[
+"ATAC",
+"HTID",
+293,
+13
+],
+[
+"BNAM",
+"HNAM",
+297,
+13
+],
+[
+"BNAM",
+"HTID",
+293,
+13
+],
+[
+"FLAV",
+"HNAM",
+297,
+13
+],
+[
+"FLAV",
+"HTID",
+293,
+13
+]
+]
+},
+"INNR": {
+"order": [
+"EDID",
+"UNAM",
+"VNAM",
+"WNAM",
+"KSIZ",
+"KWDA",
+"YNAM",
+"XNAM"
+],
+"records": 9,
+"contested": []
+},
+"IPCT": {
+"order": [
+"EDID",
+"MODL",
+"FLLD",
+"DATA",
+"GNAM",
+"HNAM",
+"DODT",
+"IDSH",
+"IDP1",
+"IDP3",
+"FNAM"
+],
+"records": 1475,
+"contested": []
+},
+"IPDS": {
+"order": [
+"EDID",
+"PNAM",
+"ENAM"
+],
+"records": 357,
+"contested": []
+},
+"IRES": {
+"order": [
+"EDID",
+"FULL",
+"KSIZ",
+"KWDA",
+"CUSH",
+"FNAM",
+"SNAM",
+"CNAM",
+"TINC",
+"NNAM",
+"GNAM",
+"NAM1",
+"NAM2",
+"NAM3"
+],
+"records": 333,
+"contested": []
+},
+"KEYM": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"KSIZ",
+"KWDA",
+"DATA",
+"FLAG"
+],
+"records": 360,
+"contested": []
+},
+"KSSM": {
+"order": [
+"EDID",
+"WED0",
+"KNAM",
+"RSMC",
+"RSMH"
+],
+"records": 615,
+"contested": []
+},
+"KYWD": {
+"order": [
+"EDID",
+"CNAM",
+"DNAM",
+"TNAM",
+"FNAM",
+"DATA",
+"ENAM",
+"FULL"
+],
+"records": 7057,
+"contested": []
+},
+"LAYR": {
+"order": [
+"EDID",
+"PNAM",
+"XCLP",
+"LODB"
+],
+"records": 10655,
+"contested": []
+},
+"LCRT": {
+"order": [
+"EDID",
+"CNAM",
+"TNAM",
+"FNAM"
+],
+"records": 5203,
+"contested": []
+},
+"LCTN": {
+"order": [
+"EDID",
+"PRPS",
+"LCPR",
+"LCUR",
+"LCUN",
+"LCSR",
+"ACPR",
+"ACUR",
+"LCEC",
+"LCID",
+"LCEP",
+"ACUN",
+"ACSR",
+"ACID",
+"FULL",
+"KSIZ",
+"KWDA",
+"DATA",
+"PNAM",
+"FNAM",
+"MNAM",
+"NAM1",
+"RNAM",
+"ANAM",
+"TNAM",
+"XNAM",
+"ACEP",
+"CNAM",
+"YNAM"
+],
+"records": 6521,
+"contested": []
+},
+"LENS": {
+"order": [
+"EDID",
+"CNAM",
+"DNAM",
+"ENAM",
+"MNAM",
+"XNAM",
+"LFSP",
+"FNAM",
+"LFSD"
+],
+"records": 26,
+"contested": []
+},
+"LGDI": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"FLLD",
+"FULL",
+"DATA",
+"ANAM",
+"MNAM",
+"ENAM",
+"BNAM",
+"LNAM",
+"CNAM",
+"CITC",
+"DNAM",
+"FNAM",
+"KNAM",
+"GNAM",
+"HNAM",
+"CTDA",
+"JNAM"
+],
+"records": 204,
+"contested": []
+},
+"LGTM": {
+"order": [
+"EDID",
+"DATA",
+"DALC"
+],
+"records": 6,
+"contested": []
+},
+"LIGH": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"MODL",
+"FLLD",
+"KSIZ",
+"KWDA",
+"DAT2",
+"NAM0",
+"LNAM",
+"FLBD",
+"FLRD",
+"FLGD",
+"LLLD",
+"FLAD",
+"FVLD"
+],
+"records": 1728,
+"contested": []
+},
+"LMSW": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 17565,
+"contested": []
+},
+"LSCR": {
+"order": [
+"EDID",
+"DESC",
+"CTDA",
+"ICON"
+],
+"records": 393,
+"contested": []
+},
+"LTEX": {
+"order": [
+"EDID",
+"BNAM",
+"MNAM",
+"HNAM",
+"QNAM"
+],
+"records": 429,
+"contested": []
+},
+"LVLB": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"LVLD",
+"LVLM",
+"LVLF",
+"LLCT",
+"MODL",
+"LVLO",
+"CTDA",
+"FLLD"
+],
+"records": 373,
+"contested": [
+[
+"CTDA",
+"LLCT",
+1,
+6
+],
+[
+"CTDA",
+"LVLO",
+1,
+6
+]
+]
+},
+"LVLI": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"XALG",
+"OPDS",
+"LVLD",
+"LVLM",
+"LVLF",
+"LVLG",
+"LLCT",
+"LVLO",
+"CTDA",
+"LIMC",
+"LLKC",
+"ONAM",
+"LVLL",
+"MODL",
+"FLLD",
+"FTYP"
+],
+"records": 6691,
+"contested": [
+[
+"CTDA",
+"LLCT",
+24,
+249
+],
+[
+"CTDA",
+"LVLO",
+24,
+249
+],
+[
+"CTDA",
+"LVLG",
+4,
+4
+]
+]
+},
+"LVLN": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"LVLD",
+"LVLM",
+"LVLF",
+"LLCT",
+"LVLO",
+"CTDA",
+"ONAM",
+"MODL",
+"FLLD"
+],
+"records": 309,
+"contested": []
+},
+"LVLP": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"LVLD",
+"LVLM",
+"LVLF",
+"LVLG",
+"LLCT",
+"LVLO",
+"CTDA",
+"MODL",
+"FLLD",
+"FTYP"
+],
+"records": 52,
+"contested": [
+[
+"CTDA",
+"LLCT",
+1,
+14
+],
+[
+"CTDA",
+"LVLO",
+1,
+14
+]
+]
+},
+"LVSC": {
+"order": [
+"EDID",
+"LVLD",
+"LVLM",
+"LVLF",
+"LLCT",
+"LVLO"
+],
+"records": 20,
+"contested": []
+},
+"MAAM": {
+"order": [
+"EDID",
+"SNAM"
+],
+"records": 1,
+"contested": []
+},
+"MATT": {
+"order": [
+"EDID",
+"PNAM",
+"MNAM",
+"CNAM",
+"BNAM",
+"FNAM",
+"ANAM",
+"HNAM",
+"FLLD"
+],
+"records": 256,
+"contested": []
+},
+"MESG": {
+"order": [
+"EDID",
+"DESC",
+"FULL",
+"INAM",
+"QNAM",
+"DNAM",
+"TNAM",
+"BNAM",
+"ITXT",
+"CTDA",
+"DODT",
+"IBIN",
+"NNAM"
+],
+"records": 2769,
+"contested": []
+},
+"MGEF": {
+"order": [
+"EDID",
+"VMAD",
+"FULL",
+"KSIZ",
+"KWDA",
+"DATA",
+"ESSH",
+"DNAM",
+"CTDA"
+],
+"records": 1011,
+"contested": []
+},
+"MISC": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"XALG",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"DEST",
+"DAMC",
+"DSTD",
+"DMDL",
+"XFLG",
+"DSTF",
+"CUSH",
+"PUSH",
+"PDSH",
+"KSIZ",
+"KWDA",
+"CVPA",
+"FIMD",
+"DATA",
+"FLAG",
+"NNAM"
+],
+"records": 1522,
+"contested": []
+},
+"MOVT": {
+"order": [
+"EDID",
+"MNAM",
+"SPED",
+"LNAM",
+"KNAM",
+"INTV",
+"BOLV"
+],
+"records": 43,
+"contested": []
+},
+"MRPH": {
+"order": [
+"EDID",
+"TMPP",
+"TCMP",
+"MOBC"
+],
+"records": 1187,
+"contested": []
+},
+"MSTT": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"SNTP",
+"DEFL",
+"SNBH",
+"OPDS",
+"FULL",
+"XALG",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"MODC",
+"DEST",
+"DAMC",
+"DSDL",
+"DSTD",
+"DSTA",
+"DMDL",
+"DSTF",
+"DMDS",
+"KSIZ",
+"KWDA",
+"PRPS",
+"DATA",
+"MSLS",
+"MSMO"
+],
+"records": 2143,
+"contested": [
+[
+"DMDL",
+"DSTF",
+108,
+5
+],
+[
+"DSTA",
+"DSTF",
+4,
+5
+]
+]
+},
+"MTPT": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 912,
+"contested": []
+},
+"MUSC": {
+"order": [
+"EDID",
+"FNAM",
+"PNAM",
+"WNAM",
+"VNAM",
+"UNAM",
+"TNAM"
+],
+"records": 117,
+"contested": []
+},
+"MUST": {
+"order": [
+"EDID",
+"CNAM",
+"FLTV",
+"MTSH",
+"FNAM",
+"DNAM",
+"MSTF",
+"CITC",
+"CTDA",
+"SNAM"
+],
+"records": 279,
+"contested": []
+},
+"NAVI": {
+"order": [
+"NVER",
+"NVMI",
+"NVPP"
+],
+"records": 14,
+"contested": []
+},
+"NAVM": {
+"order": [
+"VMAD",
+"NVNM",
+"MNAM"
+],
+"records": 95490,
+"contested": []
+},
+"NOCM": {
+"order": [
+"EDID",
+"INDX",
+"DATA",
+"INTV",
+"NAM1"
+],
+"records": 1,
+"contested": []
+},
+"NPC_": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"XALG",
+"OPDS",
+"PTT2",
+"SNTP",
+"ACBS",
+"SNAM",
+"INAM",
+"VTCK",
+"TPLT",
+"LTPT",
+"LTPC",
+"TPTA",
+"RNAM",
+"SPOR",
+"SPLO",
+"WNAM",
+"ATKR",
+"ECOR",
+"PRKZ",
+"PRKR",
+"PRPS",
+"FTYP",
+"NTRM",
+"COCT",
+"CNTO",
+"AIDT",
+"PKID",
+"RDSA",
+"FLEE",
+"KSIZ",
+"KWDA",
+"APPR",
+"OBTE",
+"OBTF",
+"OBTS",
+"STOP",
+"CNAM",
+"FULL",
+"SHRT",
+"LNAM",
+"DATA",
+"DNAM",
+"PNAM",
+"ZNAM",
+"NAM5",
+"NAM6",
+"NAM4",
+"MWGT",
+"QSTA",
+"BNAM",
+"CS3H",
+"CS3S",
+"CS3F",
+"CS3E",
+"DOFT",
+"SOFT",
+"CSCR",
+"DPLT",
+"CRIF",
+"HEFA",
+"EDCT",
+"MNAM",
+"TNAM",
+"QNAM",
+"VNAM",
+"NNAM",
+"INTV",
+"MRSV",
+"FMSI",
+"FMRS",
+"FMRI",
+"FMRG",
+"BMPN",
+"BMPV",
+"ATTX",
+"STON",
+"HCOL",
+"FHCL",
+"BCOL",
+"ECOL",
+"JCOL",
+"TETC",
+"PRON",
+"ONA2"
+],
+"records": 8690,
+"contested": [
+[
+"FMRG",
+"FMRS",
+63,
+3832
+],
+[
+"FMRI",
+"FMRS",
+63,
+3832
+]
+]
+},
+"OMOD": {
+"order": [
+"EDID",
+"FULL",
+"DESC",
+"MODL",
+"FLLD",
+"XFLG",
+"DATA",
+"MNAM",
+"FNAM",
+"LNAM",
+"NAM1"
+],
+"records": 3449,
+"contested": []
+},
+"OTFT": {
+"order": [
+"EDID",
+"INAM"
+],
+"records": 729,
+"contested": []
+},
+"OVIS": {
+"order": [
+"EDID",
+"INDX",
+"DATA"
+],
+"records": 1,
+"contested": []
+},
+"PACK": {
+"order": [
+"EDID",
+"VMAD",
+"PKDT",
+"PSDT",
+"CIS1",
+"CTDA",
+"IDLF",
+"IDLC",
+"IDLT",
+"IDLA",
+"QNAM",
+"FLAV",
+"PKCU",
+"ANAM",
+"STSC",
+"PLDT",
+"PTDA",
+"CITC",
+"CNAM",
+"UNAM",
+"XNAM",
+"NNAM",
+"PRCB",
+"CIS2",
+"PNAM",
+"FNAM",
+"PKC2",
+"PFO2",
+"BNAM",
+"POBA",
+"INAM",
+"PDTO",
+"POEA",
+"POCA"
+],
+"records": 4872,
+"contested": [
+[
+"CITC",
+"CNAM",
+2093,
+1175
+],
+[
+"CNAM",
+"PTDA",
+1156,
+2093
+],
+[
+"ANAM",
+"CTDA",
+82,
+3335
+],
+[
+"CITC",
+"CTDA",
+82,
+2323
+],
+[
+"CTDA",
+"PKCU",
+3336,
+82
+],
+[
+"CNAM",
+"CTDA",
+79,
+3239
+],
+[
+"CTDA",
+"UNAM",
+3342,
+75
+],
+[
+"CTDA",
+"XNAM",
+3343,
+75
+],
+[
+"CTDA",
+"PTDA",
+2317,
+74
+],
+[
+"CTDA",
+"PLDT",
+2076,
+69
+],
+[
+"CTDA",
+"PRCB",
+67,
+73
+],
+[
+"CITC",
+"PLDT",
+61,
+1580
+],
+[
+"PLDT",
+"PTDA",
+1556,
+61
+],
+[
+"CNAM",
+"PLDT",
+44,
+3042
+],
+[
+"CITC",
+"UNAM",
+3318,
+26
+],
+[
+"CITC",
+"XNAM",
+3318,
+26
+],
+[
+"CTDA",
+"FNAM",
+119,
+21
+],
+[
+"CTDA",
+"PKC2",
+119,
+21
+],
+[
+"CTDA",
+"PNAM",
+119,
+21
+],
+[
+"NNAM",
+"PRCB",
+20,
+10
+]
+]
+},
+"PCBN": {
+"order": [
+"EDID",
+"NAM1",
+"NAM2",
+"NAM3",
+"NAM4",
+"NAM5",
+"CITC",
+"CTDA",
+"KWDA",
+"PRTN",
+"PRVN"
+],
+"records": 383,
+"contested": []
+},
+"PCCN": {
+"order": [
+"EDID",
+"PCCC",
+"IOVR",
+"KWDA",
+"PRTN",
+"PRVN"
+],
+"records": 2151,
+"contested": []
+},
+"PCMT": {
+"order": [
+"EDID",
+"NAM1",
+"NAM2",
+"NAM5",
+"CITC",
+"CTDA"
+],
+"records": 5,
+"contested": []
+},
+"PDCL": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"SNBH",
+"PTT2",
+"DODT",
+"DATA"
+],
+"records": 738,
+"contested": []
+},
+"PERK": {
+"order": [
+"EDID",
+"VMAD",
+"FULL",
+"DESC",
+"DATA",
+"UNAM",
+"TNAM",
+"GNAM",
+"PRRK",
+"PRKE",
+"PRKC",
+"CTDA",
+"CIS1",
+"EPFT",
+"EPFB",
+"EPF2",
+"EPFD",
+"EPF3",
+"PRKF",
+"ATCP",
+"ATAN",
+"DNAM",
+"CITC",
+"ANAM",
+"ATAV",
+"ATAF",
+"PRUC",
+"PRRF",
+"RNAM"
+],
+"records": 622,
+"contested": [
+[
+"CTDA",
+"PRKF",
+328,
+48
+],
+[
+"PRKC",
+"PRRF",
+324,
+38
+],
+[
+"PRKC",
+"PRUC",
+324,
+38
+],
+[
+"EPFB",
+"PRRF",
+447,
+35
+],
+[
+"EPFB",
+"PRUC",
+447,
+35
+],
+[
+"EPFD",
+"PRRF",
+434,
+35
+],
+[
+"EPFD",
+"PRUC",
+434,
+35
+],
+[
+"EPFT",
+"PRRF",
+447,
+35
+],
+[
+"EPFT",
+"PRUC",
+447,
+35
+],
+[
+"PRKC",
+"PRKF",
+327,
+35
+],
+[
+"CTDA",
+"EPFB",
+343,
+31
+],
+[
+"CTDA",
+"EPFD",
+331,
+31
+],
+[
+"CTDA",
+"EPFT",
+343,
+31
+],
+[
+"PRKE",
+"PRRF",
+493,
+29
+],
+[
+"PRKE",
+"PRUC",
+493,
+29
+],
+[
+"PRKF",
+"PRRF",
+493,
+29
+],
+[
+"PRKF",
+"PRUC",
+493,
+29
+],
+[
+"EPFB",
+"PRKF",
+454,
+28
+],
+[
+"EPFT",
+"PRKF",
+454,
+28
+],
+[
+"EPFD",
+"PRKF",
+442,
+27
+]
+]
+},
+"PGRE": {
+"order": [
+"VMAD",
+"NAME",
+"XLRT",
+"XRGD",
+"XLYR",
+"XOWN",
+"XRFG",
+"XESP",
+"XSCL",
+"DATA"
+],
+"records": 2611,
+"contested": [
+[
+"XESP",
+"XLYR",
+74,
+212
+],
+[
+"XLYR",
+"XRGD",
+25,
+720
+],
+[
+"XESP",
+"XRGD",
+24,
+336
+],
+[
+"XESP",
+"XOWN",
+12,
+20
+],
+[
+"XLYR",
+"XOWN",
+224,
+8
+]
+]
+},
+"PHZD": {
+"order": [
+"EDID",
+"VMAD",
+"NAME",
+"XLYR",
+"XRFG",
+"XLKR",
+"XPCS",
+"XLKT",
+"XESP",
+"XSCL",
+"DATA"
+],
+"records": 463,
+"contested": [
+[
+"XESP",
+"XLYR",
+13,
+66
+],
+[
+"XESP",
+"XLKR",
+9,
+15
+],
+[
+"XESP",
+"XLKT",
+9,
+15
+],
+[
+"XLYR",
+"XRFG",
+28,
+6
+],
+[
+"XLKR",
+"XLYR",
+4,
+24
+],
+[
+"XLKT",
+"XLYR",
+4,
+24
+],
+[
+"XESP",
+"XRFG",
+1,
+33
+]
+]
+},
+"PKIN": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"SNTP",
+"SNBH",
+"XALG",
+"FLTR",
+"CNAM",
+"VNAM",
+"FNAM",
+"KSIZ",
+"FTYP",
+"KWDA",
+"NTRM",
+"PRPS",
+"MOLM",
+"FULL"
+],
+"records": 15201,
+"contested": []
+},
+"PMFT": {
+"order": [
+"EDID",
+"FULL",
+"FNAM",
+"HNAM",
+"INAM"
+],
+"records": 75,
+"contested": []
+},
+"PNDT": {
+"order": [
+"EDID",
+"EOVR",
+"CNAM",
+"PPBD",
+"FNAM",
+"GNAM",
+"BDST",
+"ANAM",
+"DNAM",
+"ENAM",
+"HNAM",
+"INAM",
+"KNAM",
+"NNAM",
+"BDED",
+"TEMP",
+"DENS",
+"PHLA",
+"RSCS"
+],
+"records": 1794,
+"contested": [
+[
+"ANAM",
+"CNAM",
+8,
+1786
+],
+[
+"BDST",
+"CNAM",
+8,
+1786
+],
+[
+"CNAM",
+"FNAM",
+1786,
+8
+],
+[
+"CNAM",
+"GNAM",
+1786,
+8
+],
+[
+"CNAM",
+"PPBD",
+1445,
+8
+]
+]
+},
+"PROJ": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"XALG",
+"FULL",
+"MODL",
+"FLLD",
+"DEST",
+"DSTD",
+"DSTF",
+"DATA",
+"PROD",
+"NAM1",
+"PRAS",
+"PRCS",
+"VNAM",
+"NAM3"
+],
+"records": 302,
+"contested": []
+},
+"PSDC": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 12,
+"contested": []
+},
+"QUST": {
+"order": [
+"EDID",
+"VMAD",
+"FULL",
+"DNAM",
+"QTYP",
+"FTYP",
+"ENAM",
+"QTLM",
+"QSRC",
+"QDUP",
+"QTGL",
+"FLTR",
+"NAM3",
+"OCOR",
+"GWOR",
+"ALCM",
+"ALLR",
+"CIS1",
+"NAM1",
+"NEXT",
+"CTDA",
+"INDX",
+"QSDT",
+"NAM2",
+"SCFC",
+"QSRD",
+"CNAM",
+"QRXP",
+"QRCR",
+"QRRD",
+"QOBJ",
+"CIS2",
+"LNAM",
+"SPOR",
+"ALDI",
+"ALSP",
+"ALTM",
+"ECOR",
+"ALUB",
+"NNAM",
+"ALPS",
+"ANAM",
+"QSTA",
+"ALST",
+"ALID",
+"FNAM",
+"ALFG",
+"ALFE",
+"ALFD",
+"ALLS",
+"ALFL",
+"SCCM",
+"ALUA",
+"VTCK",
+"ALED",
+"ALEQ",
+"ALSY",
+"ALEA",
+"ALFI",
+"ALPN",
+"ALKF",
+"ALFA",
+"KNAM",
+"ALRT",
+"ALCC",
+"ALCS",
+"ALMI",
+"ALCO",
+"ALCA",
+"ALCL",
+"KSIZ",
+"KWDA",
+"COCT",
+"CNTO",
+"ALAM",
+"ALLA",
+"ALNA",
+"ALNT",
+"ALNR",
+"ALDN",
+"ALFV",
+"ALFC",
+"ALPC",
+"ALFR",
+"QMTY",
+"QMSU",
+"QMDT",
+"QMDP",
+"GNAM",
+"QMDS"
+],
+"records": 2655,
+"contested": [
+[
+"ALST",
+"FNAM",
+1540,
+904
+],
+[
+"CTDA",
+"FNAM",
+968,
+871
+],
+[
+"ALFG",
+"CTDA",
+764,
+1075
+],
+[
+"ALID",
+"CTDA",
+764,
+1075
+],
+[
+"ANAM",
+"CTDA",
+764,
+1150
+],
+[
+"ALST",
+"CTDA",
+727,
+1110
+],
+[
+"ALED",
+"ALST",
+650,
+1794
+],
+[
+"ALED",
+"VTCK",
+650,
+1794
+],
+[
+"ALFG",
+"ALST",
+650,
+1794
+],
+[
+"ALID",
+"ALST",
+650,
+1794
+],
+[
+"ANAM",
+"FNAM",
+1820,
+639
+],
+[
+"ALID",
+"FNAM",
+1820,
+636
+],
+[
+"ALED",
+"ALLS",
+609,
+662
+],
+[
+"ALFG",
+"ALLS",
+609,
+662
+],
+[
+"ALID",
+"ALLS",
+609,
+662
+],
+[
+"ALLS",
+"ALST",
+650,
+609
+],
+[
+"ALLS",
+"VTCK",
+650,
+609
+],
+[
+"ALED",
+"ALUA",
+508,
+614
+],
+[
+"CTDA",
+"INDX",
+552,
+494
+],
+[
+"CTDA",
+"QSDT",
+552,
+488
+]
+]
+},
+"RACE": {
+"order": [
+"EDID",
+"FULL",
+"DESC",
+"SPLO",
+"WNAM",
+"BO64",
+"KSIZ",
+"KWDA",
+"PRPS",
+"GNAM",
+"DAT2",
+"MNAM",
+"ANAM",
+"FLLD",
+"NAM5",
+"NAM6",
+"DNAM",
+"FNAM",
+"MTNM",
+"VTCK",
+"PNAM",
+"UNAM",
+"ATKD",
+"ATKE",
+"ATKS",
+"ATKW",
+"ATKT",
+"NAM1",
+"INDX",
+"ENAM",
+"NAM3",
+"NAM4",
+"WED0",
+"WED1",
+"NAME",
+"RBPC",
+"MTYP",
+"SPED",
+"VNAM",
+"QNAM",
+"ZNAM",
+"UNWP",
+"WKMV",
+"NAM0",
+"NNAM",
+"RPRM",
+"MPGN",
+"MPGM",
+"FMRI",
+"FMRU",
+"FMRN",
+"FMRS",
+"FMSR",
+"FDSI",
+"FDSL",
+"BSTT",
+"HSTT",
+"RPRF",
+"FCTP",
+"RNAM",
+"FSTT",
+"SADD",
+"SAKD",
+"FLMV",
+"SWMV",
+"SGNM",
+"SAPT",
+"STKD",
+"SRAC",
+"SRAF",
+"PTOP",
+"NTOP",
+"QSTI",
+"HEAD",
+"MSSS",
+"MSSI",
+"MSSA",
+"BNAM",
+"SNAM"
+],
+"records": 51,
+"contested": [
+[
+"SAPT",
+"STKD",
+13,
+13
+],
+[
+"SGNM",
+"STKD",
+13,
+13
+],
+[
+"SRAF",
+"STKD",
+13,
+13
+],
+[
+"SAKD",
+"SAPT",
+13,
+4
+],
+[
+"SAKD",
+"SGNM",
+13,
+4
+],
+[
+"SAKD",
+"SRAF",
+13,
+4
+],
+[
+"SAKD",
+"STKD",
+12,
+2
+],
+[
+"FMRN",
+"FMSR",
+11,
+1
+],
+[
+"FMRU",
+"FMSR",
+11,
+1
+]
+]
+},
+"REFR": {
+"order": [
+"EDID",
+"VMAD",
+"XALG",
+"NAME",
+"XMRK",
+"XACT",
+"FNAM",
+"XTEL",
+"XPDD",
+"XDTS",
+"XEMI",
+"FULL",
+"XVL2",
+"XPRM",
+"TNAM",
+"XPDO",
+"XCDD",
+"XSAD",
+"VNAM",
+"XVOI",
+"UNAM",
+"XDTF",
+"VISI",
+"XBSD",
+"XNSE",
+"XEZN",
+"XHLT",
+"XRNK",
+"XRDS",
+"XLIG",
+"XLCN",
+"XLMS",
+"XATP",
+"XATR",
+"XCOL",
+"XRGD",
+"XIS2",
+"XGDS",
+"XLRT",
+"XPRD",
+"XPPA",
+"TODD",
+"XLCM",
+"XLOC",
+"XNDP",
+"XPCK",
+"ONAM",
+"PDTO",
+"XLBD",
+"XALD",
+"XLSM",
+"XLVD",
+"XLCD",
+"XESP",
+"XTV2",
+"XSL1",
+"XPCS",
+"XGOM",
+"XWPK",
+"GNAM",
+"HNAM",
+"INAM",
+"JNAM",
+"LNAM",
+"XBPO",
+"XLYR",
+"XLRD",
+"XRFG",
+"XOWN",
+"XLKR",
+"XLKT",
+"XEED",
+"XSCL",
+"XLFD",
+"DATA"
+],
+"records": 200000,
+"contested": [
+[
+"XLMS",
+"XLYR",
+20139,
+11763
+],
+[
+"XLYR",
+"XRFG",
+36641,
+5145
+],
+[
+"XLKR",
+"XLYR",
+3441,
+4620
+],
+[
+"XLMS",
+"XRFG",
+11999,
+2482
+],
+[
+"XLYR",
+"XPCS",
+1426,
+6174
+],
+[
+"XLKT",
+"XLYR",
+1303,
+3702
+],
+[
+"GNAM",
+"XBPO",
+13817,
+1123
+],
+[
+"INAM",
+"XBPO",
+16716,
+1123
+],
+[
+"JNAM",
+"XBPO",
+13817,
+1123
+],
+[
+"LNAM",
+"XBPO",
+16716,
+1123
+],
+[
+"XBPO",
+"XWPK",
+1123,
+16716
+],
+[
+"XLSM",
+"XLYR",
+3432,
+1092
+],
+[
+"XLRD",
+"XLSM",
+1006,
+2739
+],
+[
+"XLRD",
+"XLYR",
+952,
+4272
+],
+[
+"GNAM",
+"XPCS",
+951,
+7551
+],
+[
+"INAM",
+"XPCS",
+951,
+7551
+],
+[
+"JNAM",
+"XPCS",
+951,
+7551
+],
+[
+"LNAM",
+"XPCS",
+951,
+7551
+],
+[
+"XPCS",
+"XWPK",
+7551,
+951
+],
+[
+"XBPO",
+"XPCS",
+946,
+7404
+]
+]
+},
+"REGN": {
+"order": [
+"EDID",
+"RCLR",
+"RPLI",
+"RPLD",
+"RDAT",
+"RDWT"
+],
+"records": 4,
+"contested": []
+},
+"RELA": {
+"order": [
+"EDID",
+"DATA"
+],
+"records": 1,
+"contested": []
+},
+"REVB": {
+"order": [
+"EDID",
+"RABG",
+"ANAM"
+],
+"records": 41,
+"contested": []
+},
+"RFGP": {
+"order": [
+"NNAM",
+"RNAM",
+"VMAD",
+"PNAM",
+"LNAM",
+"MNAM"
+],
+"records": 149587,
+"contested": []
+},
+"RSGD": {
+"order": [
+"EDID",
+"RNAM",
+"DNAM"
+],
+"records": 32,
+"contested": []
+},
+"RSPJ": {
+"order": [
+"EDID",
+"FULL",
+"DESC",
+"BNAM",
+"FVPA",
+"RQPK",
+"CNAM",
+"NNAM",
+"SNAM",
+"TNAM",
+"KNAM",
+"RNAM"
+],
+"records": 82,
+"contested": []
+},
+"SCCO": {
+"order": [
+"EDID",
+"QNAM",
+"SNAM",
+"XNAM",
+"VNAM"
+],
+"records": 1,
+"contested": []
+},
+"SCEN": {
+"order": [
+"EDID",
+"VMAD",
+"FNAM",
+"HNAM",
+"NAM0",
+"NEXT",
+"WNAM",
+"SPMV",
+"SCQS",
+"ALID",
+"LNAM",
+"DNAM",
+"ANAM",
+"INAM",
+"SNAM",
+"ENAM",
+"WED1",
+"DATA",
+"CIS1",
+"DMAX",
+"DMIN",
+"HTID",
+"VENC",
+"DPLT",
+"SHRT",
+"CIS2",
+"UNAM",
+"NVCI",
+"SOFT",
+"DOFT",
+"SPOR",
+"PPST",
+"PNST",
+"PASP",
+"PAPI",
+"PAPN",
+"SPKY",
+"WED0",
+"CNAM",
+"AIDT",
+"ATXT",
+"PLRL",
+"VTXT",
+"MPCD",
+"OCOR",
+"SPEX",
+"DTGT",
+"TNAM",
+"ESCE",
+"ESCS",
+"SNOT",
+"ATTR",
+"ALLA",
+"REPL",
+"BTXT",
+"ACBS",
+"BIPL",
+"LVLO",
+"BNAM",
+"STRV",
+"VCLR",
+"VNML",
+"FLMV",
+"FLAV",
+"QUAL",
+"LVCR",
+"LCEP",
+"ATAC",
+"INTT",
+"SSPN",
+"PNAM",
+"CITC",
+"VNAM",
+"CTDA",
+"NNAM",
+"BOLV",
+"XNAM",
+"SCPI",
+"JNAM",
+"SCSP",
+"SPMA",
+"SPRK",
+"SPRW",
+"SPRP",
+"SPDF",
+"SPPQ",
+"SPKW",
+"SCPP",
+"SPPK",
+"DEVT"
+],
+"records": 10060,
+"contested": [
+[
+"CTDA",
+"VNAM",
+1654,
+4595
+],
+[
+"CTDA",
+"PNAM",
+1630,
+4619
+],
+[
+"ALID",
+"CTDA",
+4642,
+1607
+],
+[
+"CTDA",
+"INAM",
+1607,
+4642
+],
+[
+"ANAM",
+"CTDA",
+4641,
+1602
+],
+[
+"CTDA",
+"ENAM",
+1602,
+4641
+],
+[
+"CTDA",
+"SNAM",
+1602,
+4641
+],
+[
+"CTDA",
+"DNAM",
+1600,
+4631
+],
+[
+"CTDA",
+"LNAM",
+1600,
+4631
+],
+[
+"CTDA",
+"DATA",
+1501,
+4617
+],
+[
+"CTDA",
+"DMAX",
+1495,
+4617
+],
+[
+"CTDA",
+"DMIN",
+1495,
+4617
+],
+[
+"DTGT",
+"PNAM",
+1267,
+1578
+],
+[
+"ESCE",
+"PNAM",
+1267,
+1578
+],
+[
+"ESCS",
+"PNAM",
+1267,
+1578
+],
+[
+"CTDA",
+"HTID",
+1197,
+3792
+],
+[
+"CTDA",
+"DTGT",
+749,
+1881
+],
+[
+"CTDA",
+"ESCE",
+749,
+1881
+],
+[
+"CTDA",
+"ESCS",
+749,
+1881
+],
+[
+"CTDA",
+"WNAM",
+659,
+5589
+]
+]
+},
+"SCOL": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"SNTP",
+"MODL",
+"FLLD",
+"FLTR",
+"ONAM",
+"DATA"
+],
+"records": 15,
+"contested": []
+},
+"SDLT": {
+"order": [
+"EDID",
+"ITMC",
+"DAMA",
+"ACTV"
+],
+"records": 2,
+"contested": []
+},
+"SECH": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"NNAM",
+"XALG",
+"ECHO",
+"ECTE",
+"ECSH",
+"ANAM",
+"BNAM",
+"CNAM",
+"DNAM",
+"ENAM",
+"ECHE",
+"ECHD"
+],
+"records": 32,
+"contested": []
+},
+"SFBK": {
+"order": [
+"EDID",
+"ANAM",
+"DNAM",
+"ENAM",
+"FNAM",
+"GNAM",
+"HNAM",
+"INAM",
+"JNAM",
+"KNAM",
+"WHGT",
+"NAM0",
+"NAM1",
+"NAM2",
+"NAM3",
+"NAM4",
+"NAM5"
+],
+"records": 2018,
+"contested": []
+},
+"SFPC": {
+"order": [
+"EDID",
+"ENAM",
+"BNAM",
+"CNAM",
+"DNAM"
+],
+"records": 62,
+"contested": []
+},
+"SFPT": {
+"order": [
+"EDID",
+"CNAM",
+"FNAM",
+"GNAM",
+"DNAM"
+],
+"records": 270,
+"contested": []
+},
+"SFTR": {
+"order": [
+"EDID",
+"CNAM",
+"DNAM",
+"FNAM",
+"GNAM",
+"NAM1"
+],
+"records": 1521,
+"contested": []
+},
+"SMBN": {
+"order": [
+"EDID",
+"PNAM",
+"SNAM",
+"CITC",
+"CTDA",
+"DNAM",
+"XNAM"
+],
+"records": 174,
+"contested": []
+},
+"SMEN": {
+"order": [
+"EDID",
+"PNAM",
+"SNAM",
+"CITC",
+"DNAM",
+"XNAM",
+"ENAM"
+],
+"records": 22,
+"contested": []
+},
+"SMQN": {
+"order": [
+"EDID",
+"PNAM",
+"SNAM",
+"CITC",
+"CTDA",
+"DNAM",
+"XNAM",
+"MNAM",
+"HNAM",
+"QNAM",
+"NNAM",
+"RNAM"
+],
+"records": 472,
+"contested": []
+},
+"SOUN": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"XALG",
+"KSIZ",
+"SMLS",
+"KWDA",
+"DEVT"
+],
+"records": 1201,
+"contested": []
+},
+"SPCH": {
+"order": [
+"EDID",
+"SPWI",
+"SPLO",
+"SRAN",
+"SGEN",
+"SPQU",
+"KSIZ",
+"KWDA",
+"SPMA",
+"DIFF"
+],
+"records": 212,
+"contested": []
+},
+"SPEL": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"FULL",
+"KSIZ",
+"KWDA",
+"ETYP",
+"PUSH",
+"PDSH",
+"DESC",
+"SPIT",
+"EFID",
+"EFIT",
+"CTDA",
+"MNAM",
+"ZNAM",
+"ANAM",
+"EFIF",
+"MUID"
+],
+"records": 682,
+"contested": [
+[
+"EFIF",
+"MNAM",
+31,
+49
+],
+[
+"MNAM",
+"MUID",
+49,
+31
+],
+[
+"CTDA",
+"EFIF",
+249,
+14
+],
+[
+"CTDA",
+"MUID",
+249,
+14
+],
+[
+"CTDA",
+"MNAM",
+64,
+1
+]
+]
+},
+"SPGD": {
+"order": [
+"EDID",
+"DATA",
+"MNAM"
+],
+"records": 1,
+"contested": []
+},
+"STAG": {
+"order": [
+"EDID",
+"STMS",
+"STAE",
+"STAD"
+],
+"records": 33,
+"contested": []
+},
+"STAT": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"SNTP",
+"SNBH",
+"DEFL",
+"XALG",
+"FTYP",
+"MODL",
+"MOLM",
+"FLLD",
+"PRPS",
+"XFLG",
+"FULL",
+"DNAM",
+"NVNM",
+"STLS"
+],
+"records": 22335,
+"contested": []
+},
+"STBH": {
+"order": [
+"EDID",
+"ENAM",
+"PNAM",
+"CITC",
+"CTDA",
+"UNAM",
+"VNAM"
+],
+"records": 105,
+"contested": []
+},
+"STDT": {
+"order": [
+"EDID",
+"KSIZ",
+"KWDA",
+"ANAM",
+"BNAM",
+"DNAM",
+"ENAM",
+"PNAM"
+],
+"records": 124,
+"contested": []
+},
+"STMP": {
+"order": [
+"EDID",
+"PNAM",
+"ENAM",
+"BNAM",
+"ONAM",
+"TNAM",
+"INAM",
+"STPT",
+"CNAM",
+"RNAM",
+"SNAM"
+],
+"records": 697,
+"contested": []
+},
+"STND": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"MODL",
+"FLLD",
+"KSIZ",
+"KWDA",
+"CNAM",
+"FNAM",
+"SNST",
+"NNAM",
+"FLTV",
+"ANAM"
+],
+"records": 183,
+"contested": []
+},
+"SUNP": {
+"order": [
+"EDID",
+"RFDP",
+"RDIF",
+"REFL"
+],
+"records": 53,
+"contested": []
+},
+"TERM": {
+"order": [
+"EDID",
+"VMAD",
+"OBND",
+"ODTY",
+"PTT2",
+"SNTP",
+"DNAM",
+"NAM1",
+"FULL",
+"MODL",
+"MOLM",
+"FLLD",
+"XFLG",
+"KSIZ",
+"KWDA",
+"FTYP",
+"PRPS",
+"PNAM",
+"FNAM",
+"JNAM",
+"MNAM",
+"GNAM",
+"WBDT",
+"FTMP",
+"FNPR",
+"XMRK",
+"SNAM",
+"STOP"
+],
+"records": 532,
+"contested": []
+},
+"TMLM": {
+"order": [
+"EDID",
+"VMAD",
+"FULL",
+"TMVT",
+"DNAM",
+"SNAM",
+"INAM",
+"BSIZ",
+"BTXT",
+"CIS1",
+"BNAM",
+"CIS2",
+"TPLT",
+"ISIZ",
+"ITXT",
+"ISTX",
+"ISET",
+"ITID",
+"TNAM",
+"UNAM",
+"CTDA",
+"XLOC"
+],
+"records": 1044,
+"contested": [
+[
+"CTDA",
+"ISIZ",
+163,
+203
+],
+[
+"CTDA",
+"ISET",
+149,
+203
+],
+[
+"CTDA",
+"ISTX",
+149,
+203
+],
+[
+"CTDA",
+"ITID",
+149,
+203
+],
+[
+"CTDA",
+"ITXT",
+149,
+203
+],
+[
+"CTDA",
+"TPLT",
+163,
+98
+],
+[
+"CTDA",
+"UNAM",
+86,
+132
+],
+[
+"CTDA",
+"TNAM",
+66,
+64
+],
+[
+"TNAM",
+"UNAM",
+59,
+57
+],
+[
+"TNAM",
+"XLOC",
+12,
+9
+],
+[
+"CTDA",
+"XLOC",
+25,
+7
+],
+[
+"UNAM",
+"XLOC",
+20,
+6
+],
+[
+"CIS2",
+"ISET",
+8,
+2
+],
+[
+"CIS2",
+"ISIZ",
+8,
+2
+],
+[
+"CIS2",
+"ISTX",
+8,
+2
+],
+[
+"CIS2",
+"ITID",
+8,
+2
+],
+[
+"CIS2",
+"ITXT",
+8,
+2
+],
+[
+"CIS2",
+"TPLT",
+7,
+2
+],
+[
+"CIS2",
+"UNAM",
+8,
+2
+],
+[
+"CIS1",
+"ISET",
+4,
+1
+]
+]
+},
+"TODD": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 14,
+"contested": []
+},
+"TRAV": {
+"order": [
+"EDID",
+"DNAM"
+],
+"records": 23,
+"contested": []
+},
+"TRNS": {
+"order": [
+"EDID",
+"DATA",
+"BNAM",
+"ENAM"
+],
+"records": 733,
+"contested": []
+},
+"TXST": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"TX00",
+"TX01",
+"TX08",
+"TX17",
+"TX09",
+"TX19",
+"DODT",
+"DNAM",
+"MNAM"
+],
+"records": 23,
+"contested": []
+},
+"VOLI": {
+"order": [
+"EDID",
+"REFL"
+],
+"records": 44,
+"contested": []
+},
+"VTYP": {
+"order": [
+"EDID",
+"DNAM",
+"ANAM",
+"PNAM"
+],
+"records": 981,
+"contested": []
+},
+"WATR": {
+"order": [
+"EDID",
+"FULL",
+"ANAM",
+"FNAM",
+"WASH",
+"XNAM",
+"YNAM",
+"DATA",
+"DNAM",
+"GNAM",
+"NAM0",
+"NAM1",
+"ENAM",
+"HNAM",
+"JNAM",
+"LNAM",
+"MNAM",
+"QNAM",
+"UNAM"
+],
+"records": 19,
+"contested": []
+},
+"WBAR": {
+"order": [
+"EDID",
+"ZNAM"
+],
+"records": 6,
+"contested": []
+},
+"WEAP": {
+"order": [
+"EDID",
+"OBND",
+"ODTY",
+"OPDS",
+"PTT2",
+"XALG",
+"FULL",
+"MODL",
+"FLLD",
+"EITM",
+"EAMT",
+"ETYP",
+"BIDS",
+"BAMT",
+"PUSH",
+"PDSH",
+"KSIZ",
+"KWDA",
+"DESC",
+"INRD",
+"APPR",
+"OBTE",
+"OBTF",
+"OBTS",
+"STOP",
+"NNAM",
+"BNAM",
+"WAIM",
+"WAM2",
+"WAUD",
+"WTUR",
+"WCHG",
+"WDMG",
+"DAMA",
+"WFIR",
+"WFLG",
+"WGEN",
+"WABB",
+"WMEL",
+"QNAM",
+"WRLO",
+"WVAR",
+"MOD4",
+"MO4S",
+"WVIS",
+"WTRM"
+],
+"records": 457,
+"contested": []
+},
+"WKMF": {
+"order": [
+"EDID",
+"WMTI",
+"WMKA",
+"WMSS",
+"WMSI",
+"WMSD"
+],
+"records": 81,
+"contested": []
+},
+"WRLD": {
+"order": [
+"EDID",
+"RNAM",
+"FULL",
+"XLCN",
+"BNAM",
+"WNAM",
+"CNAM",
+"PNAM",
+"NAM2",
+"NAM7",
+"NAM3",
+"NAM4",
+"DNAM",
+"MNAM",
+"ONAM",
+"NAMA",
+"DATA",
+"FNAM",
+"NAM0",
+"NAM9",
+"ZNAM",
+"WAMB",
+"XEMP",
+"XWEM",
+"GNAM",
+"LNAM",
+"XCLW",
+"WHGT",
+"HNAM",
+"OFST",
+"CLSZ"
+],
+"records": 602,
+"contested": []
+},
+"WTHR": {
+"order": [
+"EDID",
+"KSIZ",
+"KWDA",
+"LNAM",
+"MNAM",
+"NNAM",
+"CLDC",
+"RNAM",
+"QNAM",
+"PNAM",
+"JNAM",
+"NAM0",
+"NAM4",
+"FNAM",
+"DATA",
+"NAM1",
+"TNAM",
+"IMSP",
+"HNAM",
+"DALC",
+"MODL",
+"FLLD",
+"GNAM",
+"UNAM",
+"VNAM",
+"WNAM"
+],
+"records": 3,
+"contested": []
+},
+"WTHS": {
+"order": [
+"EDID",
+"RFDP",
+"RDIF",
+"REFL"
+],
+"records": 187,
+"contested": []
+},
+"WWED": {
+"order": [
+"EDID",
+"WSED",
+"CNAM",
+"WTED"
+],
+"records": 738,
+"contested": []
+},
+"ZOOM": {
+"order": [
+"EDID",
+"ZNAM"
+],
+"records": 148,
+"contested": []
+},
+"OSWP": {
+"order": [
+"EDID"
+],
+"records": 3,
+"contested": []
+},
+"PTST": {
+"order": [
+"EDID"
+],
+"records": 47,
+"contested": []
+},
+"CHAL": {
+"order": [
+"EDID"
+],
+"records": 10,
+"contested": []
+}
+}
+}

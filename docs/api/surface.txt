@@ -1,0 +1,271 @@
+# pyfield public surface (adapter API 1)
+class Capability
+  field key
+  field status
+  field note
+class CapabilitySet
+  def __init__(self, items=())
+  def __iter__(self)
+  def get(self, key) -> 'Capability'
+  def report(self) -> 'list[dict]'
+  def require(self, key, allow_experimental=False)
+class Diff
+  field added
+  field removed
+  field changed
+  property empty
+  def summary(self) -> 'str'
+  def to_dict(self)
+class FormKey
+  field plugin
+  field local_id
+  classmethod parse(cls, text: 'str') -> "'FormKey'"
+class FormatError(PyFieldError)
+  def __init__(self, message, offset=None)
+class GroupNode
+  def __init__(self, spec: 'FormatSpec', header, raw=None, parent=None, offset=None)
+  def append(self, node)
+  property children
+  def end_save(self)
+  def groups(self) -> "Iterator['GroupNode']"
+  def insert(self, index, node)
+  property is_expanded
+  def iter_chunks(self) -> 'Iterator[bytes]'
+  property kind
+  property label_bytes
+  property label_int
+  property label_signature
+  def nbytes(self) -> 'int'
+  classmethod new(cls, spec: 'FormatSpec', label: 'bytes', kind: 'int', header_tail=b'')
+  def records(self) -> 'Iterator[RecordNode]'
+  def remove(self, node)
+  def walk(self) -> 'Iterator'
+class LoadOrder
+  def __enter__(self)
+  def __exit__(self, *exc)
+  def __init__(self, plugins: 'Iterable[Plugin]')
+  classmethod around(cls, plugin: 'Plugin', data_dir, game=None) -> "'LoadOrder'"
+  def build_reverse_index(self, signatures: 'Iterable[str] | None' = None, progress: 'Callable[[str], None] | None' = None) -> 'dict[FormKey, list]'
+  def close(self)
+  def container_of(self, view) -> 'tuple[str, FormKey | Unresolved] | None'
+  def display_name(self, view, language: 'str' = 'en') -> 'str | None'
+  def editor_id_index(self, plugin: 'Plugin') -> 'dict[str, list[int]]'
+  def find_editor_id(self, editor_id: 'str', signature: 'str | None' = None)
+  def key_of(self, plugin: 'Plugin', node: 'RecordNode') -> 'FormKey | Unresolved'
+  classmethod open(cls, data_dir, names: 'Iterable[str]', game=None, with_masters: 'bool' = True) -> "'LoadOrder'"
+  def overrides(self, key: 'FormKey') -> 'list[tuple[Plugin, RecordNode]]'
+  def placement_path(self, view) -> 'list[tuple[str, str]]'
+  def plugin(self, name: 'str') -> 'Plugin'
+  def position(self, name: 'str') -> 'int'
+  def query(self, *signatures: 'str') -> "'Query'"
+  def records(self, *signatures: 'str', winners_only: 'bool' = True) -> 'Iterator'
+  def referenced_by(self, key: 'FormKey') -> 'list'
+  def references_from(self, view) -> 'list[tuple[str, FormKey | Unresolved]]'
+  def resolve(self, key: 'FormKey | str | None')
+  def strings(self, language: 'str' = 'en', data_dir=None)
+  def text(self, view, signature: 'str | None' = None, language: 'str' = 'en') -> 'str | None'
+  def winner(self, key: 'FormKey') -> 'tuple[Plugin, RecordNode] | None'
+class Plugin
+  def __enter__(self)
+  def __exit__(self, *exc)
+  def __init__(self, adapter, name: 'str', data, path: 'Path | None' = None, closer=None)
+  def add_master(self, name: 'str', kind: 'str | None' = None)
+  property author
+  def close(self)
+  property codec
+  property count_convention
+  classmethod create(cls, name: 'str', adapter, masters: 'Iterable[str]' = (), *, flags: 'int' = 0, author: 'str' = '', description: 'str' = '') -> "'Plugin'"
+  property description
+  def find(self, form_id: 'int') -> 'RecordNode | None'
+  property flags (settable)
+  def form_key(self, raw: 'int') -> 'FormKey | None'
+  classmethod from_bytes(cls, data: 'bytes', name: 'str', adapter) -> "'Plugin'"
+  def get(self, key: 'FormKey') -> 'RecordNode | None'
+  property header_counts
+  property hedr
+  property index
+  property is_localized
+  property is_master
+  def iter_chunks(self, update_header: 'bool' = True) -> 'Iterator[bytes]'
+  property kind
+  property masters
+  def modified_records(self) -> 'list[RecordNode]'
+  def node_at(self, offset: 'int')
+  def node_count(self) -> 'int'
+  classmethod open(cls, path, adapter=None, use_mmap: 'bool | None' = None) -> "'Plugin'"
+  def own_local_ids(self) -> 'set[int]'
+  def raw_form_id(self, key: 'FormKey | None') -> 'int'
+  def record_count(self) -> 'int'
+  def records(self, *signatures: 'str') -> 'Iterator[RecordNode]'
+  def resolve_master_kinds(self, data_dir=None)
+  def set_master_kinds(self, kinds: 'dict[str, str]')
+  def to_bytes(self, update_header: 'bool' = True) -> 'bytes'
+  def top_group(self, signature: 'str', create: 'bool' = False) -> 'GroupNode | None'
+  def transaction(self)
+  def typed(self, node: 'RecordNode')
+  def typed_records(self, *signatures: 'str')
+  def update_header(self)
+  def walk(self) -> 'Iterator'
+  def write(self, path, update_header: 'bool' = True)
+class PyFieldError(Exception)
+class Query
+  def __init__(self, load_order: 'LoadOrder', signatures)
+  def __iter__(self)
+  def count(self) -> 'int'
+  def editor_id(self, pattern: 'str') -> "'Query'"
+  def field(self, attr: 'str', value) -> "'Query'"
+  def first(self)
+  def in_plugins(self, *names: 'str') -> "'Query'"
+  def list(self, limit: 'int | None' = None) -> 'list'
+  def references(self, key: 'FormKey') -> "'Query'"
+  def where(self, predicate: 'Callable') -> "'Query'"
+class RecordNode
+  def __init__(self, spec: 'FormatSpec', header, stored, parent=None, offset=None)
+  def body_modified(self) -> 'bool'
+  def copy(self) -> "'RecordNode'"
+  property editor_id
+  def end_save(self)
+  property fields (settable)
+  property flags (settable)
+  property form_id (settable)
+  def get(self, signature: 'str', default=None) -> 'Subrecord | None'
+  def get_all(self, signature: 'str') -> 'list[Subrecord]'
+  property header_tail
+  property is_compressed
+  property is_loaded
+  def is_modified(self) -> 'bool'
+  property is_new
+  def iter_chunks(self) -> 'Iterator[bytes]'
+  def nbytes(self) -> 'int'
+  classmethod new(cls, spec: 'FormatSpec', signature: 'str', form_id: 'int', fields=(), flags=0, header_tail=b'')
+  def plain_body(self) -> 'bytes'
+  property signature
+  def to_bytes(self) -> 'bytes'
+class Report
+  field plugin
+  field issues
+  field stats
+  def add(self, severity, code, message, record='')
+  property errors
+  property ok
+  def summary(self) -> 'str'
+  def to_dict(self)
+  property warnings
+class ResolutionError(PyFieldError)
+class SchemaError(PyFieldError)
+class Status(str, Enum)
+class Subrecord
+  field signature
+  field data
+class Transaction
+  def __enter__(self)
+  def __exit__(self, exc_type, exc, tb)
+  def __init__(self, plugin)
+  def commit(self, path=None, *, load_order=None, validate: 'bool' = True, backup_dir=None)
+  def ensure_master(self, name: 'str', kind: 'str')
+  def new_record(self, signature: 'str', editor_id: 'str | None' = None, flags: 'int' = 0, **values)
+  def override(self, source_view, load_order=None, accept_unverified=())
+  def remove(self, view)
+  def rollback(self)
+class TransactionError(PyFieldError)
+class TypedRecord
+  def __init__(self, node: 'RecordNode', plugin)
+  property context
+  property editor_id
+  property form_id
+  property form_key
+  def get_value(self, member: 'Member')
+  def header_flag_names(self) -> 'list[str]'
+  property header_flags (settable)
+  def links(self) -> 'Iterator[tuple[str, FormKey | Unresolved]]'
+  def regions(self) -> 'list[tuple[str, list[Subrecord]]]'
+  def set_value(self, member: 'Member', value)
+  property signature
+  def to_dict(self) -> 'dict'
+  def top_level_positions(self) -> 'Iterator[int]'
+  def unknown_signatures(self) -> 'list[str]'
+class Unresolved
+  field raw
+class UnsupportedOperation(PyFieldError)
+  def __init__(self, capability, detail='')
+class ValidationError(PyFieldError)
+  def __init__(self, report)
+def create_plugin(name: str, game: str, masters=(), *, flags: int = 0, author: str = '', description: str = '', master_kinds: dict | None = None) -> pyfield.core.plugin.Plugin
+def diff_plugins(before, after) -> 'Diff'
+module games: adapters, detect, detect_file, get, register
+def open_load_order(data_dir, plugins, game=None, with_masters: bool = True) -> pyfield.core.loadorder.LoadOrder
+def open_plugin(path, game=None, **kwargs) -> pyfield.core.plugin.Plugin
+def validate_plugin(plugin, load_order=None, typed: 'bool' = True, baseline_order=None) -> 'Report'
+# adapter protocol
+class GameAdapter
+  field name
+  field title
+  field format
+  field header
+  field groups
+  field header_versions
+  field default_header_version
+  field namespaces
+  field master_flag
+  field localized_flag
+  field small_flag
+  field medium_flag
+  field native_group_order
+  field record_header_tail
+  field first_object_id
+  field next_id_has_own_prefix
+  field capabilities
+  field schema_loader
+  field schema_version
+  field inventory_loader
+  field formid_array_signatures
+  field formid_locators
+  field transplant_policy
+  field asset_rules
+  field name_signature
+  field asset_hooks
+  field rotation_convention
+  field exterior_cell_size
+  field placeable_types
+  field override_strip
+  field api_version
+  def group_rank(self, signature: 'str') -> 'int'
+  def header_tail(self) -> 'bytes'
+  def is_localized(self, header_flags: 'int') -> 'bool'
+  def lstring_signatures(self, record_signature: 'str') -> 'frozenset'
+  def master_kind(self, header_flags: 'int') -> 'str'
+  property schemas
+  def sniff(self, head: 'bytes') -> 'bool'
+class HeaderScheme
+  def add_master(self, fields, name: 'str') -> 'None'
+  def author(self, fields) -> 'str | None'
+  def counts(self, fields) -> 'tuple[float, int, int]'
+  def description(self, fields) -> 'str | None'
+  def masters(self, fields) -> 'list[str]'
+  def new_fields(self, masters: 'Iterable[str]', author: 'str', description: 'str', version: 'float', next_object_id: 'int') -> 'list'
+  def set_counts(self, fields, count: 'int', next_object_id: 'int') -> 'None'
+  def sniff(self, head: 'bytes', record_header_size: 'int') -> 'float | None'
+class GroupLayout
+  field top_kind
+  field kind_names
+  field owner_kinds
+  field formid_label_kinds
+  field grid_kinds
+  field nested_top_groups
+  field world_kind
+  def name(self, kind: 'int') -> 'str'
+class FormatSpec
+  field name
+  field record_header_size
+  field group_header_size
+  field plugin_header_signature
+  field group_signature
+  field compressed_flag
+  field extended_size_signature
+  field subrecord_size_format
+  field zlib_level
+  field editor_id_signature
+  property max_subrecord_size
+  property subrecord_header_size
+# cli
+commands: assets blueprint capabilities diff info records roundtrip runtime schema show transplant validate

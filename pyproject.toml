@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyfield-esm"
+version = "0.3.0"
+description = "Structured, validated read/write access to Bethesda plugin files (Starfield first): records, scenes, terrain, outposts."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT AND MPL-2.0"
+license-files = ["LICENSE", "LICENSES/*", "THIRD_PARTY_NOTICES.md"]
+authors = [{ name = "Ivan Romero" }]
+keywords = ["starfield", "bethesda", "esm", "esp", "plugin", "modding", "creation-engine", "xedit"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Games/Entertainment",
+    "Topic :: Software Development :: Libraries",
+]
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+docs = ["mkdocs-material>=9.5"]
+
+[project.urls]
+Homepage = "https://github.com/iromeroh/pyfield"
+Documentation = "https://iromeroh.github.io/pyfield/"
+Source = "https://github.com/iromeroh/pyfield"
+Issues = "https://github.com/iromeroh/pyfield/issues"
+Changelog = "https://github.com/iromeroh/pyfield/blob/main/CHANGELOG.md"
+
+[project.scripts]
+pyfield = "pyfield.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"pyfield.games.starfield" = ["data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "corpus: needs installed game data (PYFIELD_STARFIELD_DATA / PYFIELD_OBLIVION_DATA)",
+    "slow: reads very large masters",
+]

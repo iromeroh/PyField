@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build outputs (wheels, demo plugins, archives, previews)
+build/
+dist/
+site/
+examples/pyfield-csvgame/build/
+
+# Local reverse-engineering workspace (game executable analysis): never part of this repository
+re/
+
+# SFSE capture plugin: a separate project (GPL-3.0-or-later, CommonLibSF); not part of this repository
+sfse/
+
+# Game data never belongs here: plugins, archives, captures, saves
+*.esm
+*.esp
+*.esl
+*.ba2
+*.sfs
+captures/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Docs build copies the changelog into the site
+docs/changelog.md

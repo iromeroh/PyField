@@ -1,0 +1,3274 @@
+{
+ "generated": "2026-10-14 21:17",
+ "files": [
+  {
+   "file": "aurie_thegangsallhere.esm",
+   "game": "starfield",
+   "bytes": 1436574,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    769,
+    33556480
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 695,
+   "groups": 74,
+   "record_types": 17,
+   "top_signatures": {
+    "AFFE": 378,
+    "CNDF": 119,
+    "MESG": 42,
+    "GLOB": 41,
+    "QUST": 33,
+    "ACHR": 25,
+    "TMLM": 20,
+    "CELL": 16,
+    "WRLD": 5,
+    "SCEN": 4,
+    "FLST": 3,
+    "AVIF": 3
+   },
+   "compressed": 16,
+   "own_records": 216,
+   "override_records": 479,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.014,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.027
+  },
+  {
+   "file": "blep_gore_framework.esm",
+   "game": "starfield",
+   "bytes": 313945,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    447,
+    33556480
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS004.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS008.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS007.esm",
+     "kind": "small"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 412,
+   "groups": 35,
+   "record_types": 35,
+   "top_signatures": {
+    "FLST": 51,
+    "MGEF": 41,
+    "SPEL": 33,
+    "ARMO": 26,
+    "MSTT": 23,
+    "CNDF": 23,
+    "ARMA": 22,
+    "LVLI": 21,
+    "EFSQ": 19,
+    "KYWD": 18,
+    "CONT": 17,
+    "EFSH": 17
+   },
+   "compressed": 0,
+   "own_records": 411,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.006
+  },
+  {
+   "file": "BlueprintShips-SFBGS050.esm",
+   "game": "starfield",
+   "bytes": 16136720,
+   "flags": "00000881",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    80290,
+    4278192130
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS050.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 80007,
+   "groups": 283,
+   "record_types": 8,
+   "top_signatures": {
+    "REFR": 78004,
+    "RFGP": 1800,
+    "CELL": 71,
+    "LCTN": 66,
+    "GBFM": 32,
+    "NAVM": 32,
+    "NAVI": 1,
+    "PERS": 1
+   },
+   "compressed": 103,
+   "own_records": 79974,
+   "override_records": 33,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.04,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 1.168
+  },
+  {
+   "file": "blueprintships-sfta03.esm",
+   "game": "starfield",
+   "bytes": 1017238,
+   "flags": "00000881",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    5011,
+    4278192130
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    },
+    {
+     "name": "SFTA03.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 4986,
+   "groups": 25,
+   "record_types": 8,
+   "top_signatures": {
+    "REFR": 4938,
+    "RFGP": 35,
+    "CELL": 4,
+    "LCTN": 4,
+    "NAVM": 2,
+    "GBFM": 1,
+    "NAVI": 1,
+    "PERS": 1
+   },
+   "compressed": 6,
+   "own_records": 4984,
+   "override_records": 2,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.006,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.057
+  },
+  {
+   "file": "blueprintships-sfta06.esm",
+   "game": "starfield",
+   "bytes": 3303216,
+   "flags": "00000881",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    17332,
+    4278192130
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    },
+    {
+     "name": "SFTA06.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 17298,
+   "groups": 34,
+   "record_types": 8,
+   "top_signatures": {
+    "REFR": 17124,
+    "RFGP": 155,
+    "CELL": 6,
+    "LCTN": 6,
+    "NAVM": 3,
+    "GBFM": 2,
+    "NAVI": 1,
+    "PERS": 1
+   },
+   "compressed": 9,
+   "own_records": 17295,
+   "override_records": 3,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.009,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.4
+  },
+  {
+   "file": "BlueprintShips-Starfield.esm",
+   "game": "starfield",
+   "bytes": 303656303,
+   "flags": "00000881",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    1505736,
+    4279021590
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1503332,
+   "groups": 2404,
+   "record_types": 9,
+   "top_signatures": {
+    "REFR": 1478203,
+    "RFGP": 22693,
+    "CELL": 779,
+    "LCTN": 779,
+    "NAVM": 439,
+    "GBFM": 356,
+    "ACHR": 81,
+    "NAVI": 1,
+    "PERS": 1
+   },
+   "compressed": 1218,
+   "own_records": 1502975,
+   "override_records": 357,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.971,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 96.199
+  },
+  {
+   "file": "bmxoutpost.esm",
+   "game": "starfield",
+   "bytes": 4838379,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    32100,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 30322,
+   "groups": 1778,
+   "record_types": 40,
+   "top_signatures": {
+    "REFR": 26818,
+    "PKIN": 793,
+    "CELL": 783,
+    "NAVM": 518,
+    "STAT": 364,
+    "COBJ": 330,
+    "STMP": 144,
+    "ACTI": 103,
+    "CONT": 98,
+    "STBH": 92,
+    "RFGP": 75,
+    "FLST": 41
+   },
+   "compressed": 1310,
+   "own_records": 30202,
+   "override_records": 120,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.02,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.222
+  },
+  {
+   "file": "bolero.esm",
+   "game": "starfield",
+   "bytes": 29993,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    44,
+    16779300
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 36,
+   "groups": 8,
+   "record_types": 8,
+   "top_signatures": {
+    "IDLE": 10,
+    "FURN": 9,
+    "GLOB": 6,
+    "KYWD": 4,
+    "MESG": 3,
+    "QUST": 2,
+    "RACE": 1,
+    "PERK": 1
+   },
+   "compressed": 0,
+   "own_records": 36,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.0,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "bolero.esp",
+   "game": "starfield",
+   "bytes": 29993,
+   "flags": "00000400",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    44,
+    16779300
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 36,
+   "groups": 8,
+   "record_types": 8,
+   "top_signatures": {
+    "IDLE": 10,
+    "FURN": 9,
+    "GLOB": 6,
+    "KYWD": 4,
+    "MESG": 3,
+    "QUST": 2,
+    "RACE": 1,
+    "PERK": 1
+   },
+   "compressed": 0,
+   "own_records": 36,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "Constellation.esm",
+   "game": "starfield",
+   "bytes": 39210,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    57,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 56,
+   "groups": 7,
+   "record_types": 7,
+   "top_signatures": {
+    "AVMD": 35,
+    "KYWD": 9,
+    "COBJ": 4,
+    "OMOD": 4,
+    "GLOB": 2,
+    "LVLI": 1,
+    "LMSW": 1
+   },
+   "compressed": 0,
+   "own_records": 56,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "dogsncatsmeshprobe.esm",
+   "game": "starfield",
+   "bytes": 157907,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    576,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 508,
+   "groups": 68,
+   "record_types": 31,
+   "top_signatures": {
+    "MESG": 91,
+    "PACK": 82,
+    "NPC_": 48,
+    "INFO": 47,
+    "GLOB": 44,
+    "ACHR": 42,
+    "DIAL": 35,
+    "QUST": 24,
+    "IDLE": 15,
+    "WWED": 11,
+    "GPOF": 8,
+    "ARMO": 7
+   },
+   "compressed": 49,
+   "own_records": 506,
+   "override_records": 2,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.009
+  },
+  {
+   "file": "du_overtime.esm",
+   "game": "starfield",
+   "bytes": 1545647,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    809,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 793,
+   "groups": 16,
+   "record_types": 16,
+   "top_signatures": {
+    "QUST": 309,
+    "ACTI": 135,
+    "MESG": 111,
+    "FLST": 69,
+    "MISC": 45,
+    "NPC_": 26,
+    "GLOB": 25,
+    "SMQN": 18,
+    "GBFM": 16,
+    "KYWD": 12,
+    "COBJ": 10,
+    "BOOK": 4
+   },
+   "compressed": 26,
+   "own_records": 793,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.003,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.037
+  },
+  {
+   "file": "du_takeover.esm",
+   "game": "starfield",
+   "bytes": 55492027,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    59053,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 56929,
+   "groups": 2124,
+   "record_types": 14,
+   "top_signatures": {
+    "REFR": 48749,
+    "NAVM": 5848,
+    "CELL": 1078,
+    "ACHR": 378,
+    "RFGP": 354,
+    "PKIN": 206,
+    "PCCN": 150,
+    "WRLD": 51,
+    "LCTN": 51,
+    "SFBK": 51,
+    "PCBN": 9,
+    "LAYR": 2
+   },
+   "compressed": 6672,
+   "own_records": 56922,
+   "override_records": 7,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.055,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 1.01
+  },
+  {
+   "file": "eaa_spacetruckinplus.esm",
+   "game": "starfield",
+   "bytes": 419763,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    3377,
+    33556480
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 3113,
+   "groups": 264,
+   "record_types": 27,
+   "top_signatures": {
+    "REFR": 2558,
+    "LVLI": 85,
+    "PKIN": 83,
+    "CELL": 83,
+    "COBJ": 73,
+    "STAT": 39,
+    "MESG": 38,
+    "GLOB": 28,
+    "ARMO": 21,
+    "KEYM": 19,
+    "CONT": 18,
+    "TMLM": 12
+   },
+   "compressed": 84,
+   "own_records": 3113,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.005,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.021
+  },
+  {
+   "file": "even_richer_vendors_sp0ckrates.esm",
+   "game": "starfield",
+   "bytes": 4012,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    18,
+    33556519
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 16,
+   "groups": 2,
+   "record_types": 2,
+   "top_signatures": {
+    "LVLI": 15,
+    "GMST": 1
+   },
+   "compressed": 0,
+   "own_records": 0,
+   "override_records": 16,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "functionaldecor.esm",
+   "game": "starfield",
+   "bytes": 1657133,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    11424,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 9577,
+   "groups": 1847,
+   "record_types": 29,
+   "top_signatures": {
+    "REFR": 6118,
+    "PKIN": 854,
+    "CELL": 854,
+    "STAT": 700,
+    "COBJ": 282,
+    "CONT": 131,
+    "ACTI": 129,
+    "FURN": 96,
+    "STMP": 88,
+    "FLST": 52,
+    "DOOR": 46,
+    "TRNS": 34
+   },
+   "compressed": 870,
+   "own_records": 9489,
+   "override_records": 88,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.006,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.08
+  },
+  {
+   "file": "kinggathcreations_spaceship.esm",
+   "game": "starfield",
+   "bytes": 94656403,
+   "flags": "00000081",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    375643,
+    4278241303
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs004.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS047.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS007.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS008.esm",
+     "kind": "small"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 371811,
+   "groups": 3832,
+   "record_types": 106,
+   "top_signatures": {
+    "REFR": 345236,
+    "INFO": 6907,
+    "RFGP": 5360,
+    "NAVM": 4463,
+    "DIAL": 2602,
+    "ACHR": 954,
+    "CELL": 723,
+    "LMSW": 402,
+    "LAYR": 374,
+    "GLOB": 370,
+    "SCEN": 289,
+    "KYWD": 248
+   },
+   "compressed": 5218,
+   "own_records": 371806,
+   "override_records": 5,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.197,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 8.87
+  },
+  {
+   "file": "last_mile_shuttle.esm",
+   "game": "starfield",
+   "bytes": 20159472,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    21649,
+    33556480
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS004.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS047.esm",
+     "kind": "small"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 21315,
+   "groups": 334,
+   "record_types": 36,
+   "top_signatures": {
+    "REFR": 18573,
+    "TMLM": 1891,
+    "RFGP": 335,
+    "CELL": 94,
+    "INFO": 81,
+    "MESG": 59,
+    "QUST": 42,
+    "DIAL": 37,
+    "NPC_": 23,
+    "SCEN": 23,
+    "LAYR": 22,
+    "WRLD": 15
+   },
+   "compressed": 132,
+   "own_records": 21019,
+   "override_records": 296,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.015,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.434
+  },
+  {
+   "file": "last_mile_shuttle.esp",
+   "game": "starfield",
+   "bytes": 20159462,
+   "flags": "00000000",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    21649,
+    5704
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS004.esm",
+     "kind": "small"
+    },
+    {
+     "name": "SFBGS047.esm",
+     "kind": "small"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 21315,
+   "groups": 334,
+   "record_types": 36,
+   "top_signatures": {
+    "REFR": 18573,
+    "TMLM": 1891,
+    "RFGP": 335,
+    "CELL": 94,
+    "INFO": 81,
+    "MESG": 59,
+    "QUST": 42,
+    "DIAL": 37,
+    "NPC_": 23,
+    "SCEN": 23,
+    "LAYR": 22,
+    "WRLD": 15
+   },
+   "compressed": 132,
+   "own_records": 21019,
+   "override_records": 296,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.021,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 1.217
+  },
+  {
+   "file": "live_off_the_land.esm",
+   "game": "starfield",
+   "bytes": 52358,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    192,
+    16779442
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 176,
+   "groups": 16,
+   "record_types": 16,
+   "top_signatures": {
+    "STAT": 40,
+    "COBJ": 36,
+    "ACTI": 25,
+    "FLST": 13,
+    "ALCH": 12,
+    "CONT": 11,
+    "MISC": 11,
+    "IRES": 6,
+    "KYWD": 4,
+    "GLOB": 4,
+    "STMP": 4,
+    "AVIF": 3
+   },
+   "compressed": 0,
+   "own_records": 176,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.0,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.003
+  },
+  {
+   "file": "mordrid-register-ship-cheap-lesscheaty.esm",
+   "game": "starfield",
+   "bytes": 345,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    2,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1,
+   "groups": 1,
+   "record_types": 1,
+   "top_signatures": {
+    "GMST": 1
+   },
+   "compressed": 0,
+   "own_records": 0,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.0,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.0
+  },
+  {
+   "file": "non-lethal framework - free.esm",
+   "game": "starfield",
+   "bytes": 71396,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    72,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs007.esm",
+     "kind": "small"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 55,
+   "groups": 17,
+   "record_types": 17,
+   "top_signatures": {
+    "PACK": 19,
+    "KYWD": 5,
+    "FLST": 5,
+    "MGEF": 4,
+    "LVLI": 4,
+    "SPEL": 3,
+    "TRNS": 2,
+    "MISC": 2,
+    "FURN": 2,
+    "QUST": 2,
+    "GLOB": 1,
+    "PERK": 1
+   },
+   "compressed": 0,
+   "own_records": 52,
+   "override_records": 3,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.004
+  },
+  {
+   "file": "positivelynewatlantis.esm",
+   "game": "starfield",
+   "bytes": 18261763,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    5726,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 5308,
+   "groups": 418,
+   "record_types": 16,
+   "top_signatures": {
+    "REFR": 4905,
+    "CELL": 249,
+    "PKIN": 62,
+    "LMSW": 62,
+    "NAVM": 10,
+    "RFGP": 9,
+    "ACHR": 2,
+    "BOOK": 1,
+    "LIGH": 1,
+    "NAVI": 1,
+    "WRLD": 1,
+    "QUST": 1
+   },
+   "compressed": 172,
+   "own_records": 5096,
+   "override_records": 212,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.012,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.271
+  },
+  {
+   "file": "proximacentri.esm",
+   "game": "starfield",
+   "bytes": 180266,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    21,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 18,
+   "groups": 3,
+   "record_types": 3,
+   "top_signatures": {
+    "LCTN": 13,
+    "PNDT": 4,
+    "STDT": 1
+   },
+   "compressed": 4,
+   "own_records": 18,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.003,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.003
+  },
+  {
+   "file": "rbt_skeletonkey.esm",
+   "game": "starfield",
+   "bytes": 10375,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    36,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 27,
+   "groups": 9,
+   "record_types": 9,
+   "top_signatures": {
+    "MESG": 10,
+    "PERK": 4,
+    "CNDF": 4,
+    "GLOB": 2,
+    "QUST": 2,
+    "GPOF": 2,
+    "MGEF": 1,
+    "ALCH": 1,
+    "GPOG": 1
+   },
+   "compressed": 0,
+   "own_records": 27,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "roleplayersalternatestart.esm",
+   "game": "starfield",
+   "bytes": 501032,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    1948,
+    4278192128
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 1575,
+   "groups": 373,
+   "record_types": 35,
+   "top_signatures": {
+    "DIAL": 456,
+    "INFO": 396,
+    "REFR": 319,
+    "SCEN": 67,
+    "PACK": 46,
+    "MESG": 44,
+    "CNDF": 41,
+    "MISC": 40,
+    "GLOB": 38,
+    "TMLM": 20,
+    "QUST": 19,
+    "ACTI": 14
+   },
+   "compressed": 15,
+   "own_records": 1550,
+   "override_records": 25,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.003,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.024
+  },
+  {
+   "file": "s-47 speeder bike.esm",
+   "game": "starfield",
+   "bytes": 836634,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    121,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs004.esm",
+     "kind": "small"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 89,
+   "groups": 32,
+   "record_types": 16,
+   "top_signatures": {
+    "RFGP": 50,
+    "REFR": 6,
+    "CELL": 5,
+    "NPC_": 4,
+    "FURN": 3,
+    "WEAP": 3,
+    "ACHR": 3,
+    "FLST": 3,
+    "COBJ": 3,
+    "KYWD": 2,
+    "GBFM": 2,
+    "PKIN": 1
+   },
+   "compressed": 9,
+   "own_records": 74,
+   "override_records": 15,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.086
+  },
+  {
+   "file": "scientificgorillatimescaleground6.esm",
+   "game": "starfield",
+   "bytes": 186,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    2,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1,
+   "groups": 1,
+   "record_types": 1,
+   "top_signatures": {
+    "GMST": 1
+   },
+   "compressed": 0,
+   "own_records": 0,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.0,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.0
+  },
+  {
+   "file": "ScreenSFSE.esm",
+   "game": "starfield",
+   "bytes": 4249,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    19,
+    2062
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 14,
+   "groups": 5,
+   "record_types": 5,
+   "top_signatures": {
+    "ACTI": 8,
+    "FLST": 2,
+    "COBJ": 2,
+    "STAT": 1,
+    "MESG": 1
+   },
+   "compressed": 0,
+   "own_records": 14,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.0
+  },
+  {
+   "file": "SFBGS003.esm",
+   "game": "starfield",
+   "bytes": 33279036,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    65476,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 65475,
+   "groups": 1437,
+   "record_types": 80,
+   "top_signatures": {
+    "REFR": 55531,
+    "INFO": 3051,
+    "RFGP": 2280,
+    "MESG": 1172,
+    "DIAL": 1105,
+    "NAVM": 981,
+    "LAYR": 158,
+    "SCEN": 137,
+    "GLOB": 109,
+    "CELL": 98,
+    "NPC_": 88,
+    "LMSW": 66
+   },
+   "compressed": 1034,
+   "own_records": 64384,
+   "override_records": 1091,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.042,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.954
+  },
+  {
+   "file": "SFBGS004.esm",
+   "game": "starfield",
+   "bytes": 254945,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    892,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 891,
+   "groups": 58,
+   "record_types": 40,
+   "top_signatures": {
+    "INFO": 616,
+    "GMST": 52,
+    "DLBR": 37,
+    "IDLE": 30,
+    "IPCT": 28,
+    "MSTT": 18,
+    "KYWD": 14,
+    "DIAL": 13,
+    "DFOB": 13,
+    "BMOD": 12,
+    "LSCR": 7,
+    "FLST": 6
+   },
+   "compressed": 2,
+   "own_records": 871,
+   "override_records": 20,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.009
+  },
+  {
+   "file": "SFBGS006.esm",
+   "game": "starfield",
+   "bytes": 7315458,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    60922,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 60921,
+   "groups": 1177,
+   "record_types": 12,
+   "top_signatures": {
+    "REFR": 59472,
+    "RFGP": 491,
+    "CELL": 357,
+    "PKIN": 356,
+    "GBFM": 175,
+    "FLST": 47,
+    "COBJ": 8,
+    "FURN": 7,
+    "NAVM": 3,
+    "GLOB": 2,
+    "MSTT": 2,
+    "NAVI": 1
+   },
+   "compressed": 360,
+   "own_records": 60890,
+   "override_records": 31,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.028,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.609
+  },
+  {
+   "file": "SFBGS007.esm",
+   "game": "starfield",
+   "bytes": 27312,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    63,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 62,
+   "groups": 12,
+   "record_types": 12,
+   "top_signatures": {
+    "GPOF": 18,
+    "AVIF": 7,
+    "MGEF": 6,
+    "SPEL": 6,
+    "PERK": 6,
+    "CNDF": 6,
+    "GLOB": 4,
+    "QUST": 3,
+    "DFOB": 2,
+    "GPOG": 2,
+    "LSCR": 1,
+    "FLST": 1
+   },
+   "compressed": 0,
+   "own_records": 62,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.004,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "SFBGS008.esm",
+   "game": "starfield",
+   "bytes": 11302160,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    182,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 181,
+   "groups": 45,
+   "record_types": 9,
+   "top_signatures": {
+    "REFR": 133,
+    "CELL": 23,
+    "LAYR": 9,
+    "LCTN": 5,
+    "STAT": 3,
+    "WRLD": 3,
+    "IMGS": 2,
+    "DFOB": 2,
+    "GLOB": 1
+   },
+   "compressed": 23,
+   "own_records": 146,
+   "override_records": 35,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.007,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.157
+  },
+  {
+   "file": "sfbgs00c.esm",
+   "game": "starfield",
+   "bytes": 1370693,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    2439,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 2438,
+   "groups": 692,
+   "record_types": 47,
+   "top_signatures": {
+    "INFO": 780,
+    "REFR": 763,
+    "DIAL": 645,
+    "SCEN": 63,
+    "PACK": 23,
+    "IDLE": 17,
+    "RFGP": 17,
+    "LCRT": 14,
+    "ACTI": 10,
+    "WWED": 9,
+    "KYWD": 7,
+    "NPC_": 7
+   },
+   "compressed": 13,
+   "own_records": 2416,
+   "override_records": 22,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.003,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.043
+  },
+  {
+   "file": "SFBGS00D.esm",
+   "game": "starfield",
+   "bytes": 102054268,
+   "flags": "00000081",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    434991,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 434990,
+   "groups": 7005,
+   "record_types": 99,
+   "top_signatures": {
+    "REFR": 392305,
+    "RFGP": 16575,
+    "INFO": 7097,
+    "DIAL": 4189,
+    "NAVM": 4058,
+    "CELL": 2037,
+    "PGRE": 1323,
+    "LAYR": 851,
+    "PKIN": 760,
+    "ACHR": 646,
+    "SCEN": 535,
+    "LMSW": 494
+   },
+   "compressed": 5935,
+   "own_records": 434663,
+   "override_records": 327,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.244,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 4.838
+  },
+  {
+   "file": "sfbgs021.esm",
+   "game": "starfield",
+   "bytes": 81831,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    509,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 508,
+   "groups": 43,
+   "record_types": 15,
+   "top_signatures": {
+    "REFR": 450,
+    "RFGP": 21,
+    "STAT": 12,
+    "CELL": 7,
+    "PKIN": 6,
+    "NAVM": 2,
+    "STBH": 2,
+    "ACTI": 1,
+    "DOOR": 1,
+    "NAVI": 1,
+    "QUST": 1,
+    "MESG": 1
+   },
+   "compressed": 9,
+   "own_records": 507,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.004,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.004
+  },
+  {
+   "file": "sfbgs023.esm",
+   "game": "starfield",
+   "bytes": 27103,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    19,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 18,
+   "groups": 13,
+   "record_types": 10,
+   "top_signatures": {
+    "MRPH": 6,
+    "ARMA": 4,
+    "ARMO": 1,
+    "LVLI": 1,
+    "CELL": 1,
+    "REFR": 1,
+    "QUST": 1,
+    "MESG": 1,
+    "OTFT": 1,
+    "ARTO": 1
+   },
+   "compressed": 1,
+   "own_records": 17,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "SFBGS047.esm",
+   "game": "starfield",
+   "bytes": 472022,
+   "flags": "00000181",
+   "kind": "small",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    43,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs004.esm",
+     "kind": "small"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 42,
+   "groups": 29,
+   "record_types": 21,
+   "top_signatures": {
+    "BMOD": 12,
+    "REFR": 6,
+    "KYWD": 3,
+    "RACE": 2,
+    "CELL": 2,
+    "EFSQ": 2,
+    "PKIN": 1,
+    "MSTT": 1,
+    "FURN": 1,
+    "WEAP": 1,
+    "PROJ": 1,
+    "GBFM": 1
+   },
+   "compressed": 2,
+   "own_records": 40,
+   "override_records": 2,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.006
+  },
+  {
+   "file": "SFBGS050.esm",
+   "game": "starfield",
+   "bytes": 106017249,
+   "flags": "00000081",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    485320,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 485319,
+   "groups": 6039,
+   "record_types": 111,
+   "top_signatures": {
+    "REFR": 445596,
+    "RFGP": 16923,
+    "INFO": 6979,
+    "DIAL": 3580,
+    "NAVM": 1602,
+    "CELL": 1313,
+    "LMSW": 1273,
+    "ACHR": 877,
+    "PKIN": 733,
+    "LCRT": 559,
+    "LAYR": 503,
+    "LVLI": 493
+   },
+   "compressed": 3184,
+   "own_records": 478881,
+   "override_records": 6438,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.242,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 5.401
+  },
+  {
+   "file": "sfta01.esm",
+   "game": "starfield",
+   "bytes": 18576441,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    21851,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 21850,
+   "groups": 439,
+   "record_types": 59,
+   "top_signatures": {
+    "REFR": 19310,
+    "NAVM": 1102,
+    "RFGP": 309,
+    "INFO": 302,
+    "DIAL": 214,
+    "CELL": 164,
+    "LCRT": 64,
+    "ACHR": 60,
+    "PACK": 47,
+    "SCEN": 45,
+    "LAYR": 40,
+    "NPC_": 26
+   },
+   "compressed": 1080,
+   "own_records": 21234,
+   "override_records": 616,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.021,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.355
+  },
+  {
+   "file": "sfta02.esm",
+   "game": "starfield",
+   "bytes": 6756973,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    15035,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 15034,
+   "groups": 575,
+   "record_types": 56,
+   "top_signatures": {
+    "REFR": 11940,
+    "INFO": 847,
+    "NAVM": 765,
+    "DIAL": 499,
+    "RFGP": 372,
+    "LCRT": 56,
+    "PACK": 49,
+    "MESG": 41,
+    "SCEN": 39,
+    "NPC_": 36,
+    "LVLI": 30,
+    "CNDF": 29
+   },
+   "compressed": 826,
+   "own_records": 13970,
+   "override_records": 1064,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.012,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.178
+  },
+  {
+   "file": "sfta03.esm",
+   "game": "starfield",
+   "bytes": 11133126,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    45311,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 45310,
+   "groups": 938,
+   "record_types": 80,
+   "top_signatures": {
+    "REFR": 40162,
+    "RFGP": 1478,
+    "INFO": 1132,
+    "DIAL": 696,
+    "NAVM": 447,
+    "LCRT": 144,
+    "CELL": 144,
+    "ACHR": 139,
+    "SCEN": 84,
+    "LAYR": 72,
+    "NPC_": 71,
+    "PKIN": 54
+   },
+   "compressed": 632,
+   "own_records": 45300,
+   "override_records": 10,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.026,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 1.171
+  },
+  {
+   "file": "sfta04.esm",
+   "game": "starfield",
+   "bytes": 8861390,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    21376,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 21375,
+   "groups": 376,
+   "record_types": 60,
+   "top_signatures": {
+    "REFR": 19489,
+    "RFGP": 455,
+    "INFO": 363,
+    "NAVM": 319,
+    "DIAL": 206,
+    "CELL": 125,
+    "ACHR": 54,
+    "LVLI": 51,
+    "OMOD": 37,
+    "LAYR": 36,
+    "COBJ": 31,
+    "SCEN": 28
+   },
+   "compressed": 428,
+   "own_records": 21289,
+   "override_records": 86,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.016,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.295
+  },
+  {
+   "file": "sfta05.esm",
+   "game": "starfield",
+   "bytes": 7691926,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    20047,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 20046,
+   "groups": 508,
+   "record_types": 58,
+   "top_signatures": {
+    "REFR": 17260,
+    "RFGP": 786,
+    "INFO": 588,
+    "DIAL": 373,
+    "NAVM": 258,
+    "ACHR": 178,
+    "LCRT": 97,
+    "CELL": 81,
+    "PACK": 74,
+    "NPC_": 59,
+    "SCEN": 45,
+    "LAYR": 24
+   },
+   "compressed": 368,
+   "own_records": 19971,
+   "override_records": 75,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.013,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.242
+  },
+  {
+   "file": "sfta06.esm",
+   "game": "starfield",
+   "bytes": 10364237,
+   "flags": "00000481",
+   "kind": "medium",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    56400,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "compact",
+   "codec_assumptions": [],
+   "records": 56399,
+   "groups": 663,
+   "record_types": 67,
+   "top_signatures": {
+    "REFR": 52338,
+    "RFGP": 1636,
+    "INFO": 875,
+    "DIAL": 519,
+    "NAVM": 174,
+    "SFBK": 132,
+    "LMSW": 106,
+    "SCEN": 83,
+    "CELL": 61,
+    "LCRT": 49,
+    "PACK": 44,
+    "ACHR": 35
+   },
+   "compressed": 246,
+   "own_records": 56260,
+   "override_records": 139,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.03,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.706
+  },
+  {
+   "file": "ShatteredSpace.esm",
+   "game": "starfield",
+   "bytes": 501394621,
+   "flags": "00000081",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    1029529,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [
+    {
+     "name": "starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1029528,
+   "groups": 17747,
+   "record_types": 129,
+   "top_signatures": {
+    "REFR": 918610,
+    "NAVM": 29202,
+    "RFGP": 27660,
+    "INFO": 17938,
+    "DIAL": 9990,
+    "CELL": 4853,
+    "ACHR": 3551,
+    "LMSW": 2610,
+    "LAYR": 2555,
+    "PKIN": 1971,
+    "STAT": 1291,
+    "SCEN": 1023
+   },
+   "compressed": 33731,
+   "own_records": 1029437,
+   "override_records": 91,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 1.12,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 18.147
+  },
+  {
+   "file": "star_radio.esm",
+   "game": "starfield",
+   "bytes": 84444,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    262,
+    16780190
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 233,
+   "groups": 29,
+   "record_types": 20,
+   "top_signatures": {
+    "REFR": 138,
+    "TMLM": 18,
+    "ACTI": 14,
+    "GPOF": 11,
+    "MESG": 8,
+    "TERM": 6,
+    "COBJ": 5,
+    "BOOK": 4,
+    "MISC": 4,
+    "STAT": 4,
+    "WWED": 4,
+    "CELL": 3
+   },
+   "compressed": 5,
+   "own_records": 227,
+   "override_records": 6,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.003
+  },
+  {
+   "file": "Starfield.esm",
+   "game": "starfield",
+   "bytes": 1457098709,
+   "flags": "00000081",
+   "kind": "full",
+   "localized": true,
+   "hedr": [
+    0.9599999785423279,
+    3829247,
+    4278194176
+   ],
+   "count_convention": "records+1",
+   "masters": [],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 3829246,
+   "groups": 101341,
+   "record_types": 180,
+   "top_signatures": {
+    "REFR": 3291860,
+    "INFO": 126347,
+    "RFGP": 80584,
+    "DIAL": 68154,
+    "NAVM": 56576,
+    "CELL": 30717,
+    "STAT": 20607,
+    "LMSW": 12966,
+    "PKIN": 11281,
+    "ACHR": 9530,
+    "SCEN": 7613,
+    "NPC_": 7131
+   },
+   "compressed": 91149,
+   "own_records": 3829246,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 3.572,
+   "roundtrip_raw": true
+  },
+  {
+   "file": "starship_mechanic.esm",
+   "game": "starfield",
+   "bytes": 16067,
+   "flags": "00000401",
+   "kind": "medium",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    107,
+    2365
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 69,
+   "groups": 38,
+   "record_types": 16,
+   "top_signatures": {
+    "REFR": 38,
+    "CELL": 6,
+    "PKIN": 4,
+    "KYWD": 3,
+    "ACTI": 2,
+    "DOOR": 2,
+    "HAZD": 2,
+    "GBFM": 2,
+    "PHZD": 2,
+    "QUST": 2,
+    "SPEL": 1,
+    "BOOK": 1
+   },
+   "compressed": 6,
+   "own_records": 68,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.011
+  },
+  {
+   "file": "starship_mechanic.esp",
+   "game": "starfield",
+   "bytes": 16057,
+   "flags": "00000000",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    107,
+    2365
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 69,
+   "groups": 38,
+   "record_types": 16,
+   "top_signatures": {
+    "REFR": 38,
+    "CELL": 6,
+    "PKIN": 4,
+    "KYWD": 3,
+    "ACTI": 2,
+    "DOOR": 2,
+    "HAZD": 2,
+    "GBFM": 2,
+    "PHZD": 2,
+    "QUST": 2,
+    "SPEL": 1,
+    "BOOK": 1
+   },
+   "compressed": 6,
+   "own_records": 68,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.001
+  },
+  {
+   "file": "UndergroundExtractors.esm",
+   "game": "starfield",
+   "bytes": 216879,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    499,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 495,
+   "groups": 4,
+   "record_types": 4,
+   "top_signatures": {
+    "COBJ": 180,
+    "CONT": 135,
+    "LVLI": 135,
+    "FLST": 45
+   },
+   "compressed": 0,
+   "own_records": 495,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.007
+  },
+  {
+   "file": "useful brigs - free.esm",
+   "game": "starfield",
+   "bytes": 145548,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    749,
+    33556480
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs00d.esm",
+     "kind": "full"
+    },
+    {
+     "name": "sfbgs007.esm",
+     "kind": "small"
+    },
+    {
+     "name": "sfbgs003.esm",
+     "kind": "medium"
+    },
+    {
+     "name": "SFBGS006.esm",
+     "kind": "medium"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 584,
+   "groups": 165,
+   "record_types": 34,
+   "top_signatures": {
+    "REFR": 354,
+    "FURN": 41,
+    "GLOB": 35,
+    "CELL": 33,
+    "INFO": 23,
+    "GPOF": 17,
+    "DIAL": 9,
+    "KYWD": 8,
+    "SCEN": 7,
+    "FLST": 7,
+    "CNDF": 6,
+    "BOOK": 5
+   },
+   "compressed": 34,
+   "own_records": 425,
+   "override_records": 159,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.001,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.007
+  },
+  {
+   "file": "zakila.esm",
+   "game": "starfield",
+   "bytes": 524245,
+   "flags": "00000101",
+   "kind": "small",
+   "localized": false,
+   "hedr": [
+    0.9599999785423279,
+    1584,
+    16779264
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Starfield.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1457,
+   "groups": 127,
+   "record_types": 6,
+   "top_signatures": {
+    "REFR": 1333,
+    "LMSW": 43,
+    "CELL": 41,
+    "PKIN": 34,
+    "ACHR": 5,
+    "WRLD": 1
+   },
+   "compressed": 41,
+   "own_records": 1449,
+   "override_records": 8,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.002,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.012
+  },
+  {
+   "file": "Better Cities Resources.esm",
+   "game": "oblivion",
+   "bytes": 16766603,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    150224,
+    158602
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 145422,
+   "groups": 4802,
+   "record_types": 52,
+   "top_signatures": {
+    "REFR": 124458,
+    "INFO": 4547,
+    "PACK": 3232,
+    "STAT": 2461,
+    "DIAL": 1569,
+    "ACHR": 1163,
+    "CELL": 1148,
+    "NPC_": 1131,
+    "PGRD": 839,
+    "CONT": 444,
+    "MISC": 443,
+    "ACTI": 407
+   },
+   "compressed": 2188,
+   "own_records": 145368,
+   "override_records": 54,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.078,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 2.668
+  },
+  {
+   "file": "Cobl Main.esm",
+   "game": "oblivion",
+   "bytes": 4041426,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    4420,
+    22058
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 4372,
+   "groups": 48,
+   "record_types": 33,
+   "top_signatures": {
+    "LVLI": 1640,
+    "MISC": 506,
+    "SCPT": 481,
+    "BOOK": 221,
+    "INGR": 218,
+    "HAIR": 161,
+    "REFR": 157,
+    "EYES": 152,
+    "SPEL": 135,
+    "CONT": 128,
+    "ACTI": 113,
+    "WEAP": 109
+   },
+   "compressed": 2,
+   "own_records": 4371,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.011,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.048
+  },
+  {
+   "file": "LenasCompanions.esm",
+   "game": "oblivion",
+   "bytes": 831706,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    5264,
+    12217
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 5110,
+   "groups": 154,
+   "record_types": 33,
+   "top_signatures": {
+    "REFR": 4043,
+    "SPEL": 270,
+    "SCPT": 236,
+    "INFO": 142,
+    "DIAL": 103,
+    "FACT": 42,
+    "GLOB": 39,
+    "PACK": 36,
+    "CLOT": 33,
+    "IDLE": 21,
+    "CREA": 19,
+    "ANIO": 19
+   },
+   "compressed": 4,
+   "own_records": 5107,
+   "override_records": 3,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.008,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.032
+  },
+  {
+   "file": "Lovers with PK.esm",
+   "game": "oblivion",
+   "bytes": 64692,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    253,
+    9133
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 239,
+   "groups": 14,
+   "record_types": 11,
+   "top_signatures": {
+    "IDLE": 101,
+    "SCPT": 56,
+    "CLOT": 45,
+    "DIAL": 10,
+    "SPEL": 9,
+    "GLOB": 7,
+    "QUST": 4,
+    "EFSH": 4,
+    "CELL": 1,
+    "REFR": 1,
+    "PACK": 1
+   },
+   "compressed": 0,
+   "own_records": 239,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.006,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.002
+  },
+  {
+   "file": "MergedLOD.esm",
+   "game": "oblivion",
+   "bytes": 572773,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    6412,
+    8460
+   ],
+   "count_convention": "records+groups",
+   "masters": [],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 6412,
+   "groups": 1,
+   "record_types": 1,
+   "top_signatures": {
+    "STAT": 6412
+   },
+   "compressed": 0,
+   "own_records": 6412,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.015,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.031
+  },
+  {
+   "file": "Morrowind_ob.esm",
+   "game": "oblivion",
+   "bytes": 83874926,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    460390,
+    4278192128
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 431403,
+   "groups": 28987,
+   "record_types": 53,
+   "top_signatures": {
+    "REFR": 359516,
+    "INFO": 19610,
+    "CELL": 11988,
+    "LAND": 5919,
+    "PGRD": 5285,
+    "DIAL": 4043,
+    "ACHR": 3555,
+    "STAT": 3499,
+    "NPC_": 3146,
+    "ACRE": 1543,
+    "CONT": 1190,
+    "SPEL": 1131
+   },
+   "compressed": 14350,
+   "own_records": 431391,
+   "override_records": 12,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.257,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 4.341
+  },
+  {
+   "file": "Oblivion.esm",
+   "game": "oblivion",
+   "bytes": 277504985,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    1252095,
+    4278810189
+   ],
+   "count_convention": "records+groups",
+   "masters": [],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1167016,
+   "groups": 85079,
+   "record_types": 63,
+   "top_signatures": {
+    "REFR": 1025617,
+    "CELL": 35494,
+    "LAND": 31823,
+    "INFO": 19278,
+    "PGRD": 8228,
+    "PACK": 7209,
+    "STAT": 6014,
+    "DIAL": 3817,
+    "NPC_": 2482,
+    "SCPT": 2393,
+    "ACHR": 2190,
+    "LIGH": 1625
+   },
+   "compressed": 41789,
+   "own_records": 1167006,
+   "override_records": 0,
+   "unresolved_header_formids": 10,
+   "duplicate_formids": 0,
+   "index_seconds": 1.004,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 12.49
+  },
+  {
+   "file": "Oscuro's_Oblivion_Overhaul.esm",
+   "game": "oblivion",
+   "bytes": 7089893,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    20583,
+    409468
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 20365,
+   "groups": 218,
+   "record_types": 42,
+   "top_signatures": {
+    "REFR": 10702,
+    "LVLI": 2167,
+    "NPC_": 1135,
+    "ARMO": 714,
+    "SPEL": 688,
+    "SCPT": 651,
+    "PACK": 641,
+    "CREA": 629,
+    "LVLC": 543,
+    "CONT": 438,
+    "WEAP": 369,
+    "CLOT": 252
+   },
+   "compressed": 1170,
+   "own_records": 20361,
+   "override_records": 4,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.035,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.233
+  },
+  {
+   "file": "TamRes.esm",
+   "game": "oblivion",
+   "bytes": 953193,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    5241,
+    9657
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 5201,
+   "groups": 40,
+   "record_types": 36,
+   "top_signatures": {
+    "STAT": 2929,
+    "CONT": 256,
+    "MISC": 222,
+    "CREA": 173,
+    "FURN": 162,
+    "INGR": 153,
+    "ARMO": 152,
+    "REFR": 144,
+    "SOUN": 139,
+    "ACTI": 126,
+    "DOOR": 119,
+    "LVLI": 117
+   },
+   "compressed": 0,
+   "own_records": 5200,
+   "override_records": 1,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.032,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 1.601
+  },
+  {
+   "file": "TamRes_LandscapeResource.esm",
+   "game": "oblivion",
+   "bytes": 141020,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    1220,
+    24814
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1216,
+   "groups": 4,
+   "record_types": 4,
+   "top_signatures": {
+    "STAT": 1162,
+    "TREE": 40,
+    "LTEX": 13,
+    "WTHR": 1
+   },
+   "compressed": 0,
+   "own_records": 1216,
+   "override_records": 0,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.014,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.006
+  },
+  {
+   "file": "Toaster Says Share v3.esm",
+   "game": "oblivion",
+   "bytes": 300484,
+   "flags": "00000001",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    799,
+    305325
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 678,
+   "groups": 121,
+   "record_types": 28,
+   "top_signatures": {
+    "INFO": 162,
+    "SCPT": 87,
+    "REFR": 86,
+    "DIAL": 83,
+    "CLOT": 66,
+    "SPEL": 41,
+    "PACK": 41,
+    "ALCH": 24,
+    "IDLE": 16,
+    "CSTY": 10,
+    "MISC": 9,
+    "NPC_": 8
+   },
+   "compressed": 10,
+   "own_records": 670,
+   "override_records": 8,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.009,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.007
+  },
+  {
+   "file": "SummersetIsle.esp",
+   "game": "oblivion",
+   "bytes": 42002944,
+   "flags": "00000000",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    213081,
+    154472
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    },
+    {
+     "name": "Abecean.esp",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 192511,
+   "groups": 20570,
+   "record_types": 25,
+   "top_signatures": {
+    "REFR": 173383,
+    "CELL": 9513,
+    "LAND": 9298,
+    "PGRD": 107,
+    "REGN": 61,
+    "INFO": 27,
+    "STAT": 25,
+    "NPC_": 16,
+    "DIAL": 14,
+    "ACHR": 13,
+    "ACTI": 12,
+    "FACT": 9
+   },
+   "compressed": 9421,
+   "own_records": 192459,
+   "override_records": 52,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.119,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 2.01
+  },
+  {
+   "file": "Abecean.esp",
+   "game": "oblivion",
+   "bytes": 288449,
+   "flags": "00000000",
+   "kind": "full",
+   "localized": false,
+   "hedr": [
+    1.0,
+    1856,
+    17148
+   ],
+   "count_convention": "records+groups",
+   "masters": [
+    {
+     "name": "Oblivion.esm",
+     "kind": "full"
+    }
+   ],
+   "own_style": "ordinal",
+   "codec_assumptions": [],
+   "records": 1813,
+   "groups": 43,
+   "record_types": 30,
+   "top_signatures": {
+    "STAT": 1386,
+    "CREA": 127,
+    "FLOR": 49,
+    "IDLE": 45,
+    "TREE": 43,
+    "ARMO": 30,
+    "LTEX": 23,
+    "SOUN": 14,
+    "PACK": 13,
+    "CLOT": 10,
+    "LVLC": 10,
+    "ACTI": 9
+   },
+   "compressed": 2,
+   "own_records": 1807,
+   "override_records": 6,
+   "unresolved_header_formids": 0,
+   "duplicate_formids": 0,
+   "index_seconds": 0.004,
+   "roundtrip_raw": true,
+   "roundtrip_fields": true,
+   "fields_seconds": 0.012
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyfield-csvgame"
+version = "0.1.0"
+description = "Reference third-party PyField adapter (an invented 'CSV game' format)."
+requires-python = ">=3.11"
+dependencies = ["pyfield>=0.2.0.dev0,<0.3"]
+
+# PyField discovers adapters through this entry-point group.
+[project.entry-points."pyfield.adapters"]
+csvgame = "pyfield_csvgame:make_adapter"
+
+[tool.setuptools.packages.find]
+where = ["src"]
